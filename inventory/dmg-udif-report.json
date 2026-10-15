@@ -1,0 +1,210 @@
+[
+ {
+  "name": "Protective Master Boot Record\u00d4\u00ba\u00e0MBR\u00d4\u00ba\u00f60\u00d4\u00ba\u00e2",
+  "sector_number": 0,
+  "sector_count": 1,
+  "data_offset": 0,
+  "chunks": [
+   {
+    "type": "0x80000005",
+    "type_name": "bzip2?",
+    "sector": 0,
+    "sectors": 1,
+    "src": 0,
+    "len": 30,
+    "status": "zlib ok (512 B)"
+   },
+   {
+    "type": "0xffffffff",
+    "type_name": "terminator",
+    "sector": 1,
+    "sectors": 0,
+    "src": 30,
+    "len": 0,
+    "status": "meta"
+   }
+  ]
+ },
+ {
+  "name": "GPT Header\u00d4\u00ba\u00e0Primary GPT Header\u00d4\u00ba\u00f61\u00d4\u00ba\u00e2",
+  "sector_number": 1,
+  "sector_count": 1,
+  "data_offset": 0,
+  "chunks": [
+   {
+    "type": "0x80000005",
+    "type_name": "bzip2?",
+    "sector": 0,
+    "sectors": 1,
+    "src": 30,
+    "len": 74,
+    "status": "zlib ok (512 B)"
+   },
+   {
+    "type": "0xffffffff",
+    "type_name": "terminator",
+    "sector": 1,
+    "sectors": 0,
+    "src": 104,
+    "len": 0,
+    "status": "meta"
+   }
+  ]
+ },
+ {
+  "name": "GPT Partition Data\u00d4\u00ba\u00e0Primary GPT Table\u00d4\u00ba\u00f62\u00d4\u00ba\u00e2",
+  "sector_number": 2,
+  "sector_count": 32,
+  "data_offset": 0,
+  "chunks": [
+   {
+    "type": "0x80000005",
+    "type_name": "bzip2?",
+    "sector": 0,
+    "sectors": 32,
+    "src": 104,
+    "len": 113,
+    "status": "zlib ok (16384 B)"
+   },
+   {
+    "type": "0xffffffff",
+    "type_name": "terminator",
+    "sector": 32,
+    "sectors": 0,
+    "src": 217,
+    "len": 0,
+    "status": "meta"
+   }
+  ]
+ },
+ {
+  "name": "\u00d4\u00ba\u00e0Apple_Free\u00d4\u00ba\u00f63\u00d4\u00ba\u00e2",
+  "sector_number": 34,
+  "sector_count": 6,
+  "data_offset": 0,
+  "chunks": [
+   {
+    "type": "0x2",
+    "type_name": "ignore",
+    "sector": 0,
+    "sectors": 6,
+    "src": 217,
+    "len": 0,
+    "status": "ignore (3072 B)"
+   },
+   {
+    "type": "0xffffffff",
+    "type_name": "terminator",
+    "sector": 6,
+    "sectors": 0,
+    "src": 217,
+    "len": 0,
+    "status": "meta"
+   }
+  ]
+ },
+ {
+  "name": "disk image\u00d4\u00ba\u00e0Apple_HFS\u00d4\u00ba\u00f64\u00d4\u00ba\u00e2",
+  "sector_number": 40,
+  "sector_count": 99920,
+  "data_offset": 0,
+  "chunks": [
+   {
+    "type": "0x80000005",
+    "type_name": "bzip2?",
+    "sector": 0,
+    "sectors": 2048,
+    "src": 217,
+    "len": 5323,
+    "status": "zlib ok (1048576 B)"
+   },
+   {
+    "type": "0x80000005",
+    "type_name": "bzip2?",
+    "sector": 2048,
+    "sectors": 16,
+    "src": 5540,
+    "len": 31,
+    "status": "zlib ok (8192 B)"
+   }
+  ]
+ },
+ {
+  "name": "\u00d4\u00ba\u00e0Apple_Free\u00d4\u00ba\u00f65\u00d4\u00ba\u00e2",
+  "sector_number": 99960,
+  "sector_count": 7,
+  "data_offset": 0,
+  "chunks": [
+   {
+    "type": "0x2",
+    "type_name": "ignore",
+    "sector": 0,
+    "sectors": 7,
+    "src": 4787660,
+    "len": 0,
+    "status": "ignore (3584 B)"
+   },
+   {
+    "type": "0xffffffff",
+    "type_name": "terminator",
+    "sector": 7,
+    "sectors": 0,
+    "src": 4787660,
+    "len": 0,
+    "status": "meta"
+   }
+  ]
+ },
+ {
+  "name": "GPT Partition Data\u00d4\u00ba\u00e0Backup GPT Table\u00d4\u00ba\u00f66\u00d4\u00ba\u00e2",
+  "sector_number": 99967,
+  "sector_count": 32,
+  "data_offset": 0,
+  "chunks": [
+   {
+    "type": "0x80000005",
+    "type_name": "bzip2?",
+    "sector": 0,
+    "sectors": 32,
+    "src": 4787660,
+    "len": 113,
+    "status": "zlib ok (16384 B)"
+   },
+   {
+    "type": "0xffffffff",
+    "type_name": "terminator",
+    "sector": 32,
+    "sectors": 0,
+    "src": 4787773,
+    "len": 0,
+    "status": "meta"
+   }
+  ]
+ },
+ {
+  "name": "GPT Header\u00d4\u00ba\u00e0Backup GPT Header\u00d4\u00ba\u00f67\u00d4\u00ba\u00e2",
+  "sector_number": 99999,
+  "sector_count": 1,
+  "data_offset": 0,
+  "chunks": [
+   {
+    "type": "0x80000005",
+    "type_name": "bzip2?",
+    "sector": 0,
+    "sectors": 1,
+    "src": 4787773,
+    "len": 77,
+    "status": "zlib ok (512 B)"
+   },
+   {
+    "type": "0xffffffff",
+    "type_name": "terminator",
+    "sector": 1,
+    "sectors": 0,
+    "src": 4787850,
+    "len": 0,
+    "status": "meta"
+   }
+  ]
+ }
+]

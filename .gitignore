@@ -1,0 +1,16 @@
+# Never commit third-party proprietary binaries or large payloads
+downloads/
+extracted/
+tools/
+*.zip
+*.exe
+*.dll
+*.dmg
+*.bin
+*.sys
+*.qmlc
+*.so
+*.dylib
+__pycache__/
+*.pyc
+.DS_Store
