@@ -1,0 +1,634 @@
+        <requestedExecutionLevel level='requireAdministrator' uiAccess='false' />
+      </requestedPrivileges>
+      <requestedPrivileges>
+    </security>
+    <security>
+  ;l*B
+  </trustInfo>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+ +Njvori
+ /SendInfo Window "
+ A^^[
+ A_A^A\
+ A_A^A]
+ A_A^_
+ GlobalSign Code Signing Root R450
+ H3E H3E
+ VID "
+!This program cannot be run in DOS mode.
+!http://ocsp.globalsign.com/rootr30;
+" Activity "
+" Attribute "
+" Source "
+"9<x:
+">A\i
+#btx-
+$_RnO
+%W=lx
+%http://crl.globalsign.com/root-r3.crl0G
+&&ba19&
+&Data Recovery Wizard has been running!
+&GlobalSign GCC R45 CodeSigning CA 2020
+&GlobalSign GCC R45 CodeSigning CA 20200
+&IlsS
+&J=|4
+&https://www.globalsign.com/repository/0
+'Chengdu Yiwo Tech Development Co., Ltd.0
+'Chengdu Yiwo Tech Development Co., Ltd.100.
+'N{Ric
+'Z*Y 
+'nZ9-J?
+(A^A]^[
+)? TN
+)c+U~
+)d(&;
+)qTPV
+)wz^}
+*5w-)
+*;<m0
+*Zz0dB
++'K/c
++:Dr}n
++~Dp"W
+-NALF
+-YmN?"
+-cm]8
+-http://ocsp.globalsign.com/codesigningrootr450F
+-recycle
+-right
+-wp5u
+.00cfg
+.84fG
+.?AUIAtlMemMgr@ATL@@
+.?AUIAtlStringMgr@ATL@@
+.?AVCAtlException@ATL@@
+.?AVCAtlStringMgr@ATL@@
+.?AVCFileMappingLog@@
+.?AVCWin32Heap@ATL@@
+.?AVIEsLog@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVexception@std@@
+.?AVtype_info@@
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+._RS(+
+.data
+.data$r
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.la}]"
+.pdata
+.rdata
+.rdata$T
+.rdata$r
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+/0-0+
+/1(0&0$0"
+/P?7]Z9
+/http://secure.globalsign.com/cacert/root-r3.crt06
+080404b0
+0L1 0
+0VbTX
+0V}{z
+0http://crl.globalsign.com/codesigningrootr45.crl0V
+0i0Y1
+0}0i1
+19G(r
+1Aqr)
+1http://ocsp.globalsign.com/gsgccr45codesignca20200V
+200728000000Z
+20261013060603Z
+20402
+21.0.0.0
+220801000000Z
+23;|\
+250507000000Z
+260520025500Z
+260805000000Z
+261013060603Z0+
+270521025500Z0
+290318000000Z0S1
+2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+2a$P(E
+2a,9t
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+300728000000Z0Y1
+311109235959Z0b1
+36{Q"
+371104235959Z0c1
+380114235959Z0i1
+3Ks\ 
+3O~EN
+3g^_w
+4&u^`
+4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+5FjiT
+5TW)z
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+5i3_ 
+6,J<p4
+6DlE1
+6['[0
+6`&I:
+7"r-t
+7(3Cg 
+715y,
+7<zsK
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+8/ '9
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8_^][
+8eXIfMM
+8i_A@g
+8v8{H
+9PZe?
+9^pm4
+9}r*o
+:,Xw)
+:,\/0-
+:0806
+:U|r*C
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+;+,~*
+;^Xu&H
+;b]\{
+;k*Tz
+;pN1?2)
+;{!#[
+</assembly>
+<0:08
+<5@5RLS
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<Vl]'A
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+=cIDAT
+>0<0:
+>http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=
+>i!(^[+
+>k)u8
+?DebugTrace@@YAXPEBDZZ
+?X$&*
+?_Xlength_error@std@@YAXPEBD@Z
+?k3wD'
+?uP\w
+@!z\0%=
+@.data
+@.rsrc
+@0>0<
+@A_A^A\
+@SUWH
+@SVAUAVH
+@SVAVH
+@SVWH
+@USVWATAUAVAWH
+@USVWATAVAWH
+@Zahn
+@bk%{
+@t`(>
+A9?v;I
+A?"hKt
+ADVAPI32.dll
+A_A^A\_^[]
+A_A^A]A\]
+A_A^A]A\_^[]
+A_A^A]_]
+Ai.XS
+AllocateAndInitializeSid
+AuJV@C
+BSP5JE
+Bng~B
+C&]?!I
+CHENGDU YIWO Tech Development Co., Ltd
+C\$HH
+C\$HL
+C\$hH
+Chengdu100.
+Chinese.dll
+CloseHandle
+CompanyName
+Copyright EaseUS. All rights reserved.
+Crash
+CreateDirectoryA
+CreateEventA
+CreateEventW
+CreateFileA
+CreateFileMappingA
+CreateMutexA
+CreateProcessA
+CreateProcessW
+D$ E3
+D$HE3
+D$XfD
+D$Xfff
+D$pE3
+D$xfD
+D9d$Xt
+DRWLOG_{1BFCF65F-0766-4a71-B7A3-2EB2CD1412DE}
+DRWLog.log
+DRWReport.exe
+DRWUI
+DRW_Crash_{FC1A0E29-3523-4152-B110-3340363E5DB7}
+DRW_Memory_Crash_{c3d61a40-a3e6-402b-b373-fd90d30893c8}
+DRW_{1E956C11-4D20-49d7-B4C7-016A342A2D39}
+Data Recovery Wizard
+DehSa
+DeleteCriticalSection
+Deutsch
+Deutsch.dll
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+E:\DRW\_drw_main\DRWIntelligentScan\DRWLoader\x64\Release\DRWLoader.pdb
+ED$`H
+ERROR : Unable to initialize critical section in CAtlBaseModule
+EaseUS Data Recovery Wizard
+EnterCriticalSection
+EqualSid
+FYou must have administrator rights to run EaseUS Data Recovery Wizard!OData Recovery Wizard should be running Under Windows 2000/XP/2003/VISTA/7/2008!
+Failed
+Failed to create map file!
+Failed to map the map file!
+Failed to request the permission to write to buffer!
+Failed to request the permission to write to log file!
+FileDescription
+FileVersion
+FindResourceExW
+FindResourceW
+Folder
+FrF9<
+FreeLibrary
+FreeSid
+G$3-Q
+G0>|I
+GenuD
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThread
+GetCurrentThreadId
+GetExitCodeProcess
+GetLastError
+GetLocalTime
+GetModuleFileNameA
+GetModuleFileNameW
+GetModuleHandleW
+GetPrivateProfileStringA
+GetProcAddress
+GetProcessHeap
+GetStartupInfoW
+GetSystemTimeAsFileTime
+GetTickCount64
+GetTokenInformation
+GetVersion
+GlobalSign Root CA - R31
+GlobalSign nv-sa1)0'
+GlobalSign nv-sa1/0-
+GlobalSign0
+GlobalSign1
+GqUDBe
+H&t$]
+H)?]4K
+HPB7b4
+HeapAlloc
+HeapDestroy
+HeapFree
+HeapReAlloc
+HeapSize
+I!`PZ
+I@M<w
+IDATx
+IMX-f0
+InfoForSetup.exe
+InitializeConditionVariable
+InitializeCriticalSectionAndSpinCount
+InitializeCriticalSectionEx
+InitializeSListHead
+InternalName
+IsDebuggerPresent
+IsProcessorFeaturePresent
+J#}rY1
+J2Ad\
+Japanese
+Japanese.dll
+JmZ6,/
+KERNEL32.dll
+K|H/w
+L$ SUVWH
+L$ SVWH
+L$4E3
+Language
+LeaveCriticalSection
+LegalCopyright
+LoadLibraryA
+LoadResource
+LoadStringA
+Loader
+Loader_Exit
+Loader_Start
+LockResource
+L}0Xc
+M H1E
+MHM9i
+MSVCP140.dll
+MapViewOfFile
+Mc4n,
+MessageBoxA
+N&pT3
+NCt|.
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+Nr)Jm:
+O0M0A
+OBDBYfy
+Ob,&1
+OpenProcessToken
+OpenThreadToken
+OriginalFilename
+OutputDebugStringA
+OutputDebugStringW
+OxeE\[
+Pg,%MV
+PpU8z
+ProductName
+ProductVersion
+PubLog.dll
+PveZY=
+Q?/V/v
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+QueryPerformanceCounter
+Q{s7./
+RNjOT
+RaiseException
+RecycleBin
+RegCloseKey
+RegOpenKeyExA
+RegOpenKeyExW
+RegQueryValueExA
+RegQueryValueExW
+ReleaseMutex
+ResetEvent
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SOFTWARE\EASEUS\DRW\Language
+SOFTWARE\EASEUS\DRW\Version
+SetEnvironmentVariableA
+SetEvent
+SetUnhandledExceptionFilter
+Sichuan1
+SizeofResource
+SleepConditionVariableCS
+StringFileInfo
+T*/|z$]
+TR)^O
+TerminateProcess
+Testid
+Translation
+Trigger_Appcrash
+Trigger_Load
+Ts6a5
+U5@D<Y</
+UATAUAVAWH
+USER32.dll
+UWAUAVAWH
+UZKzu
+UnhandledExceptionFilter
+Unknown exception
+UnmapViewOfFile
+VAqBwj
+VCRUNTIME140.dll
+VS_VERSION_INFO
+V`m~"
+VarFileInfo
+WAVAWH
+WL\Ut
+WaitForMultipleObjects
+WaitForSingleObject
+WaitForSingleObjectEx
+WakeAllConditionVariable
+WideCharToMultiByte
+Wk(#<
+WriteFile
+W}ga6
+X(cC]
+X0V0T
+YI7xj
+Ypl6f
+ZpH0Z5
+[bE]s.b
+\$ UH
+\kT49t
+\|-bY)ad
+]J<0"0i3
+]Pj<)p
+]TYwqR
+]`VevI
+]n$#n[
+^cS;7
+_"bBM
+_4[Qh1c
+_CxxThrowException
+__C_specific_handler
+__CxxFrameHandler3
+____---CrashEvent = %X
+____---MemoryCrashEvent = %X
+____---Pos = %d
+____---Start DRW.
+____---hProcess = %X
+__p__commode
+__setusermatherr
+__std_exception_copy
+__std_exception_destroy
+__std_terminate
+__stdio_common_vsprintf
+__stdio_common_vsprintf_s
+__stdio_common_vswprintf
+_c_exit
+_callnewh
+_cexit
+_configthreadlocale
+_configure_narrow_argv
+_crt_atexit
+_errno
+_exit
+_get_narrow_winmain_command_line
+_initialize_narrow_environment
+_initialize_onexit_table
+_initterm
+_initterm_e
+_invalid_parameter_noinfo
+_invalid_parameter_noinfo_noreturn
+_mbscmp
+_mbsrchr
+_purecall
+_register_onexit_function
+_register_thread_local_exe_atexit_callback
+_seh_filter_exe
+_set_app_type
+_set_fmode
+_set_new_mode
+_splitpath_s
+_stricmp
+`)w<D
+`.rdata
+`dLk~
+a:m1&
+a;)REu
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-multibyte-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+b wul
+bG<1S
+bad allocation
+bad array new length
+c>ZE)_
+cJA.Bd 
+cKF6^
+calloc
+channelName
+cj&MT
+comeorg
+config/version.ini
+d%)Yx
+dSuccess
+d^2pF1:p
+e2(H&(
+e6.^kbd
+easeus
+ehM9`
+eizX.HH
+fB9<@u
+fkx[ 
+fuxin
+g)m>Q
+g6__Ne
+h(_jPS
+h(y"Kc
+h5z(#
+hi+RqJ
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0]
+i46C+`V
+jNE&:& 
+jPeNS
+j\' _
+k0i0$
+k\s 5
+k` K<
+kernel32.dll
+kfm2lk^
+kuwov`Wv
+kxXgMt
+l46Wh
+l[a$%e
+loFN\
+m0k0$
+malloc
+memcpy
+memmove
+memset
+m|x+v
+n0l0-
+n6Y')
+ntelA
+o84s[
+o~f6z7
+pKD/V<>
+p\$x %
+q<A[<
+qp<2a
+r$krhno>
+r)+r 
+rzl~#
+sWn?W8
+sXT#+,m
+si%cN
+spT<<~
+startTS
+startTS=%d-%d-%d %d:%d:%d:%d
+strcat_s
+strcmp
+string too long
+t$ UH
+t$ WH
+t$HI;
+tID9.w"3
+terminate
+tqx,b
+tsg1z
+u-*h$
+u0HcH<H
+u5E/l
+uMH9_
+uf>vM
+v=Y]Bv
+vcU.m
+versionFrom
+wJ['X
+wcsrchr
+we2u>
+wqxtM
+www.digicert.com1!0
+www.digicert.com1$0"
+x AVH
+x*>Ad&
+yxw)t
+z0dr%
+z2Gg0
+zCiz\&
+zdg(V
+{:wmw
+{\"Elapsed\":\"%I64d\",\"Error\":\"%d\",\"Result\":\"%s\"}
+|$ ATAVAWH
+|$ AUAVAWH
+|$XIc
+|Lu?c
+|YGVH
+}a^Ao
+~OW1n
+~l"|E
+~qj#k"
+~rZ*{

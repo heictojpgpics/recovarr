@@ -1,0 +1,518 @@
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+      <requestedPrivileges>
+    </security>
+    <security>
+  </trustInfo>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+ A^][
+ A^_^
+ A_A^A\
+ A_A^A\^]
+ A_A^A]A\_
+ A_A^_
+ A__^
+ GlobalSign Code Signing Root R450
+ H3E H3E
+!This program cannot be run in DOS mode.
+!http://ocsp.globalsign.com/rootr30;
+!}4/4
+"9<x:
+#eC{peC{peC{pl;
+%http://crl.globalsign.com/root-r3.crl0G
+&GlobalSign GCC R45 CodeSigning CA 2020
+&GlobalSign GCC R45 CodeSigning CA 20200
+&https://www.globalsign.com/repository/0
+'Chengdu Yiwo Tech Development Co., Ltd.0
+'Chengdu Yiwo Tech Development Co., Ltd.100.
+'zq`C{peCzp&C{p
+(A^A\_^
+(A^A]_[
+)D$PC
+)D$pC
+)L$`C
+*rq~C{p
+*yqdC{pRicheC{p
+*{qdC{p
+-http://ocsp.globalsign.com/codesigningrootr450F
+.00cfg
+.?AURefsBaseDataImpl@refs@@
+.?AURefsCheckPointImpl@refs@@
+.?AURefsDbrImpl@refs@@
+.?AURefsDirectoryValuesImpl@refs@@
+.?AURefsFileValuesImpl@refs@@
+.?AURefsMSTreeHeaderDescImpl@refs@@
+.?AURefsMetadataBlockHeaderImpl@refs@@
+.?AURefsMetadataBlockRefrenceImpl@refs@@
+.?AURefsNodeHeaderImpl@refs@@
+.?AURefsNodeRecordImpl@refs@@
+.?AURefsSupperBlockImpl@refs@@
+.?AV?$RefsBaseDataImplManager@URefsCheckPointImpl@refs@@@refs@@
+.?AV?$RefsBaseDataImplManager@URefsDbrImpl@refs@@@refs@@
+.?AV?$RefsBaseDataImplManager@URefsDirectoryValuesImpl@refs@@@refs@@
+.?AV?$RefsBaseDataImplManager@URefsFileValuesImpl@refs@@@refs@@
+.?AV?$RefsBaseDataImplManager@URefsMSTreeHeaderDescImpl@refs@@@refs@@
+.?AV?$RefsBaseDataImplManager@URefsMetadataBlockHeaderImpl@refs@@@refs@@
+.?AV?$RefsBaseDataImplManager@URefsMetadataBlockRefrenceImpl@refs@@@refs@@
+.?AV?$RefsBaseDataImplManager@URefsNodeHeaderImpl@refs@@@refs@@
+.?AV?$RefsBaseDataImplManager@URefsNodeRecordImpl@refs@@@refs@@
+.?AV?$RefsBaseDataImplManager@URefsSupperBlockImpl@refs@@@refs@@
+.?AV?$_Binder@U_Unforced@std@@P8RefsQuickSearchFilesImpl@@EAAXAEBVRefsNodeRecord@refs@@AEBV?$list@_KV?$allocator@_K@std@@@2@_K@ZPEAU3@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8RefsQuickSearchFilesImpl@@EAA_N_KAEAPEAVRefsFileProperties@refs@@@ZPEAU3@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@
+.?AV?$_Func_base@XAEBVRefsNodeRecord@refs@@AEBV?$list@_KV?$allocator@_K@std@@@std@@_K@std@@
+.?AV?$_Func_base@_N_KAEAPEAVRefsFileProperties@refs@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8RefsQuickSearchFilesImpl@@EAAXAEBVRefsNodeRecord@refs@@AEBV?$list@_KV?$allocator@_K@std@@@2@_K@ZPEAU3@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XAEBVRefsNodeRecord@refs@@AEBV?$list@_KV?$allocator@_K@std@@@2@_K@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8RefsQuickSearchFilesImpl@@EAA_N_KAEAPEAVRefsFileProperties@refs@@@ZPEAU3@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@@std@@_N_KAEAPEAVRefsFileProperties@refs@@@std@@
+.?AV?$_Ref_count_obj@VRefsBasicDevice@refs@@@std@@
+.?AVCFileNode@@
+.?AVCFileSystemNode@@
+.?AVCNoneResidentNTFSDataRunList@@
+.?AVCReFSDataRunList@@
+.?AVCRefsResidentDataRunList@@
+.?AVCSearchedPartitionInfo@@
+.?AVICompleteFileSystemSearchController@@
+.?AVIDataRunList@@
+.?AVIFileProperties@@
+.?AVIFileSystemSearchController@@
+.?AVIQuickFileSystemSearchController@@
+.?AVRefsCheckPoint@refs@@
+.?AVRefsDbr@refs@@
+.?AVRefsDirectoryValues@refs@@
+.?AVRefsFileProperties@refs@@
+.?AVRefsFileValues@refs@@
+.?AVRefsMSTreeHeaderDesc@refs@@
+.?AVRefsMetadataBlockHeader@refs@@
+.?AVRefsMetadataBlockReference@refs@@
+.?AVRefsNodeHeader@refs@@
+.?AVRefsNodeRecord@refs@@
+.?AVRefsPartitionInformation@refs@@
+.?AVRefsQuickSearchFiles@@
+.?AVRefsSearchController@@
+.?AVRefsSupperBlock@refs@@
+.?AV_Ref_count_base@std@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVexception@std@@
+.?AVtype_info@@
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.data
+.data$r
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.pdata
+.rdata
+.rdata$r
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.xdata
+.xdata$x
+/0-0+
+/1(0&0$0"
+/http://secure.globalsign.com/cacert/root-r3.crt06
+0A_A^A\
+0A_A^A\_^
+0A_A^A]A\_
+0A_A^A]A\_^]
+0A_A^_^[
+0A_A^_^]
+0L1 0
+0http://crl.globalsign.com/codesigningrootr45.crl0V
+0i0Y1
+0}0i1
+1http://ocsp.globalsign.com/gsgccr45codesignca20200V
+200728000000Z
+20261013060652Z
+20402
+220801000000Z
+250507000000Z
+260520025500Z
+260805000000Z
+261013060652Z0+
+270521025500Z0
+290318000000Z0S1
+2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+300728000000Z0Y1
+311109235959Z0b1
+371104235959Z0c1
+380114235959Z0i1
+3O~EN
+4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+5FjiT
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+8A_A\][
+8A_A^A\_^[
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8i_A@g
+9C }%L
+:0806
+:U|r*C
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+;t$Hr
+</assembly>
+<0:08
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+>0<0:
+>http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=
+?_Xbad_function_call@std@@YAXXZ
+?_Xlength_error@std@@YAXPEBD@Z
+@!z\0%=
+@.data
+@.reloc
+@.rsrc
+@0>0<
+@1H9A1
+@8H+A0H
+@A^_^
+@A_A^A\
+@A_A^_
+@SAVH
+@SUATAWH
+@SUWH
+@SVWH
+@SWAUAVH
+@USVWATAUAVAWH
+@UVATAVAWH
+@UVWATAUAVAWH
+@UVWATAWH
+@UVWH
+@VAVH
+@VWATAVH
+@VWAVH
+@WATAUAVAWH
+@WAVAWH
+@l2Sr
+@r2Cr$
+@s2Cs$
+@t2Ct$
+A0@rH
+A0@tA
+A0HtH
+A2@rA
+A2HsA
+A8E/uYH
+A;P A
+A;v }
+ATAVAWH
+A^A]_
+A_A\_^]
+A_A^A\_]
+A_A^A\_^
+A_A^A]A\]
+A_A^A]A\_
+A_A^A]A\_^[]
+A_A^A]A\_^]
+A_A^A]A\_^][
+A_A^]
+A_A^_
+B H+B
+B@A8E/s|H
+Bng~B
+C(;l$h
+C1H9G1uP@
+CHKPSUPBMSB+ReFSFSRS
+Chengdu100.
+Cs H9
+CsA2@s$
+Ctv$u+^`
+D$ HcL$0H
+D$!HcL$0H
+D$(E3
+D$(H-
+D$(H;
+D$(L;
+D$(fD
+D$0@8p
+D$0I9Q
+D$0L;
+D$8H;
+D$8I;
+D$@@8h
+D$@D8h
+D$@fD
+D$PE3
+D$PH;
+D$XE3
+D$XI;
+D$`fD
+D$pH;
+D$x9D$0
+D9d$h
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+E:\DRW\_drw_main\DRWIntelligentScan\bin\Release\x64\ReFSSearchDLL.pdb
+EUCreateReFSQuickSearcher
+EUCreateReFSSearcher
+EXFAT
+Exception occurred.GetErrorCode
+FAT12
+FAT16
+FAT32
+GenuD
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetVersion
+GlobalSign Root CA - R31
+GlobalSign nv-sa1)0'
+GlobalSign nv-sa1/0-
+GlobalSign0
+GlobalSign1
+Gr2Cr$
+H9A s
+H9B s
+H9C s*H
+H9H s.
+H9H(t
+H9P s
+H9x }
+H;A s
+H;B s
+H;D$Hs
+H;Q s
+H;S s8H
+H;\$P
+H;x }
+HA_A]A\]
+HFSPLUS
+HcD$(H
+HcD$0H
+HcD$4H
+Hs2Ks
+Ht2KtI
+I9E0t
+I9q s@I
+I;P A
+I;]ju
+I;q s4H
+InitializeSListHead
+IsDebuggerPresent
+IsProcessorFeaturePresent
+JmZ6,/
+KERNEL32.dll
+L$ SWH
+L$ UVWATAUAVAWH
+L$ WAVAWH
+L$(H#
+L$(H+
+L$(H;
+L$@H3
+L$@H;
+L$PH3
+L$XH3
+L$XH;
+L$hH3
+L$xH3
+L(@D;
+L+`0L
+L9A s
+L9X(t^H
+L9` u
+L9d$p
+L9l$0A
+L9t$@u
+L;@ A
+L;@ s
+L;H s
+M H1E
+MSVCP140.dll
+MXL9M
+N I9F0t
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+O0M0A
+P H+P
+P L;J
+PA^_^
+PA^_^][
+PA_A^A]A\_^]
+Pg,%MV
+Pp9|$$t
+PpHcL$@
+Ppf9|$ vN3
+Pr2Sr
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+QueryPerformanceCounter
+RNjOT
+ReFSSearchDLL.dll
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SUAVH
+SUVWATAUAVAWH
+SUVWAVAWH
+SUVWAVH
+SUVWH
+SVWATAVAWH
+SVWAVAWH
+SetUnhandledExceptionFilter
+Sichuan1
+System Volume Information
+T$ H+
+T$0H+
+T$0H;
+T$@H+
+T$HH+
+T$XH+
+T$`H+
+T$pH;
+TUUUUUU
+TerminateProcess
+U5@D<Y</
+UATAUAVAWH
+UATAUAWH
+UAVAWH
+USVWATAUAVAWH
+UVWATAUAVAWH
+UVWAVAWH
+UWATAVAWH
+UXL9M
+UnhandledExceptionFilter
+Unknown exception
+VCRUNTIME140.dll
+VWATAVAWH
+VWAVH
+VWAWH
+WATAUAVAWH
+WAUAVH
+WAVAWH
+WideCharToMultiByte
+X0V0T
+XL G4
+YI7xj
+\$ UH
+\$ VH
+\$ fff
+\$0H+
+\zZpX
+]J<0"0i3
+_4[Qh1c
+_CxxThrowException
+_Mtx_destroy_in_situ
+_Mtx_init_in_situ
+__C_specific_handler
+__CxxFrameHandler3
+__acrt_iob_func
+__std_exception_copy
+__std_exception_destroy
+__std_terminate
+__std_type_info_destroy_list
+__stdio_common_vfprintf
+_callnewh
+_cexit
+_configure_narrow_argv
+_crt_atexit
+_execute_onexit_table
+_initialize_narrow_environment
+_initialize_onexit_table
+_initterm
+_initterm_e
+_invalid_parameter_noinfo_noreturn
+_purecall
+_register_onexit_function
+_seh_filter_dll
+`.rdata
+`A_A^A]A\_^]
+a:m1&
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+b wul
+bad allocation
+bad array new length
+d$@L;
+d$PLc
+deque<T> too long
+effffff
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0]
+jPeNS
+k0i0$
+kxXgMt
+l$ WH
+l$0E3
+l$@H;
+list<T> too long
+m0k0$
+malloc
+map/set<T> too long
+memchr
+memcmp
+memcpy
+memmove
+memset
+n0l0-
+ntelA
+o84s[
+pA_A^A]A\_^]
+p\$x %
+pcC{p7+
+pdC{p
+qmC{p7+xqgC{p7+~qsC{p7+zqaC{p
+sO;C sJ
+string too long
+t"L9p
+t$ AVH
+t$ WH
+t$0H+
+t$8E3
+t$@H=
+t$PH;
+t$fff
+t2fff
+tsg1z
+tvH;9t
+u"9p }
+u#H9P s
+u#L9I s
+u+fD9s
+ub'vb'v
+urI;Mjt
+v=Y]Bv
+vector<T> too long
+www.digicert.com1!0
+www.digicert.com1$0"
+x ATAVAWH
+x AVH
+xA_A^A]A\_^[]
+|$ ATAVAWH
+|$ AVH
+|$(E3
+|$0E3
+|$8H;
+|$PH;
+|Lu?c
+}RB-{
+~qj#k"
+~rZ*{

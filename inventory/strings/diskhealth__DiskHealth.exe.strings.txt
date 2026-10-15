@@ -1,0 +1,5781 @@
+                            input.redo()
+                            input.undo()
+                        diskInfoMgr.currentLanguage=value.full;
+                        if(event.modifiers & Qt.ShiftModifier){
+                        }
+                        }else{
+                    anchors.leftMargin: %1;\
+                    anchors.verticalCenter: parent.verticalCenter;\
+                    border.color: "#ffffff"
+                    border.width: 0
+                    checkable:true;
+                    checked:diskInfoMgr.currentLanguage===value.full
+                    fontSize: %2;\
+                    full.y =mouseY + 5
+                    hoverUnderline:%7;}"
+                    if ((event.key === Qt.Key_Z)){
+                    onTriggered:{
+                    property var value;
+                    radius: 4
+                    ret = v[subRole]
+                    spacing: %4;\
+                    staticRes:\"%5\";\
+                    text: \"%6\";\
+                    text:value.display;
+                    textColor: pressed?\"#0461C4\":(hovered?\"#037DFF\":\"%3\");\
+                    }
+                   PathLine { x: bg.width/2+path.tw/2+win.triggleOffset; y: path.th }
+                   PathLine { x: bg.width/2+win.triggleOffset; y: 0 }
+                   fillColor: root.color
+                   id:path
+                   property var th: 12
+                   property var tw: 20
+                   startX: (bg.width-tw)/2+win.triggleOffset
+                   startY: th
+                   strokeColor: window.theme.style("shadow","strokeColor")
+                   strokeWidth: shadow.visible?0:root.border.width
+                Action{
+                GradientStop { position: 0 ; color: getColor(0)}
+                GradientStop { position: 1 ; color: getColor(1)}
+                __control__.height = img.sourceSize.height
+                __control__.width = img.sourceSize.width
+                anchors.centerIn: parent
+                anchors.fill: parent
+                anchors.fill: showButton.fill
+                anchors.left: icon.right
+                anchors.left: parent.left
+                anchors.left: title.left
+                anchors.leftMargin: 12
+                anchors.margins: blur
+                anchors.top: icon.top
+                anchors.top: parent.top
+                anchors.top: title.bottom
+                anchors.topMargin: 8
+                anchors.topMargin: win.showTriangle?(path.th-border.width):0
+                background: Rectangle {
+                border.color: window.theme.style("background","border","/publicQML/MenuTheme").color
+                border.width: (blur>0)?0:window.theme.style("background","border","/publicQML/MenuTheme").width
+                break;
+                color: "#090a0a"
+                color: "#4f545c"
+                color:win.rootColor
+                diskInfoMgr.doExit();
+                font.pixelSize: 14
+                font.pixelSize: 20
+                font.weight: Font.Medium
+                full.visible = containsMouse
+                height:48
+                id: showImage
+                id: st
+                id: title
+                id:icon
+                id:root
+                if (!full.visible)
+                if(!Public.isFileExist(newSource)) break
+                if(event.modifiers & Qt.ControlModifier){
+                if(ret === undefined || ret === "") break
+                if(v[subRole]!==undefined)
+                import QtQuick.Controls 2.14;
+                import \"../publicQML/public.js\" as Public;
+                orientation: properties.gradient===undefined?Gradient.Horizontal:properties.gradient.orientation
+                position: 0.0;color: tocolor
+                position: 1.0;color: fromcolor
+                radius: (blur>0)?4:0
+                ret = languages[i].short_;
+                ret = newSource
+                source = info.default
+                source: bShowIcon?iconShow:iconHide
+                source:poproot.icon
+                sourceComponent: content
+                sourceComponent: initing
+                t = t[subRole]
+                target: l
+                text: poproot.mainTitle
+                text: poproot.subTitle
+                textFormat:Text.RichText
+                var newSource = Public.insertStr(ret,preStr.length,window.theme.realStyleName+"/")
+                var preStr = "qrc:/res/"
+                verticalAlignment: Qt.AlignTop
+                visible:true
+                width:48
+                width:poproot.width-32*3-icon.width
+                width:title.width
+                win.hide();
+                window.openUrl(parent.info.url)
+                wrapMode: Text.WordWrap
+                wrapper.bShowIcon = !wrapper.bShowIcon
+                }
+                }",langmenu)
+               ShapePath {
+               antialiasing: true
+               id:shape
+               item.anchors.left = group.right
+               item.anchors.left = lastItem.right
+               smooth: true
+               visible: win.showTriangle
+               }
+              border.color: "#40000000"
+              border.width: 1
+              color: control.enabled?"#ffffff":"#ededed"
+              radius: 4
+            "disabled":"#DADEE6"
+            "hovered":"#2E2F33",
+            "hovered":"#F1F5FB",
+            "normal":"#1E1E21",
+            "normal":"#FFFFFF",
+            "selected":"#2E2F33",
+            "selected":"#DCE7FA",
+            EuBusyIndicator{
+            GradientStop {position: 0.0; color: buynowBtn.pressed?"#ea8b47":(buynowBtn.hovered?"#ffa769":"#ff984d")}
+            GradientStop {position: 1.0; color: buynowBtn.pressed?"#eb4044":(buynowBtn.hovered?"#ff6367":"#ff464a")}
+            GradientStop{
+            Image {
+            Keys.onReleased: {
+            PropertyChanges {
+            Rectangle{
+            Shape {
+            Text {
+            __control.step=s%(360/__control.speed)
+            a = langmenu.takeAction(0)
+            anchors { fill: parent; leftMargin: 14 }
+            anchors { left: parent.left; leftMargin: 14; verticalCenter: parent.verticalCenter }
+            anchors { left: prefix.right; right: parent.right; top: parent.top; bottom: parent.bottom }
+            anchors.centerIn: parent
+            anchors.fill: parent
+            anchors.horizontalCenter: parent.horizontalCenter
+            anchors.right: input.right
+            anchors.rightMargin: 16
+            anchors.top: input.top
+            anchors.top: parent.top
+            anchors.topMargin: 8
+            arr.pop()
+            border.width: 0
+            c = c.arg(lastItem?spacing:0).arg(fontSize).arg(textColor).arg(interSpacing).arg(items[idx].res).arg(items[idx].text).arg(hoverUnderLine)
+            clickPos = Qt.point(mouse.x, mouse.y)
+            clip:true
+            color: "#00000000"
+            color: "#818a99"
+            color: fromcolor
+            do{
+            duration: 1000
+            duration: 1500
+            ebsr.state = containsMouse?"hovered":"normal"
+            echoMode: wrapper.bShowIcon?TextInput.Normal:TextInput.Password
+            else
+            filesCache[file] = ret
+            focus: true
+            font.pixelSize: font_size
+            from: 0
+            height: 16
+            height: width
+            id: hint
+            id: input
+            id: prefix
+            id:ani
+            id:bg
+            id:res
+            id:showButton
+            if (diskInfoMgr.isTrayExist())
+            if (languages[i].full === diskInfoMgr.currentLanguage)
+            if (text.width > text.elideWidth)
+            if(!validMouseEvt()) return
+            if(Image.Stretch !==fillMode) return
+            if(__control__.width !== img.sourceSize.width || __control__.height!==img.sourceSize.height){
+            if(info!==undefined&&info.default!==undefined)
+            if(lastItem){
+            if(ma===sbling[i] || ebsr === sbling[i]) continue
+            if(parent.openExternalUrl)
+            if(ret==="") ret = Public.readFile(file)
+            if(str==="") break
+            if(subRole!==undefined){
+            if(t!==undefined&&subRole!==undefined&&t[subRole]!==undefined){
+            if(t!==undefined) break
+            if(topm===undefined) return
+            if(v === undefined || v[role]===undefined) break
+            if(v === undefined) break
+            if(v[role]!==undefined) v=v[role]
+            item.value = v
+            langmenu.addAction(item)
+            langmenu.removeAction(a)
+            loops: Animation.Infinite
+            ml.open()
+            ml.x = 680
+            ml.y = 40
+            mouseSelectionMode:TextInput.SelectCharacters
+            name: "inited"
+            name: "initing"
+            onClicked: {
+            opacity: !hint.opacity
+            opacity: input.length ? 0 : 1
+            openExternalUrl = false
+            orientation: Gradient.Horizontal
+            parent.clicked()
+            parent.linkActivated(parent.linkAt(mouse.x,mouse.y))
+            parent.switchOn=!parent.switchOn
+            poproot.accepted()
+            poproot.contentHeight = poproot.cLoader.item.ch+poproot.cLoader.item.y
+            poproot.rejected()
+            property var ch: st.y+st.height
+            radius: width/2
+            ret = filesCache[file]
+            ret = v
+            return ret
+            return true
+            running: control.visible
+            running: visible
+            s++
+            sbling[i].anchors.topMargin = Qt.binding(function(){return ebsr.anchors.topMargin+topm})
+            selectByMouse:true
+            selectedTextColor:"#ffffff"
+            selectionColor:"#1B9CFF"
+            source: Public.checkSource(control.checkState,control.enabled)
+            sourceComponent: control.content
+            style:ButtonStyle{
+            t = defaultThemes[realStyleName][role]
+            text: "Enter word"
+            to: 360
+            to:360
+            url = arr.join(".")
+            url = disambiguation
+            var arr = new Error().stack.split("\n")[1].split(":")[1].split(".")
+            var c="EuImageButton{anchors.top:group.top;\
+            var delta = Qt.point(mouse.x - clickPos.x, mouse.y - clickPos.y)
+            var item = Qt.createQmlObject("
+            var item = Qt.createQmlObject(c,group)
+            var ret = __control__.source.toString()
+            var ret = __style.control.__mouseArea.containsMouse
+            var s = __control.step
+            var topm = sbling[i].anchors.topMargin
+            var v = JSON.parse(str)[themeName]
+            var v = languages[i]
+            verticalAlignment: Text.AlignVCenter
+            width = control.textWidth
+            width: 16
+            width: rect.border.width
+            win.setX(win.x + delta.x)
+            win.setY(win.y + delta.y)
+            x: control.leftPadding
+            {
+            }
+            }else{
+            }while(0)
+           item.buttonClicked.connect(buttonClicked)
+           item.index = idx
+           lastItem = item
+          anchors.fill: parent
+          color: window.theme.style("shadow","color")
+          control.truncated=truncated
+          id:shadow
+          if(control.textWidth!==undefined){
+          radius: window.theme.style("shadow","blur")
+          source: bg
+          visible: blur>0
+          }
+        "background":{
+        "header":{"background":"#3d4145","text":"#ebebeb","spliter":"#535458"},
+        "header":{"background":"#E9EDF5","text":"#1B212B","spliter":"#adb8cc"},
+        "text0":"#1F2C40",
+        "text0":"#EBEBEB",
+        "text1":"#4F545C",
+        "text1":"#898C99",
+        "text2":"#090A0A",
+        "text2":"#898C99",
+        "text3":"#090A0A",
+        "text3":"#C8C9CC",
+        "text4":"#4F545C"
+        "text4":"#898C99"
+        //QtObject{property var full:"ChineseSimp";property var short_:"zh-CN";property var display:"
+        //opacity: 0.8
+        <path d="M6.75,7 L17.25,7 C17.6642136,7 18,7.33578644 18,7.75 C18,8.16421356 17.6642136,8.5 17.25,8.5 L6.75,8.5 C6.33578644,8.5 6,8.16421356 6,7.75 C6,7.33578644 6.33578644,7 6.75,7 Z M6.75,11.25 L17.25,11.25 C17.6642136,11.25 18,11.5857864 18,12 C18,12.4142136 17.6642136,12.75 17.25,12.75 L6.75,12.75 C6.33578644,12.75 6,12.4142136 6,12 C6,11.5857864 6.33578644,11.25 6.75,11.25 Z M6.75,15.5 L17.25,15.5 C17.6642136,15.5 18,15.8357864 18,16.25 C18,16.6642136 17.6642136,17 17.25,17 L6.75,17 C6.33578644,17 6,16.6642136 6,16.25 C6,15.8357864 6.33578644,15.5 6.75,15.5 Z" id="
+        <path d="M8.1109127,7.05025253 L11.9995826,10.9385826 L15.8890873,7.05025253 C16.1819805,6.75735931 16.6568542,6.75735931 16.9497475,7.05025253 C17.2426407,7.34314575 17.2426407,7.81801948 16.9497475,8.1109127 L13.0605826,11.9995826 L16.9497475,15.8890873 C17.2426407,16.1819805 17.2426407,16.6568542 16.9497475,16.9497475 C16.6568542,17.2426407 16.1819805,17.2426407 15.8890873,16.9497475 L11.9995826,13.0605826 L8.1109127,16.9497475 C7.81801948,17.2426407 7.34314575,17.2426407 7.05025253,16.9497475 C6.75735931,16.6568542 6.75735931,16.1819805 7.05025253,15.8890873 L10.9385826,11.9995826 L7.05025253,8.1109127 C6.75735931,7.81801948 6.75735931,7.34314575 7.05025253,7.05025253 C7.34314575,6.75735931 7.81801948,6.75735931 8.1109127,7.05025253 Z" id="
+        <rect id="
+        <requestedExecutionLevel level='requireAdministrator' uiAccess='false' />
+        Button{
+        DropShadow{
+        EuThemeImage{
+        GradientStop { position: 0.0; color: control.foregroundColor }
+        GradientStop { position: 1.00001; color: control.backgroundColor }
+        GradientStop { position: control.progress + 0.00001; color: control.backgroundColor }
+        GradientStop { position: control.progress; color: control.foregroundColor }
+        Item{
+        Loader{
+        Public.log("-------create------",this)
+        Public.log("-------destroy------",this)
+        QtObject{property var full:"Arabic";property var short_:"ar-SA";property var display:"
+        QtObject{property var full:"ChineseTrad";property var short_:"zh-TW";property var display:"
+        QtObject{property var full:"Danish";property var short_:"da-DK";property var display:"Dansk"},
+        QtObject{property var full:"Dutch";property var short_:"nl-NE";property var display:"Nederlands"},
+        QtObject{property var full:"English";property var short_:"en-US";property var display:"English"},
+        QtObject{property var full:"French";property var short_:"fr-FR";property var display:"Fran
+        QtObject{property var full:"German";property var short_:"de-DE";property var display:"Deutsch"},
+        QtObject{property var full:"Italian";property var short_:"it-IT";property var display:"Italiano"},
+        QtObject{property var full:"Japanese";property var short_:"ja-JP";property var display:"
+        QtObject{property var full:"Korean";property var short_:"ko-KR";property var display:"
+        QtObject{property var full:"Polish";property var short_:"pl-PL";property var display:"Polski"},
+        QtObject{property var full:"Portuguese";property var short_:"pt-BR";property var display:"Portugu
+        QtObject{property var full:"Spanish";property var short_:"es-ES";property var display:"Espa
+        QtObject{property var full:"Thai";property var short_:"th-TH";property var display:"
+        Rectangle{
+        RotationAnimator on rotation {
+        State{
+        Text {
+        TextInput {
+        __style.mouseIn = Qt.binding(function(){
+        acceptedButtons: Qt.LeftButton
+        acceptedButtons: Qt.NoButton
+        acceptedButtons: parent.openExternalUrl?Qt.LeftButton:Qt.NoButton
+        anchors.bottom: parent.bottom
+        anchors.centerIn: parent
+        anchors.fill: parent
+        anchors.fill:parent
+        anchors.left: parent.left
+        anchors.left: status.left
+        anchors.left: title.left
+        anchors.left:parent.left
+        anchors.leftMargin: 10
+        anchors.leftMargin: 16
+        anchors.leftMargin: control.leftPadding
+        anchors.leftMargin: parent.switchOn?parent.width-width-2:2
+        anchors.right: closeBt.left
+        anchors.right: parent.right
+        anchors.right:parent.right
+        anchors.rightMargin: 16
+        anchors.rightMargin: 8
+        anchors.top: parent.top
+        anchors.top: status.bottom
+        anchors.top: title.bottom
+        anchors.top:closeBt.top
+        anchors.top:parent.top
+        anchors.topMargin: 2
+        anchors.topMargin: 4
+        anchors.topMargin: 6
+        anchors.topMargin: animateHeight
+        anchors.topMargin: control.topPadding
+        anchors.verticalCenter: parent.verticalCenter
+        border.color: "#c1cbd6"
+        border.color: __style.borderColor
+        border.color: __style.frameColor
+        border.color: control.backgroundColor
+        border.width: __style.frameBW
+        border.width: borderw
+        border.width: control.barWidth
+        buttonStateChanged(false)
+        buttonStateChanged(true)
+        buynowBtn.width = buyTxt.width > btnMinWidth ? buyTxt.width + 2*5 : btnMinWidth;
+        color: "#00000000"
+        color: "#e6edf5"
+        color: "#ffffff"
+        color: "black"
+        color: "transparent"
+        color: "white"
+        color: __style.backgroundColor
+        color: __style.scrollBackColor
+        color: control.pressed?"#9aaec4":(control.hovered?"#b1d1e7":"#b3c1d0")
+        color: control.textColor
+        color: headerColor
+        color: styleData.pressed?"#9aaec4":(styleData.hovered?"#b1d1e7":"#b3c1d0")
+        color: window.theme.style("scrollbar","background")
+        color: window.theme.style("window")
+        color:infoItem.statusColor
+        color:theme.style("itemTitleText")//"#6e7480"
+        color:theme.style("text")
+        color:window.theme.style("scrollbar","handle")[styleData.pressed?"pressed":(styleData.hovered?"hovered":"normal")]
+        color:window.theme.style("title")//"#f4f2f7"
+        color:window.theme.style("titleText")//"#4f545c"
+        control.color = Public.readConfigIni("main/autoTestColor","#00000000")
+        control.font.pixelSize = 14
+        control.remove(control.selectionStart,control.selectionEnd)
+        control.z = Public.readConfigIni("main/z",-1)
+        cursorShape: (parent.openExternalUrl&&containsMouse) ? Qt.PointingHandCursor : Qt.ArrowCursor
+        cursorShape: Qt.PointingHandCursor
+        cursorShape: parent.hoveredLink ? Qt.PointingHandCursor : Qt.ArrowCursor
+        do{
+        ebsr.state = state
+        elide: Text.ElideRight
+        elideWidth:80
+        enabled: closeEnable
+        font.bold: true
+        font.pixelSize: 12
+        font.pixelSize: 14
+        font.pixelSize: 16
+        font.pixelSize: 20
+        font.pixelSize: 48
+        font.pixelSize: control.fontSize
+        font.pixelSize: parent.font.pixelSize
+        font.weight: Font.DemiBold
+        font.weight: Font.Normal
+        font.weight: control.fontWeight
+        font.weight:parent.font.weight
+        for (var i = 0; i < languages.length; ++i)
+        for (var i = 0; i < sbling.length; i++){
+        for(var i = 0;i<languages.length;i++){
+        for(var idx in items){
+        function onHeightChanged(){
+        function realSource(){
+        function validMouseEvt(){
+        gradient: Gradient{
+        gradient:Gradient {
+        height: (styleData.horizontal?sbw:height)
+        height: 72
+        height: control.height
+        height: parent.height-2*2
+        height: parent.height-animateHeight
+        height:0
+        height:20
+        height:styleData.horizontal?sbw:headerHeight
+        hoverEnabled: false
+        hoverEnabled: parent.openExternalUrl
+        hoverEnabled: true
+        id: buyTxt
+        id:_ma
+        id:bg
+        id:closeBt
+        id:ebsr
+        id:full
+        id:img
+        id:info
+        id:initing
+        id:l
+        id:ma
+        id:mainContent
+        id:ml
+        id:passRec
+        id:rect
+        id:status
+        id:sub
+        id:text
+        id:timer
+        id:tip
+        id:title
+        id:titleText
+        id:txt
+        if(autoOpen) window.openUrl(link)
+        if(disambiguation!==undefined){
+        if(filesCache[file]!==undefined && filesCache[file]!==""){
+        if(index === defaultIndex){
+        if(poproot.visible) poproot.rejected()
+        if(properties.gradient===undefined) return "#00000000"
+        if(status === Image.Error){
+        if(window.notifyPopup!== undefined) window.notifyPopup(false)
+        if(window.notifyPopup!== undefined) window.notifyPopup(visible)
+        if(window.showParentMask) window.popupWin(this,false)
+        implicitHeight: implicitWidth
+        implicitHeight: styleData.horizontal?sbw:height
+        implicitHeight:win.itemHeight
+        implicitWidth: !styleData.horizontal?sbw:width
+        implicitWidth: 14
+        implicitWidth: win.implicitWidth
+        interval: 40
+        leftPadding: control.indicator.width + control.spacing
+        mainframe.popMsgBox(false,poproot.result,String("%1").arg(this))
+        onClicked:
+        onClicked: {
+        onContainsMouseChanged: {
+        onHoveredChanged:
+        onPositionChanged:
+        onPressed:
+        onPressed: parent.pressed()
+        onPressed: {
+        onSourceSizeChanged: {
+        onTriggered: {
+        opacity: enabled ? 1.0 : 0.3
+        poproot.result = index
+        poproot.visible = false
+        properties =Public.drpInfo
+        property point clickPos: "0,0"
+        radius: (control.h?height:width)/2
+        radius: 4
+        radius: 4.5
+        radius: 8
+        radius: height/2
+        radius: width / 2
+        radius: width/2
+        repeat: true
+        resName:"ico_popup_close"
+        resName:"ico_popup_menu"
+        resetLanguageActions()
+        return mainframe.popMsgBox(true,0,String("%1").arg(this))
+        return ret
+        return ret;
+        return t
+        return true
+        roundedMask:EuRoundedRectangle.RIGHTTOP
+        running: true
+        smooth: __control__.smooth
+        source: "qrc:/res/loading00.png"
+        source: Public.radioSource(control.checked,control.hovered,control.enabled)
+        source: realSource()
+        source:rect
+        svg: true
+        svgHeight: 24
+        svgWidth: 24
+        target:poproot.cLoader.item
+        text: ""
+        text: (control.precision>0?(control.value).toFixed(control.precision):parseInt(control.value))+"%"
+        text: control.showText?((control.precision>0?(control.progress*100).toFixed(control.precision):(parseInt(control.progress*100)))+"%"):""
+        text: control.text
+        text: infoItem.statusText
+        text: parent.text
+        text: qsTr("Buy Now")
+        text:infoItem.infoText
+        text:infoItem.titleText
+        text:parent.text
+        text:text.elidedText
+        var a = langmenu.takeAction(0)
+        var color = properties.gradient.stops[position]
+        var lastItem
+        var ret
+        var ret = "en-US";
+        var ret = pressed?color.pressed:(hovered?color.hovered:color.normal)
+        var ret=""
+        var sbling = visibleChildren
+        var str = fileContent(file)
+        var t = extraThemeColor(realStyleName,role,url+".json",subRole)
+        var url = ""
+        verticalAlignment: Text.AlignVCenter
+        visible: __style.mouseIn || styleData.hovered
+        visible: control.showText
+        visible: false
+        visible: parent.truncated&&_ma.containsMouse&&parent.canPopup
+        visible:!diskInfoMgr.isMainland()
+        visible:false
+        visible:text.width > text.elideWidth
+        while(a!==null){
+        width: !styleData.horizontal?sbw:headerHeight
+        width: !styleData.horizontal?sbw:width
+        width: 0
+        width: 72
+        width: control.width
+        width: control.width-leftPadding-12
+        width: height
+        width: parent.width
+        x: control.leftPadding
+        y: parent.height / 2 - height / 2
+        z:-100
+        z:100
+        {
+        }
+        })
+        },
+        }]
+        }else{
+        }while(0)
+       return ml.languageShort();
+      </requestedPrivileges>
+      <assemblyIdentity type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='x86' publicKeyToken='6595b64144ccf1df' language='*' />
+      <assemblyIdentity type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*' />
+      <requestedPrivileges>
+      Component.onCompleted: {
+      anchors.fill: parent
+      color: "#2b000000"
+      color: control.textColor
+      elide: control.textElide
+      font.pixelSize: control.fontSize
+      font.weight: control.fontWeight
+      leftPadding: control.indicator.width + control.spacing
+      onTruncatedChanged: {
+      opacity: enabled ? 1.0 : 0.3
+      radius: 8//root.radius
+      source: bg
+      text: control.text
+      verticalAlignment: Text.AlignVCenter
+      visible:control.showShadow
+      }
+     - 
+    "dark":{
+    "light":{
+    //overlap: (window.blur>0?1:-1)*Public.winShadowBlur
+    //property var color: "#ffffff"
+    //transientScrollBars:true
+    </dependentAssembly>
+    </g>
+    </security>
+    <dependentAssembly>
+    <g id="btn_close_dis" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="btn_close_hov" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="btn_close_nor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="btn_close_pre" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="titlebar_btn_menu_dis" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="titlebar_btn_menu_hov" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="titlebar_btn_menu_nor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="titlebar_btn_menu_pre" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <security>
+    <title>btn_close_dis</title>
+    <title>btn_close_hov</title>
+    <title>btn_close_nor</title>
+    <title>btn_close_pre</title>
+    <title>titlebar_btn_menu_dis</title>
+    <title>titlebar_btn_menu_hov</title>
+    <title>titlebar_btn_menu_nor</title>
+    <title>titlebar_btn_menu_pre</title>
+    Component.onCompleted: {
+    Component.onCompleted:{
+    Component.onDestruction: {
+    Component.onDestruction:{
+    Component{
+    ConicalGradient{
+    Connections{
+    DropShadow{
+    EuBorderShadowRect{
+    EuImageButton
+    EuThemeImage{
+    EuToolTip
+    EuToolTip{
+    Image{
+    Loader{
+    MouseArea
+    MouseArea {
+    MouseArea{
+    MultiLanguage
+    Rectangle
+    Rectangle {
+    Rectangle{
+    ScrollBar.horizontal: EuScrollBar {}
+    ScrollBar.vertical: EuScrollBar {}
+    Text
+    Text {
+    TextMetrics
+    Text{
+    Timer{
+    anchors.centerIn: parent
+    anchors.margins: 5
+    antialiasing: true
+    backgroudColor:"transparent"
+    background: Rectangle {
+    background: Rectangle{
+    background:Item{
+    background:Rectangle{
+    backgroundColor: 'white'
+    barWidth: width/12
+    bgGradient:(enabled&&properties.gradient!==undefined)?bgg:undefined
+    bottomPadding: 8+blur
+    buttonMask:EuPopWindow.CLOSEBUTTON //| EuPopWindow.HELPBUTTON
+    centerInParent: true
+    color: "white"
+    color: switchOn?"#037dff":"#bcd0e5"
+    color:"red"
+    color:window.theme.style("title")//"#f4f2f7"
+    content: mainContent
+    contentItem: Text {
+    contentItem:Rectangle{
+    corner: Item{}
+    decrementControl: EuRoundedRectangle {
+    delegate: EuMenuItem{
+    elide: Text.ElideRight
+    endColor: '#0881ff'
+    font.family: window.font.family
+    font.pixelSize: 14
+    frame : Rectangle{
+    function extraThemeColor(themeName,role,file,subRole)
+    function fileContent(file)
+    function getColor(position){
+    function languageShort()
+    function open()
+    function preBack(){
+    function preNext(){
+    function removeSelect(){
+    function resetLanguageActions(){
+    function style(role,subRole,disambiguation)
+    gradient: Gradient {
+    handle: Rectangle {
+    height : Math.max(260,contentHeight+cLoader.y + 48)
+    height: !h?parent.availableHeight:side
+    height: 16
+    height: 32
+    height: 72
+    height: Math.max(0,img.sourceSize.height)
+    height:70
+    id: control
+    id: wrapper
+    id:__control
+    id:__control__
+    id:__style
+    id:buynowBtn
+    id:control
+    id:group
+    id:infoItem
+    id:langmenu
+    id:poproot
+    id:sv
+    id:thObj
+    id:title
+    id:win
+    implicitWidth: 150
+    implicitWidth:260
+    incrementControl:Item {
+    incrementControl:Item{}
+    indicator: Item{
+    indicator:Image{
+    itemHeight:32
+    leftPadding: blur>0?(20-blur-3):wbw
+    leftPadding:0
+    onButtonClicked: {
+    onCanBackChanged: {
+    onCanNextChanged: {
+    onLinkActivated:{
+    onStateChanged: {
+    onStatusChanged: {
+    onVisibleChanged: {
+    padding: 0
+    placeholderTextColor: "#959eb3"
+    property  var win:nulls
+    property Component content
+    property alias acceptedButtons: ebsr.acceptedButtons
+    property alias alwaysShow: ebsr.alwaysShow
+    property alias animateHeight: ebsr.animateHeight
+    property alias asynchronous: img.asynchronous
+    property alias autoTransform: img.autoTransform
+    property alias bgColor: passRec.color
+    property alias blur: ebsr.blur
+    property alias border: ebsr.border
+    property alias borderColor: passRec.border.color
+    property alias btnTxt: buyTxt.text
+    property alias cache: img.cache
+    property alias color: __control.startColor
+    property alias color: ebsr.color
+    property alias containsMouse: ebsr.containsMouse
+    property alias control: input
+    property alias currentFrame: img.currentFrame
+    property alias duration: ani.duration
+    property alias fillMode: img.fillMode
+    property alias font: text.font
+    property alias frameCount: img.frameCount
+    property alias gradient: ebsr.gradient
+    property alias h_shadow: ebsr.h_shadow
+    property alias hint: hint.text
+    property alias horizontalAlignment: img.horizontalAlignment
+    property alias hovered: ma.containsMouse
+    property alias loader: l
+    property alias mipmap: img.mipmap
+    property alias mirror: img.mirror
+    property alias mouseArea: ma
+    property alias origalText: sub.text
+    property alias paintedHeight: img.paintedHeight
+    property alias paintedWidth: img.paintedWidth
+    property alias prefix: prefix.text
+    property alias progress: img.progress
+    property alias radius: ebsr.radius
+    property alias running: ani.running
+    property alias running: timer.running
+    property alias samples: ebsr.samples
+    property alias shadowColor: ebsr.shadowColor
+    property alias sourceClipRect: img.sourceClipRect
+    property alias sourceSize: img.sourceSize
+    property alias spread: ebsr.spread
+    property alias status: img.status
+    property alias text: input.text
+    property alias text: txt
+    property alias textColor: text.color
+    property alias tipVisible: tip.visible
+    property alias titleMsg:titleText.text
+    property alias tooltipHeight: tip.implicitHeight
+    property alias tooltipWidth: tip.implicitWidth
+    property alias v_shadow: ebsr.v_shadow
+    property alias verticalalignment: img.verticalAlignment
+    property bool bShowIcon: false
+    property bool switchOn: true
+    property int font_size: 14
+    property int maxLength: 32767
+    property list<QtObject> languages:[
+    property var animating: true
+    property var autoOpen: true
+    property var backgroundColor:"#EBEEF2"
+    property var barWidth: 3
+    property var bgImg: null
+    property var bgg:Gradient{
+    property var blur:window.blur
+    property var borderColor: "#e1e7ef"
+    property var borderw: 2
+    property var btnMinWidth: 180
+    property var canBack: true
+    property var canNext: state !== "initing"
+    property var canPopup: w===undefined?true:!w.subWinPopuped
+    property var closeEnable:true
+    property var content: Component{Item{}}
+    property var contentHeight: 0
+    property var defaultThemes:JSON.parse(fileContent("qrc:/qml/ThemeBase.json"))
+    property var destroyOnBack: false
+    property var filesCache:{"qrc:/qml/ThemeBase.json":""}
+    property var fontSize: 14
+    property var fontWeight: Font.Normal
+    property var foregroundColor:"#41a8ff"
+    property var frameBW: 1
+    property var frameColor:"#e1e7ef"
+    property var fromcolor:"#ff6377D3"
+    property var h: orientation === Qt.Horizontal
+    property var headerColor: control.headerColor!==undefined?control.headerColor:"#00000000"
+    property var headerHeight: control.getHeaderHeight!==undefined?control.getHeaderHeight():0
+    property var headerHeight: control.headerHeight!==undefined?control.headerHeight:0
+    property var hoverUnderLine: true
+    property var icon: ""
+    property var icon:"qrc:/res/ico_question48.png"
+    property var iconHide: "qrc:/res/ico_biyan.png"
+    property var iconShow: "qrc:/res/ico_zhengyan.png"
+    property var info: undefined
+    property var infoText: null
+    property var inputValidator:undefined
+    property var interSpacing: 8
+    property var itemHeight: 32
+    property var items
+    property var licenseLength:29
+    property var licenseSeploter:"-"
+    property var mainTitle:""
+    property var maxValue: 100
+    property var minValue: 0
+    property var mouseIn: false
+    property var openExternalUrl: (info!==undefined&&info.url!==undefined)
+    property var pageIndex: 0
+    property var precision: 0
+    property var precision: 2
+    property var progress: value/(maxValue-minValue)
+    property var realStyleName: diskInfoMgr.theme();
+    property var result: -1
+    property var rootColor: window.theme.style("background","color","/publicQML/MenuTheme")
+    property var sbw: 6
+    property var scrollBackColor:"#e6edf5"
+    property var showParentMask: false
+    property var showShadow: false
+    property var showText: true
+    property var showText:false
+    property var showTriangle: false
+    property var side: 6
+    property var source: ""
+    property var spacing: 40
+    property var speed:20
+    property var statusColor:null
+    property var statusText:null
+    property var step:0
+    property var subTitle:""
+    property var sweep: 2
+    property var systemAppStyle:thObj.realStyleName
+    property var textColor: "#1b1c40"
+    property var textColor: "#555b66"
+    property var textColor: window.theme.style("checkbox")
+    property var textElide: Text.ElideNone
+    property var textWidth
+    property var textWidth: sub.width
+    property var titleText:null
+    property var tocolor: "#006377D3"
+    property var triggleOffset: 0
+    property var truncated: false
+    property var value: 0
+    property var w: this.Window
+    property var wbw: window.theme.style("winBorderWidth")
+    radius:20
+    radius:width/2
+    rightPadding: leftPadding
+    rightPadding:0
+    scrollBarBackground:Rectangle{
+    showText:false
+    signal accepted
+    signal aniamtionFinished(var properties)
+    signal buttonClicked(var index)
+    signal buttonStateChanged(var b)
+    signal clicked
+    signal clicked()
+    signal pressed
+    signal rejected
+    signal sigBack()
+    signal sigGotoPage(var idx)
+    signal sigHome()
+    signal sigNext()
+    smooth: true
+    source: Rectangle {
+    source:(info!==undefined&&info.image!==undefined)?info.image:""
+    source:bgImg
+    spacing:control.text.length>0?6:0
+    startAngle: speed*step
+    state: "inited"
+    state: ebsr.state
+    states: [
+    sweepAngle: sweep*90
+    textColor: "#f326344c"
+    textFormat: Text.RichText
+    title: mainTitle
+    title: qsTr("Language")
+    topMargin: 32
+    topPadding: (showTriangle?path.th:wbw)+8
+    trackColor:"transparent"
+    trackWidth: 0
+    type:"default"
+    visible: policy!==ScrollBar.AlwaysOff
+    visible: true
+    width: 140
+    width: 16
+    width: 30
+    width: 72
+    width: Math.max(0,img.sourceSize.width)
+    width: btnMinWidth
+    width: h?parent.availableWidth:side
+    x:!h?parent.width-width-2:0
+    y:h?parent.height-height-2:0
+    z:1
+    {
+    }
+    },
+   + 
+   - 
+  </dependency>
+  </trustInfo>
+  <dependency>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+  }oX
+ 3:3Q3h3
+ ;])`
+ ?write@QIODevice@@QAE_JPBD_J@Z
+ ATA Device
+ ATA Disk Device
+ C|m1)
+ Dl)M(
+ G-`t
+ GG:.
+ GlobalSign Code Signing Root R450
+ H#nqr'H
+ IDAT(
+ IEEE 1394 SBP2 Device
+ Mp(0b
+ SATA Device
+ SATA Disk Device
+ SCSI Device
+ SCSI Disk Device
+ USB Device
+ [ATA]
+ [SCSI]
+ ^ie7
+ c4&4
+ clr:A
+ mCXvplM
+ s%J:
+!%A%5\
+!0(0w0
+!01060B0U0\0
+!6q@(T
+!?triggered@QAction@@QAEX_N@Z
+!C?Y>
+!IDAT8
+!J". 6C
+!MFnh
+!This program cannot be run in DOS mode.
+!ViGy
+!_Itr
+!http://ocsp.globalsign.com/rootr30;
+!wt&+
+!z|%xF
+!~Mk"
+" fill="#0560FD" fill-rule="nonzero"></path>
+" fill="#1A1A1A" fill-rule="nonzero"></path>
+" fill="#616777" fill-rule="nonzero"></path>
+" fill="#A0A6B1" fill-rule="nonzero"></path>
+"$.[V
+"%)>^
+"%1/addtask.bat" %2 "'%3'"
+"%1/deltask.bat" %2
+"%1/querytask.bat" %2
+"%s/%d":"%d/%d"
+"9<x:
+";property font font: Qt.font({family:"MS UI Gothic"})},
+";property font font: Qt.font({family:"Microsoft YaHei"})},
+"?wheelEvent@QMenu@@MAEXPAVQWheelEvent@@@Z
+"?wheelEvent@QWidget@@MAEXPAVQWheelEvent@@@Z
+"Sg-m
+"WU]n
+"^VX1
+"lEh[C*
+"m4/i^
+#5t^]P/
+#8N!H
+#?pJo
+#?winId@QWidget@@QBEIXZ
+#IzqK:
+#O>]_
+#QJO-{E
+#^?l34<n!
+#w/{/
+#~FxF
+#~[K}1
+$'#,R
+$00060[0a0
+$7cmL'
+$IDATx
+$h,^z
+% ?timerEvent@QMenu@@MAEXPAVQTimerEvent@@@Z
+%.1f GB
+%02X%02X%02X%02X%02X%02X%02X
+%08d 
+%1 GB
+%1 KB
+%1 MB
+%:-RjJEViu[m
+%<t5rK
+%Brq3
+%Dk|H
+%Es;!
+%N0*O
+%d MB
+%d.%d
+%hIz!E
+%http://crl.globalsign.com/root-r3.crl0G
+%q/8Z
+%s %s %s [%s Build %s] (%s)
+%s %s [%s Build %s] (%s)
+%s [%s Build %s]
+%y?,~Q
+%{~pG
+&060;0G0Z0a0
+&080U0j0q0
+&433g
+&7f2U
+&8N1\4
+&:aGl`
+&:tf/
+&C^/(
+&GlobalSign GCC R45 CodeSigning CA 2020
+&GlobalSign GCC R45 CodeSigning CA 20200
+&IDATx
+&KiC>
+&b1e1
+&gKKo
+&https://www.globalsign.com/repository/0
+'0cJ{
+'Chengdu Yiwo Tech Development Co., Ltd.0
+'Chengdu Yiwo Tech Development Co., Ltd.100.
+'G[^?
+'J=-:
+'M9#sZ
+'O-o~
+'O0$mx
+'R<~A
+'[O>~
+'_KX<
+'coC`
+'fn?[
+'ico_list_open_normal.png
+'ico_popup_menu_hover.svg
+'ico_popup_menu_normal.svg
+'pic_temprature_warning.png
+'z#>B
+'z-pJ
+'~'^0
+'~odY
+(!cM8
+()l`9
+(3442t7t7
+(3Zhm"!FZLDP
+(@wh0
+(HcvFT2
+(k.cd
+(usbVendorId == USB_VENDOR_IO_DATA && productId == 0x0122)
+),tS:
+)7MTC
+)8D&Tc
+)K^n$
+)[>:4
+)`q6W
+)a~ 3
+)bCEP
+)import QtQuick 2.14
+)naSs
+)tNJ6=-
+*'?^V
+*8ql=
+*>u|'w
+*Q|y{
+*Y,CO
+*o!r,
++*Jl 
++.p>d
++1%$8j
++29G.@
++=4n"
++A-]S
++AiD,
++IDAT8
++IDATH
++Vx$f
++_dM,
++iv-q
++uvU`5
+,"%s/%d":"%d/%d"
+,#_uIOy
+,^=t!>w
+,_MWn.
+,s6Wk
+,t)Y"
+,uHSko_
+-'7ce
+---- [%04Xh]
+--------
+--ControllerMap--
+-/rb<
+-0zp"
+-2s\2
+-3" fill="#D3DCE7" x="0" y="0" width="24" height="24" rx="4"></rect>
+-MD~P
+-UnLv
+-Y0s1
+-[w<?
+-bO)y
+-beD_
+-c0r<
+-http://ocsp.globalsign.com/codesigningrootr450F
+-pYMo
+-{?DH
+. !...."#$.......%.&.....'........(...............)...........*..............+....................,.........................-
+.%ubh"n
+.&z{WQp
+.+]h{f
+./|m70lj
+.00cfg
+.2eDR
+.3]6m
+.<BYB"
+.=Mp`
+.?AUIAtlMemMgr@ATL@@
+.?AUIAtlStringMgr@ATL@@
+.?AV?$CArray@EE@@
+.?AV?$CArray@HH@@
+.?AV?$CArray@KK@@
+.?AV?$CArray@UATA_SMART_INFO@CAtaSmart@@U12@@@
+.?AV?$CArray@UDISK_POSITION@CAtaSmart@@U12@@@
+.?AV?$CArray@UEXTERNAL_DISK_INFO@CAtaSmart@@U12@@@
+.?AVAttrModel@@
+.?AVCAtaSmart@@
+.?AVCAtlStringMgr@ATL@@
+.?AVCObject@@
+.?AVCTrayIcon@@
+.?AVCWin32Heap@ATL@@
+.?AVDiskInfoMgr@@
+.?AVQAbstractItemModel@@
+.?AVQAbstractNativeEventFilter@@
+.?AVQMenu@@
+.?AVQObject@@
+.?AVQPaintDevice@@
+.?AVQThread@@
+.?AVQTimer@@
+.?AVQWidget@@
+.?AVRefreshThread@@
+.?AV_com_error@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVexception@std@@
+.?AVtype_info@@
+.Q,t6
+.X!A lL
+.`+ b
+.dS;@
+.idata
+.k7^+
+.sXVr
+.text
+.tn$!
+.u:W~
+.{3vw
+/*;v=
+/../bin
+/.<k#
+//                if(ebsr.state === "hovered") return false
+//                if(ebsr.state === "normal") return false
+//              anchors.centerIn: parent
+//              color: parent.border.color
+//              height: width
+//              radius: width/2
+//              visible: control.checked
+//              width: 6
+//            if(mouseY<ebsr.animateHeight&&mouseY>=0){
+//            if(mouseY<parent.height-ebsr.animateHeight&&mouseY>=0){
+//            return true
+//            }
+//          Rectangle {
+//          border.color: (control.hovered || control.checked) ? "#0079ff" : "#9aa6b3"
+//          implicitHeight: implicitWidth
+//          implicitWidth: 14
+//          radius: implicitWidth/2
+//          x: control.leftPadding
+//          y: parent.height / 2 - height / 2
+//          }
+//      }
+//    indicator: Rectangle {
+//onAccepted
+/0-0+
+/1(0&0$0"
+/@x3W
+/AliyunConfig.ini
+/AliyunWrap.dll
+/C{z`
+/DiskHealth.rcc
+/DiskHealthAuto.exe
+/Ilx_
+/Im(F[IZLg7
+/OF~o
+/^.V9@
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/plugins
+/sHW>
+/translations/%1_
+/{%y9
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0h0l0p0t0x0|0
+0 0$0(0,0004080<0@0D0H0L0P0T0|0
+0 0(00080@0H0P0X0`0h0p0x0
+0 0,080O0[0g0s0
+0 0G0W0\0h0{0
+0 1T1Y1b1g1p1u1~1
+0!0(0O0_0d0p0
+0!0e0
+0!1)1/1u1}1
+0"0.0:0F0R0^0j0v0
+0#060=0d0t0y0
+0#0>0J0V0b0n0z0
+0#Pp.
+0$0,040<0D0L0T0\0
+0$0,040<0D0L0T0\0d0l0l1
+0$0,040<0D0L0T0\0d0l0t0|0
+0$000T0`0
+0$070>0e0u0z0
+0$181D1L1d1l1t1
+0%0.070@0I0R0[0d0m0v0
+0%020[0
+0%040:0@0h0
+0%070r0x0
+0%0E0h0
+0%1.171@1I1R1[1d1m1v1
+0&020>0J0V0b0n0z0
+0&0K0[0h0q0w0
+0&191>1J1`1g1
+0&9Ev
+0(0/0V0f0k0w0
+0(070F0U0d0s0
+0(0L0a0
+0(0P0p0x0
+0)000W0g0l0x0
+0)010D0W0^0
+0)141M1R1[1
+0*010X0h0m0v0
+0*060B0N0Z0f0r0~0
+0*060B0N0Z0n0z0
+0*0D0[0`0e0q0}0
+0+010c0i0s0
+0+020Y0i0n0z0
+0+1:1I1X1g1v1
+0,010=0S0Z0
+0,030S0b0x0
+0,030Z0j0o0{0
+0.030?0R0Y0
+0.0:0F0R0^0j0v0
+0/060]0m0r0~0
+0/0?0D0P0c0j0
+0/B9F?
+00171W1^1i1y1
+00=0I0V0
+010A0F0R0e0l0
+030C0H0T0g0n0
+030J0Q0h0y0
+04080L0T0X0`0x0
+050<0[0`0v0
+050>0
+050V0l0
+060F0K0W0j0q0
+070G0L0X0k0r0
+081<1@1
+081D1p1
+090I0N0Z0m0t0
+0:0J0O0[0
+0;0N0h0u0~0
+0=0M0R0^0q0x0
+0?0d0r0
+0@7q>J
+0B0P0V0p0
+0B3h3l3p3t3x3|3
+0D0T0Y0e0x0
+0E0U0Z0f0y0
+0F1N1W1c1i1
+0L1 0
+0N#jS^
+0QJSV(
+0QQ,L
+0Y0e0q0
+0Z0&H
+0Z0d0z0
+0[1a1r1
+0fl30gJF
+0h0n0
+0http://crl.globalsign.com/codesigningrootr45.crl0V
+0i0Y1
+0j4`{W
+0oPJU
+0}0i1
+0~^N*
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1%111D1K1r1
+1 1(10181@1H1P1X1`1h1p1x1
+1 1,181D1P1p1t1x1|1
+1 1,1?1F1m1}1
+1 141X1d1l1
+1 1G1W1\1h1{1
+1 20252A2T2[2
+1!1(1O1_1d1p1
+1!1*191B1Q1Z1i1r1
+1!2(2B2I2f3u3
+1!21262B2U2\2
+1!24292E2[2b2
+1"1'121?1D1L1\1d1w1
+1"1.1:1F1R1^1j1v1
+1"1.1:1F1R1f1r1~1
+1"1.1:1]1
+1"151<1c1s1x1
+1"1I1Y1^1j1}1
+1"2R2
+1#1(141G1N1u1
+1#1)161
+1#1*1Q1d1i1u1
+1#1A1F1K1W1q1v1
+1#23282D2W2^2
+1$1)1.1:1?1D1P1U1Z1f1k1p1|1
+1$1,141<1D1L1T1\1d1l1
+1$1,141<1D1L1T1\1d1l1t1|1
+1$1,141<1D1L1d1l1t1|1
+1$101=1W1
+1$121
+1$121M1h1
+1%1L1\1a1m1
+1&1/1<1L1S1z1
+1&121>1J1V1b1n1z1
+1&2n2
+1'1,181K1R1y1
+1'1.1U1e1j1v1
+1(181=1I1\1c1
+1(1;1B1f1s1x1
+1(1u1
+1(252=2P2c2j2
+1)101W1g1l1x1
+1)191>1J1]1d1
+1)1<1C1j1z1
+1*1/1;1N1U1|1
+1*161B1N1Z1f1r1~1
+1*1=1D1k1{1
+1+101<1O1V1}1
+1+121Y1i1n1z1
+1,161?1H1Q1Z1g1l1u1|1
+1,1U1^1c1
+1-121>1Q1X1
+1-1;1N1\1x1
+1.131?1R1Y1
+1.151;1E1O1Y1c1|1
+1.151\1l1q1}1
+1.1>1K1T1Z1h1z1
+1.8 inch
+1/161]1m1r1~1
+101k1q1 2&2a2g2
+11181_1o1t1
+13292J2
+142:2@2
+151>1W1n1
+161F1s1
+191M1b1
+1:1v1
+1<1E1O1h1y1
+1?1n1
+1?1n1|1
+1@1L1b1
+1AQ10003
+1B1N1T1\1a1t1
+1D1T1Y1e1x1
+1E1U1\1h1%5a5h5w5~5
+1F2S2
+1F9T9f:t:
+1FS}A
+1IDAT8
+1M1U1[1p1v1
+1M1~1
+1MF_T
+1O2V2?3v3
+1Rsrg
+1X2v2
+1XzYK
+1[2`2
+1[I M{
+1a_zl
+1dsC@4
+1g1*2T2Z2
+1http://ocsp.globalsign.com/gsgccr45codesignca20200V
+1import QtQuick 2.14
+1t.pN
+1}6AIi
+2 2$2
+2 2$2h2
+2 2%212D2K2r2
+2 2'2N2^2c2o2
+2 2(20282@2H2P2X2`2h2p2x2
+2 2,2?2F2m2}2
+2 2:2j2
+2 2H2T2|2
+2 2x2
+2!2(2O2_2d2p2
+2!2-2:2]2i2
+2"2.2:2F2R2^2j2v2
+2"2.2:2F2R2^2r2~2
+2"2.2A2H2o2
+2"3_3
+2#2(242G2N2u2
+2#2)2/252;2A2G2M2S2Y2_2e2k2q2w2}2
+2#3/3?3D3P3f3{3
+2#30353>3Q3X3|3
+2$2(2,282L2p2
+2$2,242<2D2L2T2\2d2l2t2|2
+2$2,242<2D2L2\2d2l2t2|2
+2$2,242<2D2d2p2
+2$3Y3W4
+2%2*232F2M2q2~2
+2%2+2=2F2O2
+2%2.252T2g2n2~2
+2%2.272@2I2R2[2d2m2v2
+2%222B2S2`2x2
+2%252I2W2g2p2
+2%M@S
+2&212:2E2N2Y2b2m2y2
+2&222>2J2V2b2n2z2
+2&222>2R2^2j2v2
+2'272<2H2[2b2
+2'272<2H2q2~2
+2'2h2o2
+2(242@2L2X2j4v4
+2(242z2
+2)2.2:2M2T2{2
+2)2<2C2j2z2
+2)2\2c2u2
+2)303A3I3
+2*262B2N2Z2f2r2~2
+2*292O2
+2+202<2O2V2}2
+2+2@2G2b2/3;3G3a3
+2+3U3a3m3
+2+3W3j3s3
+2,292A2T2g2n2
+2,2?2D2P2f2m2
+2,2z2
+2,3<3h3p3
+2-222>2Q2X2
+2.2>2C2O2b2i2
+2.3<3\3h3F4\4
+2.5 inch
+2/2?2D2P2c2j2
+2/2E2
+200728000000Z
+20261013060515Z
+20272^2q2v2
+202P2X2`2h2p2x2
+20402
+212A2F2R2e2l2
+212H2O2m2{2[3f3
+220801000000Z
+233E3a3
+242@2d2l2x2
+242]2
+250507000000Z
+252K2e2{2
+253?3U3
+260520025500Z
+260805000000Z
+261013060515Z0+
+262F2K2W2j2q2
+270521025500Z0
+273Z3`3
+274>4E4T4
+282I2_2n2
+290318000000Z0S1
+292I2N2Z2m2t2
+2=2M2R2^2q2x2
+2@2P2U2a2t2{2
+2A2Q2V2b2u2|2
+2C2M2
+2C2S2X2d2z2
+2D2T2Y2e2x2
+2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+2E2O2X2a2w2
+2E3b3x3
+2F3X3m3
+2L3Q3]3l3x3
+2Mk`s
+2N3b3
+2V2d2y2
+2[3x4
+2]3g3}3
+2d',}
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+2i2o2
+2k3s3
+2k3w3
+2l&3U
+2sin|nt
+3 3$3(3,3034383<3@3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3$3(3,3@6D7H8
+3 3&3,32383>3D3J3P3V3\3b3h3n3t3z3
+3 3(30383@3H3P3X3`3h3p3x3
+3 3(30383@3H3t3
+3 363=3d3w3|3
+3 3G3W3\3h3{3
+3 40454A4T4[4
+3!373@3G3S3\3s3~3
+3"3'333F3M3t3
+3"3)393I3^3g3p3y3
+3"3.3:3F3R3^3j3v3
+3"353<3c3s3x3
+3"3I3Y3^3j3}3
+3"3w3}3
+3#3(343G3N3u3
+3#3(343`3m3|3
+3#3+343@3S3[3f3n3w3~3
+3$3,343<3D3L3T3\3d3l3t3|3
+3$3,343<3D3L3T3x3
+3$363@3b3n3
+3%383?3f3v3{3
+3%4H4k4
+3&3-3T3d3i3u3
+3&323>3J3V3b3n3z3
+3&393@3g3w3|3
+3&3G3h3
+3&3M3]3b3n3
+3&3P3\3h3t3
+3'3.3U3e3j3v3
+3'30393B3K3T3]3f3o3x3
+3'313;3J3S3\3e3n3/5V5h5
+3'3:3D3M3e3
+3(#*G
+3(3L3T3`3h3|3
+3)3/3p3v3
+3)303W3g3l3x3
+3)3<3C3j3z3
+3*363B3N3Z3f3r3~3
+3*3:3
+3*434C4s4
+3+323Y3i3n3z3
+3+323Y3l3q3}3
+3+3A3H3T3]3f3s3
+3.353\3l3q3}3
+3.3>3C3O3b3i3
+3.3A3F3R3h3o3
+3.5 inch
+3.6.5
+30,|lz
+300728000000Z0Y1
+303K3
+305.1i
+311109235959Z0b1
+313A3F3R3e3l3
+333C3H3T3g3n3
+363F3K3W3j3q3
+364D4e4~4
+364F4^4f4w4
+371104235959Z0c1
+380114235959Z0i1
+383@3H3P3\3
+393I3N3Z3m3t3
+3<3L3Q3]3p3w3
+3=3J3R3e3x3
+3>G{U
+3?3O3T3`3s3z3
+3@3U3
+3A3Q3V3b3u3|3
+3A4c4|4
+3C3S3X3d3w3~3
+3D4dMA
+3F3V3[3g3z3
+3Gm/[
+3I4R4j4
+3J3W3_3r3
+3N2lE
+3N3Z3f3r3
+3N5W5
+3O4U4f4
+3O~EN
+3P4t4
+3V4f4{4
+3`qBUpN=
+3g=0nA
+3gp,2
+3}g5`
+4 4(40484@4H4P4X4`4h4p4x4
+4 4(40484@4H4d4p4
+4 4,4?4F4m4}4
+4 464X4o4{4
+4 474N4e4|4
+4!4&424E4L4s4
+4!444;4b4r4w4
+4!5)5C5O5U5^5
+4!5-5
+4"4(4.444:4@4F4L4R4X4^4d4j4p4v4|4
+4"4+42484H4^4i4
+4"4.4:4F4R4^4j4v4
+4"4N4[4c4v4
+4#4(444J4Q4x4
+4#4,4C4I4W4`4
+4#434:4M4h4t4
+4#444@4I4Q4W4]4g4o4w4~4
+4#5)545=5S5Y5e5l5~5
+4#53585D5W5^5
+4$4,444<4D4L4T4\4d4l4t4
+4$4,444<4D4L4T4\4d4l4t4|4
+4$4,444D4d4
+4$4.484B4X4^4
+4$474>4e4u4z4
+4%4*464I4P4w4
+4%5.5?5H5Q5Z5c5y5
+4&4-4T4d4i4u4
+4&424
+4&424>4J4V4b4n4z4
+4&494@4g4w4|4
+4&565;5G5Z5a5
+4'474<4H4[4b4
+4'5-5>5
+4'UmR
+4(4-494L4S4z4
+4(4;4B4i4y4~4
+4)4.4:4M4T4{4
+4)404W4g4l4x4
+4)4<4A4M4c4j4
+4)4<4C4j4z4
+4*464B4N4Z4f4r4~4
+4*4:4?4K4^4e4
+4+404<4O4V4}4
+4+424Y4i4n4z4
+4+4;4@4L4_4f4
+4+4>4E4l4|4
+4,444
+4,484O4V4b4x4
+4,4H4d4
+4-424>4G4X4
+4-434f4l4}4
+4.4;4@4I4\4c4
+4.4>4C4O4x4
+4/4W4
+41484_4o4t4
+4282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+444G4L4X4n4u4
+455U5
+464B4U4t4{4
+484H4M4Y4l4s4
+494I4N4Z4
+4:4Z4j4v4}4
+4=\/c5
+4>4Q4]4i4u4
+4>5D5U5
+4?5i5u5|5
+4D4Q4Y4l4
+4E4\4
+4GSq%dc.
+4H4P4\4
+4J4P4b4{4
+4J4]4c4j4}4
+4Z5l5
+4\mFq
+4`l$~O
+4f4x4-6]6
+4h:Hh
+4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+4h{7J
+4kL,v-)`
+4q5z5
+4s5z5
+4~H7f
+5 5$5(5z5
+5 5&555<5A5J5O5X5l5t5z5
+5 5'5N5^5c5o5
+5 5(50585@5H5P5X5`5h5p5x5
+5 5-5?5X5e5r5
+5 5x5
+5!5'5<5H5[5q5w5~5
+5!5H5[5`5l5
+5"5)5;5B5
+5"5)5P5`5e5q5
+5"5.5:5F5R5^5j5v5
+5"5.5O5[5
+5"5.5P5\5~5
+5"565B5N5Z5f5r5~5
+5"6+626f6t6
+5"62676C6V6]6
+5"6Z6
+5#5*5Q5a5f5r5
+5#5/555A5G5S5Y5e5k5w5}5
+5#5=5e5l5x5
+5#5J5Z5_5k5~5
+5#6*636I6U6\6u6|6
+5$5,545<5D5L5T5\5d5l5t5|5
+5$5,545<5D5L5T5p5|5
+5$5,5D5L5X5
+5$5:5`5y5
+5$5P5p5x5
+5%5*565L5S5z5
+5%6d6
+5&525>5J5V5b5n5z5
+5&525F5R5^5j5v5
+5&595E5h5t5z5
+5&5M5]5b5n5
+5'5J5Q5
+5(5-595L5S5z5
+5(545@5L5\5e5m5
+5(5T5a5i5|5
+5)5.5:5M5T5{5
+5)565>5Q5d5k5
+5)595>5J5]5d5
+5*565B5N5
+5*565B5N5Z5f5r5~5
+5+505<5O5V5}5
+5+575=5
+5+5;5@5L5u5
+5-525>5Q5X5
+5-595P5\5k5w5
+5-5=5B5N5a5h5
+5.25 inch
+5.5>5C5O5b5i5
+5.5`5s5
+50575^5n5s5
+505@5E5Q5d5k5
+505p5
+506z6
+515A5F5R5e5l5
+51676>6T6b6w6
+525;5G5T5u5
+525b5
+535?5X5d5
+555D5`5e5k5
+585D5P5\5h5t5
+586?6
+595F5K5T5g5n5
+5:7D7Z7
+5;5K5P5\5o5v5
+5<6P6\6d6
+5=7b7
+5>5N5S5_5r5y5
+5?5O5T5`5s5z5
+5C5S5X5d5w5~5
+5C5l5
+5C6f6
+5F5S5
+5F5V5[5g5z5
+5F7X7{7
+5FjiT
+5GAUP5
+5H5p5
+5M|4:
+5NC.=
+5P<:C4
+5T5d5
+5X5u5
+5^5g5s5|5
+5^6x6
+5a;&aH[
+5dU&Y
+5g6o7v7
+5hjd@
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+5ineI
+5is#p
+5ntel
+5rlt!O
+5tGR/
+5wK4TM
+5z76D
+5{5OF
+5|5<a
+6 6(60686@6H6P6X6`6h6p6x6
+6 6(6P6d6p6x6
+6 60676I6U6[6
+6 636:6a6q6v6
+6 636S6_6o6
+6 6D6Q6V6_6l6y6
+6 7@7H7P7X7`7h7p7x7
+6!6&626E6L6s6
+6!6'6-63696?6E6K6Q6W6]6c6i6o6u6{6
+6!6(6O6_6d6p6
+6!6W6h6q6v6
+6"6'636F6M6t6
+6"6.6:6F6R6^6j6v6
+6"6.6:6F6R6^6r6~6
+6"6I6Y6^6j6}6
+6"wfT
+6#6/6B6I6p6
+6#666=6d6t6y6
+6#6J6]6b6n6
+6#70787K7^7e7
+6#n6a
+6$6)656H6O6v6
+6$6,646<6D6L6T6\6d6l6t6|6
+6$606T6`6
+6$676>6e6u6z6
+6$676J6]6p6
+6$;?H
+6%6*666I6P6w6
+6%6,6
+6%6,6S6c6h6t6
+6%626`6g6v6
+6%676G6N6`6l6r6
+6%6@6U6h6
+6%6L6\6a6m6
+6%757:7F7Y7`7
+6&6,666<6Y6_6i6o6
+6&6-6T6d6i6u6
+6&626:6@6V6[6b6p6v6
+6&626>6J6V6b6n6z6
+6&626>6a6
+6&636D6P6Y6
+6&676N6U6
+6(6/6V6f6k6w6
+6(6;6B6i6y6~6
+6)606W6g6l6x6
+6)626
+6)646U6[6b6n6
+6)6:6A6N6g6n6t6~6
+6*666B6N6Z6f6r6~6
+6+606<6R6Y6
+6+616=6C6O6U6a6g6s6y6
+6+62686=6I6Z6a6
+6+6>6E6l6|6
+6+777B7N7X7d7
+6+7O7
+6-6=6B6N6a6h6
+6.666A6I6T6\6g6o6z6
+6.6;6H6a6n6
+6.6<6
+6/646@6S6Z6
+600n~
+60C0b0r0y0
+626B6G6S6f6m6
+646N6U6s6
+646T6\6d6l6t6|6
+657>7T7x7
+666=Q
+666@6I6R6[6h6s6z6
+667H7\7s7x7
+686l6
+696G6j6
+6=6h6l6p6t6x6|6
+6?6F6[6}6
+6?6O6T6`6s6z6
+6?|H;
+6@6O6m6
+6@6P6U6a6t6{6
+6A6G6W6]6
+6B6K6
+6D6W6\6h6~6
+6D7n6
+6F6n6
+6F8U8{8
+6H7f7s7
+6I^O8
+6NaUxZ
+6R6.8
+6R6`6y6
+6S)fp
+6SfK-
+6V*XXZN
+6V7g7
+6cf}7,
+6d7r7
+6g7s7
+6lF~?
+6m?qO
+7 7%717D7K7r7
+7 7(70787@7H7P7X7`7h7p7x7
+7 7(7@7L7d7|7
+7 7)757>7J7S7_7h7t7}7
+7 7H7h7p7x7
+7 83888D8Z8a8
+7!7H7X7]7i7|7
+7"7)7G7[7'858
+7"7)7P7c7h7t7
+7"7*7
+7"7.7:7F7R7^7j7v7
+7"8.8
+7#7(747G7N7u7
+7#7(747I7Z7j7
+7#7(747J7Q7x7
+7#7)7/757;7A7G7M7S7Y7_7e7k7q7w7}7
+7#7*7e7
+7$7+7O7\7a7j7}7
+7$777>7e7u7z7
+7%7+747?7G7Q7Y7d7j7p7
+7%7,7S7c7h7t7
+7%787?7f7v7{7
+7%7>7R7b7
+7&727>7J7V7b7n7z7
+7&7P7Y7b778
+7'7,787K7R7y7
+7'7,787N7U7|7
+7'7-797?7K7Q7]7c7o7u7
+7'7.7?7H7U7b7n7z7
+7'7.7D7T7{7
+7'737?7K7W7c7o7{7
+7(7-797L7S7z7
+7(787=7I7\7c7
+7(787S7f7}7
+7(7<7T7`7
+7)797>7J7]7d7
+7)8/858
+7*7/7;7N7U7|7
+7*717X7h7m7y7
+7*767B7N7Z7f7r7~7
+7*818
+7+707<7O7V7}7
+7+777f8x8
+7+7<7C7^7
+7,7C7L7U7b7o7
+7,7P7t7
+7-727>7T7[7
+7-7=7B7N7a7h7
+7-7r7
+7.7A769F9d9p9
+7/8\8
+707<7W7c7
+707@7E7Q7d7k7
+717e7
+727>7c7
+737:7n7
+747<7D7L7T7\7d7l7t7|7
+747@7]7c7t7
+747D7I7U7h7o7
+748B8[8`8j8|8
+758;8n8t8
+75hU6
+777G7L7X7k7r7
+787H7M7Y7l7s7
+7:7A7W7^7
+7:7J7O7[7
+7;7K7P7\7o7v7
+7<8B8~8
+7=7R7^7x7
+7=aPE
+7>7d7
+7@7b7n7z7
+7ACycq
+7B7\7
+7E7U7Z7f7y7
+7F8\8
+7G<W""/i
+7I8U8
+7L8P8X8\8`8
+7M7S7
+7V7h7
+7]weS<
+7_77Q]
+7a7h7z7
+7b7i7m7t7
+7c9l&~1
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+7n'&vtn-`C
+7rXK5
+7t7);k
+7wV~g
+7~q0D8cf
+8 8'8N8^8c8o8
+8 8(80888@8H8P8X8`8h8p8x8
+8 838:8a8q8v8
+8 8D8P8t8
+8 8H9X9d9l9
+8!8(8O8_8d8p8
+8!8-8@8G8n8~8
+8!8H8[8`8l8
+8!91969B9U9\9
+8"8)8P8`8e8q8
+8"8.8:8F8R8^8j8v8
+8"92979C9V9]9
+8"959:9F9\9c9
+8#8*8:8g8t8{8
+8#8-8d8n8
+8#848[8y8
+8#868<8O8T8g8x8
+8$8+8R8e8j8v8
+8$8,848<8D8L8T8\8d8l8t8|8
+8$8K8[8`8l8
+8$919F9_9e9
+8%8+81878=8C8I8O8U8[8a8g8m8s8y8
+8%8,8S8c8h8t8
+8%818:8F8O8[8d8p8y8
+8%888
+8%8O8
+8%929:9M9`9g9
+8%959:9F9Y9`9
+8%:8:D:P:Y:t:
+8&828>8J8V8b8n8z8
+8&9,9f9x9
+8'8,888K8R8y8
+8'8:8M8
+8'8?8S8Y8`8
+8'9:9G9v9
+8(8/8V8f8k8w8
+8(888=8I8\8c8
+8(8;8P8\8y8~8
+8(cSG
+8)838?8I8U8_8k8u8
+8)868>8Q8d8k8
+8)898>8J8]8d8
+8)8:8J8{8
+8*868B8N8Z8f8r8~8
+8*868B8N8Z8n8z8
+8*8:8?8K8^8e8
+8*8=8D8k8{8
+8+808<8A8M8R8^8c8o8t8
+8+828>8Q8a8
+8+828A8S8_8
+8,818=8J8W8~8
+8,838I8P8u8
+8,838Z8j8o8{8
+8.858\8o8t8
+8/868Z8g8l8u8
+8/868]8m8r8~8
+80878^8n8s8
+808@8G8o8
+818:8T8Y8n8w8
+838I8Q8`8f8l8
+848<8D8\8t8x8
+848A8I8\8o8v8
+858B8W8
+868F8K8W8j8q8
+869H9k9
+87sy\
+888A8J8S8\8
+889D9P9r9
+8;8A8M8S8_8e8w8
+8;8h8t8
+8<8H8n8z8
+8=8I8
+8=8M8R8^8q8x8
+8=8}8
+8>8N8S8_8r8y8
+8>8W8]8}8
+8>eOH
+8@8P8U8a8t8{8
+8@8]8j8
+8B8r8
+8Cz3#7
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8F9L9]9
+8JJVF
+8KBvp
+8Nn]N
+8R9Y9e9n9
+8\ U[
+8eXIfMM
+8e{:<
+8i_A@g
+8kXEJ
+8s={_
+8{sK~
+9 9$9(9,9094989<9@9D9H9L9P9T9X9V;l;
+9 9'9N9^9c9o9
+9 9(9,9
+9 9(90989@9H9P9X9`9h9p9x9
+9 939:9a9q9v9
+9 :0:5:A:T:[:
+9!9'9-93999?9E9K9Q9W9]9c9i9o9u9{9
+9!9(9O9_9d9p9
+9!9*939<9L9Y9p9
+9!9-969B9N9Z9f9r9~9
+9!929G9P9o9t9
+9!9>9
+9!9N9[9b9n9
+9"9'939\9i9q9
+9"9)9P9`9e9q9
+9"9+949=9F9O9g9p9y9
+9"9.9:9F9R9^9j9v9
+9"9.9:9F9R9f9r9~9
+9"9.9B9N9Z9f9r9~9
+9"9/9<9c9s9x9
+9#9(949G9N9u9
+9#969=9d9t9y9
+9$9)959H9O9v9
+9$909C9J9q9
+9%919;9G9Q9]9
+9%989?9f9v9{9
+9%9N9[9c9v9
+9%:5:::F:Y:`:
+9&9/9<9L9
+9&929>9J9V9b9n9z9
+9&:5:l:|:
+9'9,989K9R9y9
+9'9/9B9U9\9
+9'9:9A9e9r9w9
+9(9,9@9H9L9T9l9
+9(9/9V9f9k9w9
+9)989@9O9W9f9n9}9
+9*9/9;9N9U9|9
+9*919X9k9p9|9
+9*969B9N9Z9f9r9~9
+9*969J9V9b9n9z9
+9*9D9p9
+9+909<9R9Y9
+9+9R9j9z9
+9+9X9{9
+9,9:9
+9,9?9D9P9f9m9
+9.939?9R9Y9
+9.959\9l9q9}9
+9.9J9d9y9
+9/9?9D9P9c9j9
+929c9
+93:-C8a
+949<9H9p9x9
+94:h;
+959:9F9L9b9q9|9
+96mNI
+97nqW
+989D9
+9;9K9|9
+9;9L9t9}9
+9<9D9L9T9\9d9l9t9|9
+9<9E9N9U9]9f9p9v9{9
+9>#XtwN_
+9B9R9W9c9v9}9
+9F:L:
+9F:U:}:
+9IDAT(
+9J9T9j9
+9M9S9k9q9~9
+9Q$~$
+9S:f:
+9S:q:
+9_0~+
+9_:m:}:0;=;C;{;
+9cU{Of
+9h:|:
+9j9v9
+9jLAB
+9k*q0
+9lZLN
+9r9~9
+9rcrau|
+9wj}hG
+9|=4>8>@>
+9|I\[`
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:
+: :':E:S:/=8=n>
+: :(:0:8:@:
+: :(:0:8:@:H:P:X:`:h:p:x:
+: :6:=:d:w:|:
+: :G:W:\:h:{:
+: ;5;A;h;m;r;~;
+: oUV7
+:!:&:2:E:L:s:
+:!:C:S:m:
+:!:H:X:]:i:|:
+:!;5;@;W;`;i;y;
+:":':3:F:M:t:
+:":):O:`:
+:":):P:c:h:t:
+:":.:::F:R:^:j:v:
+:#:(:4:G:N:u:
+:#:):/:5:;:A:G:M:S:Y:_:e:k:q:w:}:
+:#:/:9:E:n:u:
+:#:9:T:b:p:x:~:
+:$:):5:H:O:v:
+:$:+:R:b:g:s:
+:$:-:6:?:H:Q:q:
+:$:0:l:
+:$:<:@:T:\:`:h:
+:$:K:[:`:l:
+:$:u:~:
+:%:+:D:P:\:h:V<^<f<
+:%:1:O:[:
+:%;;;X;{;
+:&:+:0:A:O:p:y:~:
+:&:.:9:A:X:`:k:s:
+:&:2:>:J:V:b:n:z:
+:&;I;U;a;
+:':.:A:Y:e:u:
+:':.:U:e:j:v:
+:':0:<:X:`:k:s:|:
+:':7:<:H:[:b:
+:':::A:h:x:}:
+:(:8:=:I:\:c:
+:(rs,$
+:):.:::M:T:{:
+:):5:\:t:
+:*:/:;:N:U:|:
+:*:6:B:N:Z:f:r:~:
+:*:::?:K:^:e:
+:+:5:=:G:O:X:i:p:x:
+:+;7;C;O;v;
+:,:3:Z:m:r:~:
+:-:2:>:Q:X:
+:.;f;t;
+:/res/disksmart.ico
+:/res/ico_exit16.png
+:/res/ico_logo_pallets_disksmart16.png
+:/res/ico_show16.png
+:0806
+:0:8:\:p:
+:1:E:P:g:p:y:
+:1}"L
+:4&\_
+:5:B:I:U:
+:5:E:J:V:i:p:
+:6:E:
+:6:F:`:v:
+:7:=:C:I:O:U:\:c:j:q:x:
+:7:J:h:~:
+:9:I:N:Z:m:t:
+:::J:O:[:n:u:
+:<:H:l:x:
+:=:M:R:^:q:x:
+:@:P:U:a:t:{:
+:B:&<8<k<
+:D:T:Y:e:x:
+:E:e:
+:F:T:g:o:v:|:
+:F;T;g;o;v;|;
+:F;X;p;
+:G:M:^:
+:G;S;q;&<<<d<y<
+:H{9x
+:J~<~'
+:Mgq/]
+:U|r*C
+:V:h:
+:]:d:t:
+:_l0f
+:e;l;H=L=P=T=
+:g:r:
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:n7<^s 
+:nr3t^S
+:p2OFs
+:tQdI
+; ;';N;^;c;o;
+; ;(;0;8;@;H;P;X;`;h;p;x;
+; ;,;?;F;m;};
+; ;8;D;\;t;|;
+; <&<o<{<
+; <0<5<A<T<[<
+;!;*;D;M;X;a;u;~;
+;!;-;6;G;n;~;
+;!?-?
+;";';2;8;H;V;_;e;j;r;w;
+;";);P;`;e;q;
+;";.;:;F;R;^;j;v;
+;";5;<;c;s;x;
+;#;:;F;P;V;c;
+;#<3<8<D<W<^<
+;$;(;,;0;
+;$;-;6;?;_;
+;$;/;7;B=N=b=n=
+;$;0;C;J;q;
+;$;K;[;`;l;
+;$;V;h;
+;$;r;x;
+;$<4<9<E<X<_<
+;%;+;1;7;=;C;I;O;U;[;a;g;m;s;y;
+;%;8;?;f;v;{;
+;%;m;y;
+;&;+;7;J;Q;x;
+;&;2;>;J;V;b;n;z;
+;&;2;>;R;^;j;v;
+;&;M;];b;n;
+;&<5<M<]<f<m<w<
+;';-;
+;';0;9;E;Q;Z;c;l;u;~;
+;(;`;
+;(;e;w;
+;(;j;
+;);.;:;c;p;x;
+;);3;?;I;U;j;v;
+;);<;C;j;z;
+;*;6;B;N;Z;f;r;~;
+;*;=;B;N;d;k;
+;*;=;D;k;{;
+;+;E;[;u;
+;,;8;\;h;
+;,;<;A;M;`;g;
+;,;Q;h;o;
+;-;4;[;k;p;|;
+;-<3<D<
+;000J
+;03.th
+;1;8;_;o;t;
+;1=8=
+;2;9;`;p;u;
+;4;G;L;X;n;u;
+;5;p<|<
+;5<><T<u<~<
+;6;H;j;
+;7;C;\;h;u;
+;7;G;L;X;k;r;
+;8;H;M;Y;l;s;
+;9;I;N;Z;m;t;
+;:;@;Q;
+;:;J;O;[;n;u;
+;;;J;^;
+;?;O;T;`;s;z;
+;@;P;U;a;t;{;
+;A;F;K;W;d;
+;AE<i
+;B<j<
+;C;S;X;d;w;~;
+;F;V;[;g;z;
+;H<x<
+;Ov*n
+;QWCL
+;R<]<
+;Tr]6
+;Us-{
+;V<h<
+;Wu$/
+;Z<n<
+;ZscO~
+;`mvH|
+;b;t;
+;font-size:14
+;j){LH
+;mEaw
+;o6Sl/Px
+;uc!Wn
+;{;+<
+< 1.8 inch
+< <(<
+< <(<0<8<@<H<D=d=l=t=|=
+< <(<0<8<@<H<P<X<`<h<p<x<
+< <,<5<N<
+< <0<9<@<J<T<^<m<v<
+<!<&<2<;<L<s<
+<!<&<2<E<L<s<
+<!<&<~<
+<!<'<-<3<9<?<E<K<Q<W<]<c<i<o<u<{<
+<!<3<?<v<
+<!=1=6=B=U=\=
+<"<'<3<F<M<t<
+<"<.<:<F<R<^<j<v<
+<"=R=
+<#=3=8=D=W=^=
+<#=N=
+<$<)<5<H<O<v<
+<$<+<R<b<g<s<
+<$<0<C<J<q<
+<$<7<><e<u<z<
+<$<7<C<V<]<p<
+<$<<<T<X<l<p<
+<$<a<{<
+<$=4=9=E=X=_=
+<%<.<7<`<&=8=_=o=u=
+<%<8<?<f<v<{<
+<%=H=g=
+<& Q8
+<&<2<><J<V<b<n<z<
+<&<:<@<`<h<n<
+<&<:<F<R<^<j<v<
+<&z?)
+<'</<B<U<\<
+<'<7<<<H<[<b<
+<'=-=>=
+<'=A=m=z=
+<(<4<<<`<
+<(<;<B<i<y<~<
+<(<><E<l<
+<(<T<h<t<|<
+<)<K<W<f<r<
+<*<6<B<N<Z<f<r<~<
+<*<:<?<K<^<e<
+<*=Z=x=
+<+<7<U<Z<n<
+<+<><E<l<|<
+<-<_<t<
+<.<><C<O<b<i<
+</<4<@<S<Z<
+</<6<]<m<r<~<
+</<?<D<P<c<j<
+</<F<
+</assembly>
+</span>
+</svg>
+<0:08
+<0<7<^<n<s<
+<0<C<L<l<
+<1<8<_<o<t<
+<1<A<F<R<e<l<
+<1<F<X<_<n<z<
+<2<9<`<p<u<
+<3.0oi
+<4<;<b<u<z<
+<4=?=i=x=
+<4>;>M>
+<4>@>
+<5<E<J<V<i<p<
+<5IkQ
+<8=C=V=h=
+<9<a<j<u<~<
+<<<D<L<T<\<d<l<t<|<
+<<<L<Q<]<p<w<
+<<=z=
+<<?xml version="1.0" encoding="UTF-8"?>
+<>=J=h=6>L>r>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?z|I
+<E<[<x<
+<EuBuyNowBtn.qml
+<EuGradientProgressBar.qml
+<EuImageButtonGroup.qml
+<EuPopWindow.qml
+<EuRoundButtonOld.qml
+<EuRoundedGradientRectangle.qml
+<EuScrollViewStyleOld.qml
+<EuTextFieldStyle.qml
+<EuTextInput.qml
+<EuToolTip.qml
+<F<T<k<
+<F<V<i<v<
+<F=O=X=n=
+<InfoItem.qml
+<MQ];sT
+<RotatingWait.qml
+<T<Z<l<r<
+<Title.qml
+<U<z<
+<Zfm?
+<[YVy0Fg
+<a<f<l<s<
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+<f=o=
+<i<t<
+<m13|
+<n`67
+<p<tb
+<span style="color:#6e7480
+<span style="color:#898c99
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<|!><38?
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=
+= =(=0=8=@=H=P=X=`=h=p=x=
+= =D=L=X=
+= =G=W=\=h={=
+= =L=T=x=
+= >'>C>T>X>\>`>d>h>l>p>t>x>|>
+=!=&=2=E=L=s=
+=!=4=;=b=r=w=
+=!>->P>`>
+="=(=2===C=J=P=_=k=q=
+="=)=P=`=e=q=
+="=.=:=F=R=^=j=v=
+="=I=Y=^=j=}=
+=#=)=/=5=;=A=G=M=S=Y=_=e=k=q=w=}=
+=#=)=H=N=Y=e=}=
+=#=5=j=z=
+=#=J=Z=_=k=~=
+=$=K=
+=%=-=@=S=Z=
+=%=3=
+=%=4=@=Q=]=o={=
+=%=8=D=J=]=s={=
+=%>.>7>@>I>R>[>d>m>
+=&=+=7=J=Q=x=
+=&=-=T=d=i=u=
+=&=2=>=J=V=b=n=z=
+=&=7=Q=d=r=
+=&=9=E=^=
+=&=M=]=b=n=
+=&>6>;>G>Z>a>
+=&>8>R>c>x>
+='=.=U=e=j=v=
+='OO,
+=(=@=N=j=p=
+=)=0=H=M=
+=)=0=W=g=l=x=
+=)=9=>=J=]=d=
+=*=6=B=N=Z=f=r=~=
+=*=6=B=V=b=n=z=
+=*=:=?=K=^=e=
+=*=:=J=[=l=w=
+=+=4=@=I=W=_=w=
+=-=4=[=k=p=|=
+=-=6===G=Q=[=j=s=|=
+=-===B=N=a=h=
+=/=4=<=U=g=
+=/=>=f=m=
+=0=<=T=l=t=|=
+=0=@=E=Q=z=
+=2=E=J=V=l=s=
+=3={=
+=3>Q>
+=4`\z
+=5=>=^=
+=5=E=J=V=i=p=
+=6>N>
+=7=G=L=X=
+=7=G=L=X=k=r=
+=8=H=M=Y=l=s=
+=:=J=O=[=n=u=
+=;=h=t=
+=<=O=T=`=
+==>O>r>
+==>p>y>
+=A=H=
+=D=d=l=t=|=
+=E=U=Z=f=y=
+=F=V=[=g=z=
+=F?X?l?s?
+=Fl_y
+=J^3gM
+=L9o<
+=MXBf
+=O>W>
+=ST}|
+=`p3%"
+=a>r>w>
+=oPv]
+=pylF
+=q=z=
+=ym2-
+=|Tv;
+> >$>(>,>0>4>8>H>L>P>T>X>\>`>d>h>l>p>t>
+> >(>0>8>@>H>P>X>`>h>p>x>
+> >,>?>F>m>}>
+> >->2>>>[>`>l>
+> >G>W>\>h>{>
+>!:|1
+>!>&>2>E>L>s>
+>!>(>O>_>d>p>
+>!>*>G>X>q>
+>!>I>U>[>g>
+>!?1?6?B?U?\?
+>!?_?
+>">)>P>`>e>q>
+>">.>:>F>R>^>j>v>
+>">.>;>g>s>
+>">.>A>H>o>
+>">1>:>I>R>a>j>y>
+>">3>H>W>u>~>
+>">I>Y>^>j>}>
+>"?/?;?H?t?y?
+>"?6?
+>"s"V
+>#>/>;>G>S>_>k>w>
+>#>/>B>I>p>
+>#>J>Z>_>k>~>
+>$>(><>@>T>\>`>d>l>
+>$>)>5>H>O>v>
+>$>+>7>G>M>q>}>
+>$>->F>`>z>
+>$>0><>H>T>`>l>
+>$>4>D>T>d>t>
+>$?4?9?E?n?{?
+>%>+>1>7>=>C>I>O>U>[>a>g>m>s>y>
+>%>,>S>c>h>t>
+>%>2>C>l>z>
+>%>5>J>V>\>
+>%>L>\>a>m>
+>%?<?e?n?w?
+>&>:>F>R>^>j>v>
+>'>0>9>B>K>T>]>f>o>x>
+>'>^>e>
+>'Xxv
+>(>->9>L>S>z>
+>)>.>:>M>T>{>
+>)>8>@>K>S>b>j>y>
+>*>6>B>N>Z>f>r>~>
+>*>6>B>N>b>n>z>
+>*>=>D>k>{>
+>*>>>N>U>
+>+>0><>O>V>}>
+>+>>>E>l>|>
+>+>X>{>
+>,>9>`>p>u>
+>,u?SW3
+>->4>[>k>p>|>
+>.>d>p>{>
+>/>4>@>i>v>~>
+>/>6>]>m>r>~>
+>/>;>
+>/?<?K?[?
+>0<0:
+>0>7>^>n>s>
+>0>8>@>H>P>X>`>h>p>x>
+>0><>`>l>
+>0>L>`>g>z>
+>0>N>T>j>
+>1?8?J?
+>2>8>A>
+>4>D>I>U>h>o>
+>4?=?F?_?
+>56rv
+>6???F?O?V?b?
+>7>@>L?W?c?k?q?
+>7>G>L>X>k>r>
+>8>?>Q>
+>9>a>f>k>w>
+>;B^.'
+><>L>Q>]>p>w>
+>??U?
+>?qq~
+>?~>=x
+>A>J>T>]>g>u>~>
+>E>U>Z>f>y>
+>EuRoundButton.json
+>F>R>g>p>y>
+>H?~?
+>HV)=
+>L>R>k>w>
+>L?l?t?|?
+>R3kI^&t
+>U?i?
+>Y>n>u>
+>f?x?
+>gY_i%q
+>http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=
+>k$718^U
+>w*ybE
+? ?$?(?,?0?4?8?<?@?D?H?L?t?x?|?
+? ?%?1?D?K?r?
+? ?'?
+? ?(?0?8?@?H?P?X?`?h?
+? ?(?0?8?@?H?P?X?`?h?p?x?
+? ?,?9?F?m?}?
+?!?4?;?b?r?w?
+?!?:?S?f?
+?"?.?:?F?R?^?j?v?
+?"?.?A?H?o?
+?#?(?4?G?N?u?
+?#?/?B?I?p?
+?#?1?@?H?W?_?n?v?
+?#?<?@?D?H?
+?#?C?S?t?
+?$?)?5?H?O?v?
+?$?+?I?W?
+?$?,?4?D?L?\?d?l?t?|?
+?$?,???R?Y?
+?%?0?8?C?K?V?^?i?q?|?
+?%?L?\?a?m?
+?&?2?>?J?V?b?n?z?
+?&?2?>?J?^?j?v?
+?&?3?Z?j?o?{?
+?&?T?]?
+?'?,?8?K?R?y?
+?(?4?L?d?l?p?
+?)?0?a?o?
+?)?2?=?F?`?
+?)?8?F?Q?U?Z?`?d?j?t?~?
+?)?9?
+?*?6?B?N?Z?f?r?~?
+?*?=?D?k?{?
+?*?C?
+?+?4?=?F?R?^?j?s?
+?+?4?M?
+?,?8?\?h?
+?-2wMdc
+?-?3?>?J?U?a?
+?-?=?
+?-?T?
+?/?4?@?S?Z?
+?/?6?<?~?
+?/?6?]?m?r?~?
+?/?B?K?h?
+?0?6?;?I?O?
+?0?@?E?Q?d?k?
+?1?A?F?R?e?l?
+?1s&o
+?22jG
+?2?E?L?s?
+?3?C?H?T?g?n?
+?4?D?I?U?h?o?
+?7?>?P?\?b?
+?7?G?L?X?k?r?
+?7?G?S?Z?f?
+?99IK
+?:?J?O?[?
+?;?e?n?w?
+?<8]^
+?<?t?
+?=?I?o?{?
+?>?N?S?_?r?y?
+?>?e?
+??0QAbstractItemModel@@QAE@PAVQObject@@@Z
+??0QAbstractNativeEventFilter@@QAE@XZ
+??0QApplication@@QAE@AAHPAPADH@Z
+??0QByteArray@@QAE@ABV0@@Z
+??0QByteArray@@QAE@PBDH@Z
+??0QByteArray@@QAE@XZ
+??0QChar@@QAE@H@Z
+??0QChar@@QAE@UQLatin1Char@@@Z
+??0QDeadlineTimer@@QAE@W4ForeverConstant@0@W4TimerType@Qt@@@Z
+??0QDir@@QAE@ABVQString@@@Z
+??0QFont@@QAE@ABVQString@@HH_N@Z
+??0QIcon@@QAE@ABVQString@@@Z
+??0QIcon@@QAE@XZ
+??0QLocalSocket@@QAE@PAVQObject@@@Z
+??0QMenu@@QAE@PAVQWidget@@@Z
+??0QMessageLogger@@QAE@PBDH0@Z
+??0QModelIndex@@QAE@XZ
+??0QObject@@QAE@PAV0@@Z
+??0QProcess@@QAE@PAVQObject@@@Z
+??0QQmlApplicationEngine@@QAE@PAVQObject@@@Z
+??0QRect@@QAE@XZ
+??0QSettings@@QAE@ABVQString@@W4Format@0@PAVQObject@@@Z
+??0QSize@@QAE@XZ
+??0QString@@QAE@$$QAV0@@Z
+??0QString@@QAE@ABV0@@Z
+??0QString@@QAE@PBD@Z
+??0QString@@QAE@XZ
+??0QThread@@QAE@PAVQObject@@@Z
+??0QTimer@@QAE@PAVQObject@@@Z
+??0QTranslator@@QAE@PAVQObject@@@Z
+??0QUrl@@QAE@ABVQString@@W4ParsingMode@0@@Z
+??0QVariant@@QAE@ABV0@@Z
+??0QVariant@@QAE@ABV?$QMap@VQString@@VQVariant@@@@@Z
+??0QVariant@@QAE@ABVQString@@@Z
+??0QVariant@@QAE@H@Z
+??0QVariant@@QAE@I@Z
+??0QVariant@@QAE@PBD@Z
+??0QVariant@@QAE@XZ
+??0QWidget@@QAE@PAV0@V?$QFlags@W4WindowType@Qt@@@@@Z
+??1Connection@QMetaObject@@QAE@XZ
+??1QAbstractItemModel@@UAE@XZ
+??1QAbstractNativeEventFilter@@UAE@XZ
+??1QApplication@@UAE@XZ
+??1QByteArray@@QAE@XZ
+??1QDebug@@QAE@XZ
+??1QDir@@QAE@XZ
+??1QFont@@QAE@XZ
+??1QIcon@@QAE@XZ
+??1QLocalSocket@@UAE@XZ
+??1QMenu@@UAE@XZ
+??1QObject@@UAE@XZ
+??1QPixmap@@UAE@XZ
+??1QProcess@@UAE@XZ
+??1QQmlApplicationEngine@@UAE@XZ
+??1QSettings@@UAE@XZ
+??1QString@@QAE@XZ
+??1QThread@@UAE@XZ
+??1QTimer@@UAE@XZ
+??1QTranslator@@UAE@XZ
+??1QUrl@@QAE@XZ
+??1QVariant@@QAE@XZ
+??1QWidget@@UAE@XZ
+??4QByteArray@@QAEAAV0@PBD@Z
+??4QString@@QAEAAV0@$$QAV0@@Z
+??4QString@@QAEAAV0@ABV0@@Z
+??4QString@@QAEAAV0@PBD@Z
+??4QVariant@@QAEAAV0@$$QAV0@@Z
+??4QVariant@@QAEAAV0@ABV0@@Z
+??6QDebug@@QAEAAV0@PBD@Z
+??8@YA_NABVQString@@0@Z
+??8QString@@QBE_NPBD@Z
+???O?T?`?s?z?
+??M@YA_NABVQString@@0@Z
+??YQString@@QAEAAV0@PBD@Z
+?H?k?
+?H_c#
+?H|/r
+?IP.$
+?JW&l
+?LJ66
+?QStringList_contains@QtPrivate@@YA_NPBVQStringList@@ABVQString@@W4CaseSensitivity@Qt@@@Z
+?W;)d
+?W;)e
+?W;)f
+?W;)g
+?[:hV
+?_Xlength_error@std@@YAXPBD@Z
+?_Xout_of_range@std@@YAXPBD@Z
+?a+ED
+?absolutePath@QDir@@QBE?AVQString@@XZ
+?actionEvent@QMenu@@MAEXPAVQActionEvent@@@Z
+?actionEvent@QWidget@@MAEXPAVQActionEvent@@@Z
+?activate@QMetaObject@@SAXPAVQObject@@PBU1@HPAPAX@Z
+?addAction@QMenu@@QAEPAVQAction@@ABVQString@@@Z
+?addFile@QIcon@@QAEXABVQString@@ABVQSize@@W4Mode@1@W4State@1@@Z
+?allocateNode@QHashData@@QAEPAXH@Z
+?append@QByteArray@@QAEAAV1@D@Z
+?append@QByteArray@@QAEAAV1@PBD@Z
+?append@QListData@@QAEPAPAXXZ
+?append@QString@@QAEAAV1@ABV1@@Z
+?applicationDirPath@QCoreApplication@@SA?AVQString@@XZ
+?arg@QString@@QBE?AV1@ABV1@HVQChar@@@Z
+?arg@QString@@QBE?AV1@HHHVQChar@@@Z
+?arg@QString@@QBE?AV1@KHHVQChar@@@Z
+?arg@QString@@QBE?AV1@_KHHVQChar@@@Z
+?arguments@QCoreApplication@@SA?AVQStringList@@XZ
+?at@QListData@@QBEPAPAXH@Z
+?b8_s
+?begin@QListData@@QBEPAPAXXZ
+?beginResetModel@QAbstractItemModel@@IAEXXZ
+?buddy@QAbstractItemModel@@UBE?AVQModelIndex@@ABV2@@Z
+?canDropMimeData@QAbstractItemModel@@UBE_NPBVQMimeData@@W4DropAction@Qt@@HHABVQModelIndex@@@Z
+?canFetchMore@QAbstractItemModel@@UBE_NABVQModelIndex@@@Z
+?changeEvent@QMenu@@MAEXPAVQEvent@@@Z
+?changeEvent@QWidget@@MAEXPAVQEvent@@@Z
+?childEvent@QObject@@MAEXPAVQChildEvent@@@Z
+?className@QMetaObject@@QBEPBDXZ
+?cleanPath@QDir@@SA?AVQString@@ABV2@@Z
+?close@QProcess@@UAEXXZ
+?closeEvent@QWidget@@MAEXPAVQCloseEvent@@@Z
+?compare_helper@QString@@CAHPBVQChar@@HPBDHW4CaseSensitivity@Qt@@@Z
+?connectImpl@QObject@@CA?AVConnection@QMetaObject@@PBV1@PAPAX01PAVQSlotObjectBase@QtPrivate@@W4ConnectionType@Qt@@PBHPBU3@@Z
+?connectNotify@QObject@@MAEXABVQMetaMethod@@@Z
+?connectToServer@QLocalSocket@@QAEXABVQString@@V?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?constData@QString@@QBEPBVQChar@@XZ
+?contextMenuEvent@QWidget@@MAEXPAVQContextMenuEvent@@@Z
+?createData@QMapDataBase@@SAPAU1@XZ
+?createIndex@QAbstractItemModel@@IBE?AVQModelIndex@@HHPAX@Z
+?createNode@QMapDataBase@@QAEPAUQMapNodeBase@@HHPAU2@_N@Z
+?currentPath@QDir@@SA?AVQString@@XZ
+?customEvent@QObject@@MAEXPAVQEvent@@@Z
+?data@QByteArray@@QAEPADXZ
+?debug@QMessageLogger@@QBE?AVQDebug@@XZ
+?detach@QListData@@QAEPAUData@1@H@Z
+?detach_grow@QListData@@QAEPAUData@1@PAHH@Z
+?detach_helper@QHashData@@QAEPAU1@P6AXPAUNode@1@PAX@ZP6AX0@ZHH@Z
+?devType@QWidget@@UBEHXZ
+?disconnectNotify@QObject@@MAEXABVQMetaMethod@@@Z
+?disconnected@QLocalSocket@@QAEXXZ
+?dispose@QListData@@QAEXXZ
+?dispose@QListData@@SAXPAUData@1@@Z
+?dragEnterEvent@QWidget@@MAEXPAVQDragEnterEvent@@@Z
+?dragLeaveEvent@QWidget@@MAEXPAVQDragLeaveEvent@@@Z
+?dragMoveEvent@QWidget@@MAEXPAVQDragMoveEvent@@@Z
+?dropEvent@QWidget@@MAEXPAVQDropEvent@@@Z
+?dropMimeData@QAbstractItemModel@@UAE_NPBVQMimeData@@W4DropAction@Qt@@HHABVQModelIndex@@@Z
+?dynamicMetaObject@QObjectData@@QBEPAUQMetaObject@@XZ
+?end@QListData@@QBEPAPAXXZ
+?endResetModel@QAbstractItemModel@@IAEXXZ
+?enterEvent@QMenu@@MAEXPAVQEvent@@@Z
+?enterEvent@QWidget@@MAEXPAVQEvent@@@Z
+?event@QMenu@@MAE_NPAVQEvent@@@Z
+?event@QObject@@UAE_NPAVQEvent@@@Z
+?event@QThread@@UAE_NPAVQEvent@@@Z
+?event@QWidget@@MAE_NPAVQEvent@@@Z
+?eventFilter@QObject@@UAE_NPAV1@PAVQEvent@@@Z
+?exec@QApplication@@SAHXZ
+?exists@QFile@@SA_NABVQString@@@Z
+?exists@QFileInfo@@SA_NABVQString@@@Z
+?exitCode@QProcess@@QBEHXZ
+?fetchMore@QAbstractItemModel@@UAEXABVQModelIndex@@@Z
+?finished@QThread@@QAEXUQPrivateSignal@1@@Z
+?flush@QLocalSocket@@QAE_NXZ
+?focusInEvent@QWidget@@MAEXPAVQFocusEvent@@@Z
+?focusNextPrevChild@QMenu@@MAE_N_N@Z
+?focusNextPrevChild@QWidget@@MAE_N_N@Z
+?focusOutEvent@QWidget@@MAEXPAVQFocusEvent@@@Z
+?freeData@QMapDataBase@@SAXPAU1@@Z
+?freeNodeAndRebalance@QMapDataBase@@QAEXPAUQMapNodeBase@@@Z
+?freeTree@QMapDataBase@@QAEXPAUQMapNodeBase@@H@Z
+?free_helper@QHashData@@QAEXP6AXPAUNode@1@@Z@Z
+?fromAscii_helper@QString@@CAPAU?$QTypedArrayData@G@@PBDH@Z
+?fromUtf8@QString@@SA?AV1@PBDH@Z
+?fromWCharArray@QString@@SA?AV1@PB_WH@Z
+?hasHeightForWidth@QWidget@@UBE_NXZ
+?headerData@QAbstractItemModel@@UBE?AVQVariant@@HW4Orientation@Qt@@H@Z
+?heightForWidth@QWidget@@UBEHH@Z
+?hideEvent@QMenu@@MAEXPAVQHideEvent@@@Z
+?hideEvent@QWidget@@MAEXPAVQHideEvent@@@Z
+?indexOf@QString@@QBEHABV1@HW4CaseSensitivity@Qt@@@Z
+?initPainter@QWidget@@MBEXPAVQPainter@@@Z
+?inputMethodEvent@QWidget@@MAEXPAVQInputMethodEvent@@@Z
+?inputMethodQuery@QWidget@@UBE?AVQVariant@@W4InputMethodQuery@Qt@@@Z
+?insertColumns@QAbstractItemModel@@UAE_NHHABVQModelIndex@@@Z
+?insertRows@QAbstractItemModel@@UAE_NHHABVQModelIndex@@@Z
+?installNativeEventFilter@QCoreApplication@@QAEXPAVQAbstractNativeEventFilter@@@Z
+?installTranslator@QCoreApplication@@SA_NPAVQTranslator@@@Z
+?isEmpty@QListData@@QBE_NXZ
+?isRunning@QThread@@QBE_NXZ
+?itemData@QAbstractItemModel@@UBE?AV?$QMap@HVQVariant@@@@ABVQModelIndex@@@Z
+?k?r?
+?kernelVersion@QSysInfo@@SA?AVQString@@XZ
+?keyPressEvent@QMenu@@MAEXPAVQKeyEvent@@@Z
+?keyPressEvent@QWidget@@MAEXPAVQKeyEvent@@@Z
+?keyReleaseEvent@QWidget@@MAEXPAVQKeyEvent@@@Z
+?leaveEvent@QMenu@@MAEXPAVQEvent@@@Z
+?leaveEvent@QWidget@@MAEXPAVQEvent@@@Z
+?left@QString@@QBE?AV1@H@Z
+?load@QQmlApplicationEngine@@QAEXABVQUrl@@@Z
+?load@QTranslator@@QAE_NABVQString@@000@Z
+?match@QAbstractItemModel@@UBE?AV?$QList@VQModelIndex@@@@ABVQModelIndex@@HABVQVariant@@HV?$QFlags@W4MatchFlag@Qt@@@@@Z
+?metaObject@QMenu@@UBEPBUQMetaObject@@XZ
+?metaObject@QThread@@UBEPBUQMetaObject@@XZ
+?metaObject@QTimer@@UBEPBUQMetaObject@@XZ
+?metaObject@QWidget@@UBEPBUQMetaObject@@XZ
+?metric@QWidget@@MBEHW4PaintDeviceMetric@QPaintDevice@@@Z
+?mimeData@QAbstractItemModel@@UBEPAVQMimeData@@ABV?$QList@VQModelIndex@@@@@Z
+?mimeTypes@QAbstractItemModel@@UBE?AVQStringList@@XZ
+?minimumSizeHint@QWidget@@UBE?AVQSize@@XZ
+?mouseDoubleClickEvent@QWidget@@MAEXPAVQMouseEvent@@@Z
+?mouseMoveEvent@QMenu@@MAEXPAVQMouseEvent@@@Z
+?mouseMoveEvent@QWidget@@MAEXPAVQMouseEvent@@@Z
+?mousePressEvent@QMenu@@MAEXPAVQMouseEvent@@@Z
+?mousePressEvent@QWidget@@MAEXPAVQMouseEvent@@@Z
+?mouseReleaseEvent@QMenu@@MAEXPAVQMouseEvent@@@Z
+?mouseReleaseEvent@QWidget@@MAEXPAVQMouseEvent@@@Z
+?move@QWidget@@QAEXABVQPoint@@@Z
+?moveColumns@QAbstractItemModel@@UAE_NABVQModelIndex@@HH0H@Z
+?moveEvent@QWidget@@MAEXPAVQMoveEvent@@@Z
+?moveRows@QAbstractItemModel@@UAE_NABVQModelIndex@@HH0H@Z
+?nativeEvent@QWidget@@MAE_NABVQByteArray@@PAXPAJ@Z
+?number@QString@@SA?AV1@HH@Z
+?number@QString@@SA?AV1@KH@Z
+?paintEngine@QWidget@@UBEPAVQPaintEngine@@XZ
+?paintEvent@QMenu@@MAEXPAVQPaintEvent@@@Z
+?paintEvent@QWidget@@MAEXPAVQPaintEvent@@@Z
+?qRegisterResourceData@@YA_NHPBE00@Z
+?qResourceFeatureZlib@@YAEXZ
+?qUnregisterResourceData@@YA_NHPBE00@Z
+?qgetenv@@YA?AVQByteArray@@PBD@Z
+?qputenv@@YA_NPBDABVQByteArray@@@Z
+?qstrcmp@@YAHABVQByteArray@@PBD@Z
+?qt_metacall@QAbstractItemModel@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+?qt_metacall@QMenu@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+?qt_metacall@QObject@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+?qt_metacall@QThread@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+?qt_metacall@QTimer@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+?qt_metacall@QWidget@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+?qt_metacast@QAbstractItemModel@@UAEPAXPBD@Z
+?qt_metacast@QMenu@@UAEPAXPBD@Z
+?qt_metacast@QObject@@UAEPAXPBD@Z
+?qt_metacast@QThread@@UAEPAXPBD@Z
+?qt_metacast@QTimer@@UAEPAXPBD@Z
+?qt_metacast@QWidget@@UAEPAXPBD@Z
+?quit@QCoreApplication@@SAXXZ
+?readAll@QIODevice@@QAE?AVQByteArray@@XZ
+?readyRead@QIODevice@@QAEXXZ
+?recalcMostLeftNode@QMapDataBase@@QAEXXZ
+?redirected@QWidget@@MBEPAVQPaintDevice@@PAVQPoint@@@Z
+?registerNormalizedType@QMetaType@@SAHABVQByteArray@@P6AXPAX@ZP6APAX1PBX@ZHV?$QFlags@W4TypeFlag@QMetaType@@@@PBUQMetaObject@@@Z
+?registerNormalizedTypedef@QMetaType@@SAHABVQByteArray@@H@Z
+?registerResource@QResource@@SA_NABVQString@@0@Z
+?rehash@QHashData@@QAEXH@Z
+?removeColumns@QAbstractItemModel@@UAE_NHHABVQModelIndex@@@Z
+?removeRows@QAbstractItemModel@@UAE_NHHABVQModelIndex@@@Z
+?removeTranslator@QCoreApplication@@SA_NPAVQTranslator@@@Z
+?replace@QString@@QAEAAV1@ABV1@0W4CaseSensitivity@Qt@@@Z
+?reserve@QByteArray@@QAEXH@Z
+?resizeEvent@QWidget@@MAEXPAVQResizeEvent@@@Z
+?retranslate@QQmlEngine@@QAEXXZ
+?revert@QAbstractItemModel@@UAEXXZ
+?right@QString@@QBE?AV1@H@Z
+?roleNames@QAbstractItemModel@@UBE?AV?$QHash@HVQByteArray@@@@XZ
+?rootContext@QQmlEngine@@QBEPAVQQmlContext@@XZ
+?row@QModelIndex@@QBEHXZ
+?self@QCoreApplication@@0PAV1@A
+?setAttribute@QCoreApplication@@SAXW4ApplicationAttribute@Qt@@_N@Z
+?setContextProperty@QQmlContext@@QAEXABVQString@@PAVQObject@@@Z
+?setData@QAbstractItemModel@@UAE_NABVQModelIndex@@ABVQVariant@@H@Z
+?setFont@QApplication@@SAXABVQFont@@PBD@Z
+?setHeaderData@QAbstractItemModel@@UAE_NHW4Orientation@Qt@@ABVQVariant@@H@Z
+?setIcon@QAction@@QAEXABVQIcon@@@Z
+?setItemData@QAbstractItemModel@@UAE_NABVQModelIndex@@ABV?$QMap@HVQVariant@@@@@Z
+?setText@QAction@@QAEXABVQString@@@Z
+?setValue@QSettings@@QAEXABVQString@@ABVQVariant@@@Z
+?setVisible@QWidget@@UAEX_N@Z
+?sharedPainter@QWidget@@MBEPAVQPainter@@XZ
+?shared_null@QHashData@@2U1@B
+?shared_null@QListData@@2UData@1@B
+?shared_null@QMapDataBase@@2U1@B
+?show@QWidget@@QAEXXZ
+?showEvent@QWidget@@MAEXPAVQShowEvent@@@Z
+?sibling@QAbstractItemModel@@UBE?AVQModelIndex@@HHABV2@@Z
+?size@QListData@@QBEHXZ
+?sizeHint@QMenu@@UBE?AVQSize@@XZ
+?sizeHint@QWidget@@UBE?AVQSize@@XZ
+?sort@QAbstractItemModel@@UAEXHW4SortOrder@Qt@@@Z
+?span@QAbstractItemModel@@UBE?AVQSize@@ABVQModelIndex@@@Z
+?split@QString@@QBE?AVQStringList@@ABV1@V?$QFlags@W4SplitBehaviorFlags@Qt@@@@W4CaseSensitivity@Qt@@@Z
+?split@QString@@QBE?AVQStringList@@VQChar@@V?$QFlags@W4SplitBehaviorFlags@Qt@@@@W4CaseSensitivity@Qt@@@Z
+?start@QProcess@@QAEXABVQString@@V?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?start@QThread@@QAEXW4Priority@1@@Z
+?start@QTimer@@QAEXH@Z
+?startsWith@QByteArray@@QBE_NPBD@Z
+?staticMetaObject@QAbstractItemModel@@2UQMetaObject@@B
+?staticMetaObject@QAction@@2UQMetaObject@@B
+?staticMetaObject@QIODevice@@2UQMetaObject@@B
+?staticMetaObject@QLocalSocket@@2UQMetaObject@@B
+?staticMetaObject@QObject@@2UQMetaObject@@B
+?staticMetaObject@QThread@@2UQMetaObject@@B
+?staticMetaObject@QTimer@@2UQMetaObject@@B
+?stop@QTimer@@QAEXXZ
+?submit@QAbstractItemModel@@UAE_NXZ
+?supportedDragActions@QAbstractItemModel@@UBE?AV?$QFlags@W4DropAction@Qt@@@@XZ
+?supportedDropActions@QAbstractItemModel@@UBE?AV?$QFlags@W4DropAction@Qt@@@@XZ
+?tabletEvent@QWidget@@MAEXPAVQTabletEvent@@@Z
+?timeout@QTimer@@QAEXUQPrivateSignal@1@@Z
+?timerEvent@QObject@@MAEXPAVQTimerEvent@@@Z
+?timerEvent@QTimer@@MAEXPAVQTimerEvent@@@Z
+?toInt@QString@@QBEHPA_NH@Z
+?toInt@QVariant@@QBEHPA_N@Z
+?toLocal8Bit@QString@@QGBE?AVQByteArray@@XZ
+?toMap@QVariant@@QBE?AV?$QMap@VQString@@VQVariant@@@@XZ
+?toStdString@QString@@QBE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?toStdWString@QString@@QBE?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+?toString@QVariant@@QBE?AVQString@@XZ
+?toUpper@QString@@QHAE?AV1@XZ
+?tr@QObject@@SA?AVQString@@PBD0H@Z
+?value@QSettings@@QBE?AVQVariant@@ABVQString@@ABV2@@Z
+?wait@QThread@@QAE_NVQDeadlineTimer@@@Z
+?waitForConnected@QLocalSocket@@QAE_NH@Z
+?waitForFinished@QProcess@@QAE_NH@Z
+?waitForStarted@QProcess@@QAE_NH@Z
+?yC6_
+@!z\0%=
+@"Y|m
+@$}iy
+@.data
+@.reloc
+@.rsrc
+@.tls
+@0>0<
+@0I0c0o0
+@[=4mQ
+@[eo>
+@_^[]
+@gDwfe
+@n@c3
+A *7*
+A*o:c
+A,#<k
+A,oiw
+A5EZK*
+A5G%?
+A5xnT
+A=,e=b
+AAM, 
+ACS-%d
+ACS-2 Revision 2
+ACS-2 Revision 3
+ACS-2 published, ANSI INCITS 482-2012
+ACS-3 Revision 3b
+ACS-3 Revision 4
+ACS-3 Revision 5
+ACS-3 published, ANSI INCITS 522-2014
+ACS-4 Revision 5
+ACS-4 published, ANSI INCITS 529-2018
+ADATA SP580
+ADATA SSD
+ADATA SU700
+ADATA SX950
+ADVAPI32.dll
+AIDAT(
+ALCnDxA
+ALIYUN_{C69BDD99-9D0B-43f2-A794-9B70DAD4A96A}
+AMD-RAID
+AMiJ36
+APM, 
+ARM32
+ARM64
+ASSOCIATORS OF {Win32_DiskDrive.DeviceID='\\.\PhysicalDrive%d'} WHERE ResultClass=Win32_PnPEntity
+ASSOCIATORS OF {Win32_IDEController.DeviceID="%s"} WHERE AssocClass = Win32_IDEControllerDevice
+ASSOCIATORS OF {Win32_PnPEntity.DeviceID='%s'} WHERE AssocClass=Win32_SCSIControllerDevice
+ASSOCIATORS OF {Win32_SCSIController.DeviceID="%s"} WHERE AssocClass = Win32_SCSIControllerDevice
+ASSOCIATORS OF {Win32_USBController.DeviceID="%s"} WHERE AssocClass = Win32_USBControllerDevice
+ATA (ATA-1) X3T10 781D revision 4
+ATA (ATA-1) X3T9.2 781D prior to revision 4
+ATA-%d
+ATA-1 published, ANSI X3.221-1994
+ATA-2 X3T10 948D prior to revision 2k
+ATA-2 X3T10 948D revision 2k
+ATA-2 X3T10 948D revision 3
+ATA-2 published, ANSI X3.279-1996
+ATA-3 X3T10 2008D revision 0
+ATA-3 X3T10 2008D revision 1
+ATA-3 X3T10 2008D revision 6
+ATA-3 X3T13 2008D revision 7 and 7a
+ATA-3 published, ANSI X3.298-199x
+ATA/ATAPI-%d
+ATA/ATAPI-4 T13 1153D version 13
+ATA/ATAPI-4 T13 1153D version 14
+ATA/ATAPI-4 T13 1153D version 15
+ATA/ATAPI-4 T13 1153D version 17
+ATA/ATAPI-4 T13 1153D version 18
+ATA/ATAPI-4 X3T13 1153D version 6
+ATA/ATAPI-4 X3T13 1153D version 7
+ATA/ATAPI-4 published, ANSI INCITS 317-1998
+ATA/ATAPI-5 T13 1321D version 1
+ATA/ATAPI-5 T13 1321D version 3
+ATA/ATAPI-5 published, ANSI INCITS 340-2000
+ATA/ATAPI-6 T13 1410D version 0
+ATA/ATAPI-6 T13 1410D version 1
+ATA/ATAPI-6 T13 1410D version 2
+ATA/ATAPI-6 T13 1410D version 3a
+ATA/ATAPI-6 published, ANSI INCITS 361-2002
+ATA/ATAPI-7 T13 1532D version 0
+ATA/ATAPI-7 T13 1532D version 1
+ATA/ATAPI-7 T13 1532D version 4a
+ATA/ATAPI-7 published ANSI INCITS 397-2005.
+ATA8-ACS
+ATA8-ACS version 2d
+ATA8-ACS version 3b
+ATA8-ACS version 3c
+ATA8-ACS version 3e
+ATA8-ACS version 3f
+ATA8-ACS version 4
+ATA8-ACS version 4c
+ATA8-ACS version 6
+AYxi.
+Accumulated Runtime Bad Blocks
+ActivateActCtx
+Adaptive Read Retry Attempts
+AddDisk - ASM1352R
+AddDisk - Si
+AddDisk - USB0A
+AddDisk - USB0B
+AddDisk - USB10
+AddDisk - USB11
+AddDisk - USB12
+AddDisk - USB13
+AddDisk - USB14
+AddDisk - USB15
+AddDisk - USB16
+AddDisk - USB17
+AddDisk - USB18
+AddDisk - USB19
+AddDisk - USB1A
+AddDisk - USB1B
+AddDisk - USB2
+AddDisk - USB20
+AddDisk - USB3
+AddDisk - USB4
+AddDisk - USB5
+AddDisk - USB6
+AddDisk - USB7
+AddDisk - USB8
+AddDisk - USB9
+AddDisk(%d, %d, %d) - 5
+AddDisk(%d, %d, %d) - 6
+AddDisk(%d, %d, %d) - 8
+AddDiskNVMe - CMD_TYPE_NVME_ASMEDIA
+AddDiskNVMe - CMD_TYPE_NVME_INTEL
+AddDiskNVMe - CMD_TYPE_NVME_INTEL_RST
+AddDiskNVMe - CMD_TYPE_NVME_JMICRON
+AddDiskNVMe - CMD_TYPE_NVME_REALTEK
+AddDiskNVMe - CMD_TYPE_NVME_SAMSUNG
+AddDiskNVMe - CMD_TYPE_NVME_STORAGE_QUERY
+Advanced Server
+AgXv#Q]
+Airflow Temperature
+AlFMm
+AliyunAddParamToSessionA
+AliyunAddParamToSessionW
+AliyunCloseSession
+AliyunEnableUserInfoCollect
+AliyunEndCache
+AliyunGetKeyValue
+AliyunGetUserUid
+AliyunInstallConfigFilePath
+AliyunInstallInitUid
+AliyunIsEnableUserInfoCollect
+AliyunOpenSession
+AliyunSendInfo
+AliyunSetKeyValue
+AliyunStopProcess
+AliyunUninstallEnd
+AliyunUninstallStart
+AoC#88
+Apacer
+AqR*AVy
+ArN.R
+Arabic
+AttrModel
+Av#7-
+Available Over-Provisioned Block Count
+Available Reserve Space
+Available Reserved Space
+Available Reserved Space 
+Available Spare
+Available Spare Threshold
+Available reserved space
+Average Block Erase Count
+Average Block-Erase Count
+Average Erase Count
+Average Erase Count of SLC block
+Average Erase Count, Max Erase Count
+Average NAND Erase Count
+Average P/E Cycles
+Average P/E Cycles Attribute
+Average Program/Erase Count
+Average SLC Erase Count
+Average Write/Erase Count
+Average erase count
+Avg Erase Count
+Ay=6B
+A}W<f
+B$8 -2
+BHWH0
+BN|/8
+BUFFALO IFC-PCI2ES
+BUFFALO IFC-PCIE2SA
+BX100SSD
+BX200SSD
+BX300SSD
+BX500SSD
+Background Program Page Count
+Bad Block Count
+Bad Block Full Flag
+Bad Block Information
+Bad Block Rate
+Bad Cluster Count
+Bad Cluster Table Count
+Bad Cluster Table Count (ECC Fail Count)
+BarraCuda
+Bit Error Count
+BlackIdeController:
+BlackScsiController:
+Block Erase Count (SLC)
+Bng~B
+BringWindowToTop
+Bus Type = USB
+Business
+Business N
+Button{
+Bvwv,
+B}=|p
+C$2:Y
+C-3"g6
+C69=lOl
+C71:P
+C:G^4
+C=y)2
+CA!I-
+CAUr2
+CAtaSmart::Init - Complete
+CAtaSmart::Init WMI off - Start
+CAtaSmart::Init WMI on - Start
+CFD_CSSD-S6TM128NMPQ
+CFD_CSSD-S6TM256NMPQ
+CFGMGR32.dll
+CMD_IDE 
+CM_Get_Device_IDW
+COMMAND_TYPE_UNKNOWN
+CRC Error Count
+CRUCIAL
+CSMIALL
+CSMIARY
+CSMISAS
+CSSD-S6T128NM3PQ
+CSSD-S6T256NM3PQ
+CTrayIcon
+CV6-CQ
+C\9Q"
+Caution
+CautionWidget.qml
+Ce"|d
+Check Bus Type
+Check Reverse
+CheckBox{
+CheckSmartAttributeCorrect(&asi, &asiCheck) - 1
+CheckSmartAttributeCorrect(&asi, &asiCheck) - 2
+Chengdu100.
+Click_Done
+Click_Open_Browser_By_Notification
+Click_Open_DiskHealth_By_Notification
+Click_Refresh
+Click_SysIcon_Menu
+ClientToScreen
+CloseHandle
+CloseServiceHandle
+Cluster Server
+CoCreateInstance
+CoCreateInstance()
+CoInitializeSecurity
+CoInitializeSecurity()
+CoSetProxyBlanket
+CoSetProxyBlanket()
+Comctl32.dll
+Command Time Out
+Command Time out
+Command Timeout
+Command Timeout Count
+CommandLineToArgvW
+Composite Temperature
+Config
+ConicalGradient {
+ConnectServer()
+ControlSmartStatusCsmi
+Controlled Temperature
+Controlled temperature
+Controller Busy Time
+Corsair
+Corsair Performance Pro
+CreateActCtxW
+CreateEventW
+CreateFileA
+CreateFileW
+CreateMutexW
+Critical Warning
+Cumulative ECC Bit Correction Count
+Cumulative Host Sectors Written
+Cumulative Program NAND Pages
+Cumulative corrected ecc
+Current Helium Level
+Current Pending ECC Count
+Current Pending Sector
+Current Pending Sector Count
+D5YH#
+DAS Polarity
+DC500
+DG6{!`b%
+DHINFOS:
+DISABLED: vars.RemoveAt(index) - 2
+DK2X;
+DMc@6b
+DNOwwi
+DO:GetDiskInfo
+DO:GetDiskInfo pd=%d, sp=%d, st=%d, mt=%s
+DO:SELECT * FROM Win32_DiskDrive
+DRAM 1 bit Error Count
+DSBdN:
+DVDFab Virtual Drive
+D`=dN
+Data Address Mark Error
+Data Units Read
+Data Units Written
+DataCenter Server
+Datacenter (Full installation)
+Datacenter (Server Core installation)
+Datacenter Edition
+Datacenter Enterprise for Itanium-based Systems
+DeXIfMM
+DeactivateActCtx
+DecodePointer
+DefineDosDeviceW
+DeleteCriticalSection
+DeleteFileW
+DevSleep, 
+Device Capacity
+Device Capacity (NAND)
+Device Temperature
+DeviceID
+DeviceIoControl
+DeviceName
+DfW<(
+DhefF
+Di'A)L
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+Disk %1 (%2)
+Disk Shift
+DiskHealth
+DiskHealth.exe
+DiskInfoMgr
+DoIdentifyDeviceCsmi
+DoIdentifyDeviceNVMeASMedia
+DoIdentifyDeviceNVMeIntel
+DoIdentifyDeviceNVMeIntelRst
+DoIdentifyDeviceNVMeJMicron
+DoIdentifyDeviceNVMeRealtek
+DoIdentifyDeviceNVMeSamsung
+DoIdentifyDeviceNVMeStorageQuery
+DoIdentifyDevicePd(%d, 0xA0) - 1
+DoIdentifyDevicePd(%d, 0xA0) - 2
+DoIdentifyDevicePd(%d, 0xB0) - 3
+DoIdentifyDeviceSat pd=%d, tt=%d, ct=%d
+DoIdentifyDeviceScsi(%d, %d) - 4
+DoIdentifyDeviceScsi(%d, %d) - 7
+Drive Letter Mapping - != DRIVE_FIXED
+Drive Letter Mapping - End
+Drive Letter Mapping - INVALID_HANDLE_VALUE
+Drive Letter Mapping - Start
+Drive Letter Mapping - bResult == FALSE
+Drive Life
+Drive Life Protection Status
+Drive Power Cycle Count
+Drive Temperature
+DriverVersion
+DwCG:
+D|B^nn
+E tl5(
+E"Y\5cl
+E-0nW
+E-_KX2
+E.faY
+E7|m/
+E8hVa
+EAjs%-
+EB:nLjJ=
+ECC Bits Corrected
+ECC Cumulative Threshold Events
+ECC Error Rate
+ECC Fail Record
+ECC Rate
+ECC fail count
+ECC rate
+EPMCombobox.qml
+EQ[#i
+ERROR : Unable to initialize critical section in CAtlBaseModule
+EV<!r
+EVmQY
+EX:SELECT * FROM Win32_DiskDrive
+EX:WMI Init
+EX:Win32_IDEController
+EX:Win32_PnPSignedDriver
+EX:Win32_SCSIController
+EX:Win32_USBController
+EX:while(pEnumCOMDevs
+EaseUS Data Recovery Wizard
+EaseUS_DiskHealth
+EaseUS_DiskHealthConsole
+EgVnL
+EmqnM8
+Enclosure temperature
+End to End Error Detection Count
+End to End Error Detection/Correction Count
+End-to-End Data Errors Corrected
+End-to-End Data Errors Count
+End-to-End Error
+End-to-End Error Detection Count
+End-to-End Error Detection/Correction Count
+English
+EnterCriticalSection
+Enterprise
+Enterprise (Full installation)
+Enterprise (Server Core installation)
+Enterprise Edition
+Enterprise N
+EnumWindows
+Erase Count
+Erase Count (User Data)
+Erase Fail Count
+Erase Fail Count (Chip)
+Erase Fail Count (SSD Total)
+Erase Fail Count (Total)
+Erase Fail Count (Worst Case Component)
+Erase Fail Count (Worst Case)
+Erase Fail Count (Worst case)
+Erase Fail Count Worst Die
+Erase Fail Count(SSD Total)
+Erase Fail Count(Worst Case)
+Erase Failure Block Count
+Erase Failure Count
+Erase count
+Erase fail count
+Erase fail count in worst die
+Error Correction Count
+Error Detection
+Essentials Server
+EuActivateComponent.qml
+EuBorderShadowRect.qml
+EuBorderShadowRectEx.qml
+EuBusyIndicator.qml
+EuButtonForTest.qml
+EuCheckBox.qml
+EuCircleProgress.qml
+EuCombobox.qml
+EuDefaultRoundButton.qml
+EuGradientProgressBar {
+EuImageButton.qml
+EuMenuItem.qml
+EuMessageBox.qml
+EuPopWindow{
+EuPopupMenu {
+EuPopupMenu.qml
+EuRadioButton.qml
+EuRotatingWait.qml
+EuRoundButton.qml
+EuRoundButtonLegacy.qml
+EuRoundButtonLegacy{
+EuRoundButton{
+EuRoundCapProgressBar.qml
+EuRoundedRectangleEx.qml
+EuScrollBar.qml
+EuScrollView.qml
+EuSheetView.json
+EuSheetView.qml
+EuThemeImage
+EuThemeImage.qml
+EuTreeView.json
+EuTreeView.qml
+EuTreeViewOld.qml
+Ew[4$
+Ex<NCb
+F 222~
+F*Y08
+F+&tDW
+F,yYl,
+F0V0f0
+F2|1#
+F:\drw_backup\Output\Release_Win32\DiskHealth.pdb
+F;s8|
+FAILED: CC_CSMI_SAS_GET_DRIVER_INFO
+FAILED: CC_CSMI_SAS_GET_PHY_INFO
+FAILED: CC_CSMI_SAS_GET_RAID_CONFIG
+FAILED: CC_CSMI_SAS_GET_RAID_INFO
+FALSE - USB0
+FALSE: usbVendorId == 0x05E3 && productId == 0x0702
+FALSE: usbVendorId == USB_VENDOR_LOGITEC && productId == 0x00D9
+FTL Program NAND Pages Count
+FUJITSU
+Factory Bad Block Count
+Factory Bad Block Count Total
+Fb5lB-
+FcEyq
+FileVersion
+FillSmartData
+FillSmartThreshold
+FindActCtxSectionStringW
+FindWindowExW
+FindWindowW
+Firmware Version Information
+FirmwareRevision
+Fk}$7
+FlagUsbSat=%d
+Flash Gigabytes Erased
+Flash Write Sector Count
+Flying Height
+FocusScope {
+Free Fall Protection
+Free Space
+Fum2VN
+FuzeDrive
+F{Q1=
+G(q,6
+G,;w0|
+G-Sense Error Rate
+G1001
+G9N6b
+G;~$|
+G=8<#
+G@^t^
+GIDAT8
+GK?g_\A
+GMR Head Amplitude
+GT#S#
+GetCommandLineW
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetDiskInfo
+GetDiskInfo - FALSE0
+GetDiskInfo - FALSE1
+GetDriveTypeW
+GetFileVersionInfoSizeW
+GetFileVersionInfoW
+GetLastError
+GetModuleFileNameW
+GetModuleHandleA
+GetModuleHandleExW
+GetModuleHandleW
+GetNativeSystemInfo
+GetPrivateProfileIntW
+GetProcAddress
+GetProcessHeap
+GetProductInfo
+GetSmartAttributeCsmi
+GetSmartAttributeCsmi - 1 CSMI
+GetSmartAttributeNVMeRealtek
+GetSmartAttributePd(%d) - 1
+GetSmartAttributePd(%d) - 1 CSMI
+GetSmartAttributePd(%d) - 1A
+GetSmartAttributePd(%d) - 1A CSMI
+GetSmartAttributePd(%d) - 2
+GetSmartAttributePd(%d) - 2A
+GetSmartAttributeSat - 1A
+GetSmartAttributeSat - 2
+GetSmartAttributeSat - 2A
+GetSmartAttributeSat(%d) - 1 [%s]
+GetSmartAttributeSi(physicalDriveId, &asi)
+GetSmartAttributeSi(physicalDriveId, &asiCheck)
+GetSmartThresholdCsmi
+GetSmartThresholdPd
+GetStartupInfoW
+GetSystemDirectoryA
+GetSystemMetrics
+GetSystemTimeAsFileTime
+GetSystemTimes
+GetTickCount
+GetTickCount64
+GetVersionExW
+GetWindowThreadProcessId
+GetWindowsDirectoryW
+Gi/1~
+Gigabytes Erased
+Gk8\;
+GlobalSign Root CA - R31
+GlobalSign nv-sa1)0'
+GlobalSign nv-sa1/0-
+GlobalSign0
+GlobalSign1
+Gny8I
+Good Block Count, System Block Count
+Grown Bad Block Count
+Grown Bad Blocks
+Gy&S<
+H"p:m
+H'|K[
+H3J:P
+HAOw'CnN
+HDelete
+HForceRemove
+HI-o 
+HI/S9
+HIDAT(
+HITACHI_DK
+HInvalid DateTime
+HInvalid DateTimeSpan
+HJb-cB
+HKEY_LOCAL_MACHINE/SOFTWARE/EaseUS/%1
+HNoRemove
+HQE`*O
+HRLWq0uY` |
+H`c\7
+Halt System ID, Flash ID
+Hardware ECC Recovered
+Hardware ECC recovered
+Head Flying Hours
+Health
+HeapAlloc
+HeapDestroy
+HeapFree
+HeapReAlloc
+HeapSize
+High Fly Writes
+Home Basic
+Home Basic N
+Home Edition
+Home Premium
+Home Premium N
+Home Server
+Host Program NAND Pages Count
+Host Program Page Count
+Host Read
+Host Read Commands
+Host Reads
+Host UNC Error Count
+Host Write
+Host Write Commands
+Host Writes
+HoverWidget.qml
+I.{RJ
+I:&k{
+IDAT(
+IDAT8
+IDATX
+IDATn
+IDATx
+IEEE 1394 (%s)
+II=yI*}
+INTEL
+INTEL SSDSC2BW
+INTEL SSDSC2CT
+INTEL SSDSC2CW
+INTEL SSDSCKHB
+INTERFACE_TYPE_IEEE1394
+INTERFACE_TYPE_NVME
+INTERFACE_TYPE_USB
+ITE IT8212
+I[`HU
+I\Af>
+Ia(N5
+If$*w?
+Iimport QtQuick 2.14
+IlqtJ
+Image{
+In Warranty
+Info_ShowNotification
+Info_Start
+Info_SysIcon_Hover
+Initial Bad Block Count
+Initial Invalid Blocks
+Initial bad block count
+InitializeConditionVariable
+InitializeCriticalSection
+InitializeCriticalSectionAndSpinCount
+InitializeSListHead
+Install
+InstanceName
+Intel
+IntelNvm
+InterfaceType
+Internal Data Path Protection Uncorrectable Errors
+Internal Data Path Uncorrectable Errors
+IsDebuggerPresent
+IsProcessorFeaturePresent
+IsWow64Process
+IsolationAware function called after IsolationAwareCleanup
+Item {
+Item{
+Iy)rg
+J-]x&
+JCh:;
+JYug`
+J`F|U
+Jl9qB
+JmZ6,/
+K<?ov,g
+KC600
+KERNEL32.dll
+KINGSTON
+KIOXIA
+KRj{d
+Kernel32.dll
+Keys.onPressed: {
+Kh4mH
+Kingston DT Ultimate
+KlU5{qP#
+K{t7t
+L ^5U
+L${FY
+L:^9[S||
+L<xJ^
+LH&0m
+LITEON
+LITEON IT LMT
+LITEON S960
+LSILOGIC
+Label{
+Language
+Later Bad Block Count
+LeaveCriticalSection
+Lfo1X
+Lifetime GB Read
+Lifetime GB Written
+Lifetime Host Reads
+Lifetime Host Writes
+Lifetime Left
+Lifetime NAND Read Retries
+Lifetime Nand Writes
+Lifetime PS3 Entry Count
+Lifetime PS4 Entry Count
+Lifetime Read from Host
+Lifetime Reads From Host
+Lifetime Reads from Host
+Lifetime Remaining
+Lifetime Writes From Host
+Lifetime Writes To Flash
+Lifetime Writes from Host
+Lifetime Writes to Flash
+Lifetime left
+Lm~M^X
+Load 'In'-time
+Load Friction
+Load/Unload Cycle Count
+Load/Unload Retry Count
+LoadLibraryW
+Loaded Hours
+LocalFree
+LpvVv
+Lq*0l23
+M h VH
+M h@UH
+M t;l
+M0Lu-
+M500SSD
+M;PE.2f|/
+MAXTOR
+MAXTOR 4K
+MAXTOR 6H
+MAXTOR 6L0
+MAXTOR 7H500
+ME)r}4
+MF}*Q
+MICRON
+MICRON 1100
+MICRON 1300
+MICRON M500
+MICRON M510
+MICRON M550
+MICRON M600
+MICRON_1100
+MICRON_1300
+MICRON_M500
+MICRON_M510
+MICRON_M550
+MICRON_M600
+MSVCP140.dll
+MTRON
+MX100SSD
+MX200SSD
+MX300SSD
+MX500SSD
+M\7(>;$
+MainLand
+Marvell
+Max Bad Block Count
+Max Erase Count
+Max Erase Count of Spec
+Max PE cycle
+Max Rated PE Count
+Max Rated PE Counts
+Max erase count
+Max. Erase Count
+Maximum Bad Blocks per Die
+Maximum Bad Blocks per die
+Maximum Erase Count
+Maximum Erase Count of SLC block
+Maximum Erase Counts
+Maximum NAND Erase Count
+Maximum P/E Cycles
+Maximum P/E cycles
+Maximum PE Count Specification
+Maximum SLC Erase Count
+Maxio
+Mb>Bug
+Media Center 
+Media Wearout Indicator
+Media Wearout Indicator (Cycles Remaining)
+Media and Data Integrity Errors
+MediaType
+MenuTheme.json
+Menu{
+Min Erase Count
+Min. Erase Count
+Min. erase count
+Minimum Erase Count
+Minimum Erase Count of SLC block
+Minimum Erase Counts
+Minimum NAND Erase Count
+Minimum P/E Cycles
+Minimum SLC Erase Count
+Model
+Model: 
+MultiLanguage.qml
+Mvu^|.|
+N3}Cim
+N4X`5
+NAND GB Written
+NAND GB Written (SLC)
+NAND GB Written (TLC)
+NAND GB written
+NAND GiB Written
+NAND Page Reads During Retry
+NAND Read Count
+NAND Temperature
+NAND Write
+NAND Written
+NAND sectors Written
+NCQ, 
+NE>9w
+NG:WMI Init - %08X
+NG:WMI Init 1
+NG:WMI Init 2
+NG:WMI Init 3
+NN$?c(d
+NNO-x
+NVIDIA
+NVM Express
+NVM Express %d.%d
+NVM Express 1.0/1.1
+NVMe 
+NX!>Cg
+New Bad Block Count
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+NlJ,cN
+NlL\7}
+Nn}P-
+Non-4K Aligned Access
+Normal
+Normalized Media Wear-out
+NotifyIconOverflowWindow
+Ntdll.dll
+Number of CRC Error
+Number of Cache Data Block
+Number of Error Information Log Entries
+Number of Initial Invalid Blocks
+Number of New Bad Block
+Number of Valid Spare Blocks
+NvmeMini
+N|AHtK
+O -J#
+O$VgJ$
+O,,sk
+O/o}0
+O0M0A
+OCZ-TRION
+OCZ-VERTEX2
+OCZ-VERTEX3
+OK1:SELECT * FROM Win32_DiskDrive
+OK2:SELECT * FROM Win32_DiskDrive
+OK:Check Model Name
+OK:GetDiskInfo
+OK:GetDiskInfo - PhysicalDrive
+OK:GetDiskInfo - Scsi
+OK:WMI Init
+OK:Win32_IDEController
+OK:Win32_SCSIController
+OK:Win32_USBController
+OK:qsort
+OLEAUT32.dll
+OZ|$J NZd
+Oee[+
+Off-Line Uncorrectable Error Count
+OffLine Uncorrectable Error Count
+Offline Seek Performance
+Offline Uncorrectable Error Count
+On-the-Fly ECC Error Count
+On-the-Fly ECC Uncorrectable Error Count
+Op Shock Event Count
+OpenProcess
+OpenSCManagerW
+OpenServiceW
+Oq?}T
+Ory>ap/
+Os>%z
+OutputDebugStringA
+OutputDebugStringW
+OyLP<cn
+O~ bO
+P'31p
+P:sz4
+P@bo<
+PANASONIC RP-SSB
+PATRIOT
+PCIIDE\IDECHANNEL
+PCIe %d.0 x%d
+PHOTOFAST
+PHY Error Count
+PIO/DMA
+PKt;<
+PLEXTOR
+PNPDeviceID
+POR Recovery Count
+PQPh,
+PQSVW
+PQVQVh
+PSVSVh
+PX-128M2P
+PX-256M2P
+PXJ/n
+PY*T6
+P[70=
+P]?I'
+P_VuC
+Parallel ATA
+Parallels Virtual NVMe Disk
+Partial Pfail
+PbrT^>M
+Pending Sector Count
+Per Block Max Erase Count
+Percent Lifetime Used
+Percent of Total Write/Erase Count
+Percent of Total Write/Erase Count (BC blocks)
+Percentage Lifetime Remaining
+Percentage Of Rated Lifetime Remaining
+Percentage Used
+Percentage of Drive Life Used
+Percentage of Rated Lifetime Remaining
+Pg,%MV
+PgzfW
+PhdXH
+Phy Error Count
+Ph| H
+Pj,Ph
+Pj<Ph
+Power Cycle Count
+Power Cycle Count (Unplanned)
+Power Cycles
+Power Fail Backup Health
+Power Loss Protection
+Power Loss Protection Error
+Power Loss Protection Failure
+Power On / Off Cycle
+Power On Count
+Power On Hours
+Power On Hours Count
+Power cycle count
+Power off Retract Count
+Power on Hours
+Power on hour count
+Power-Off Retract Count
+Power-Off Retract Cycle
+Power-On Hours
+Power-On Hours Count
+Power-off Retract Count
+Power-on Count
+Power-on Hours
+Pro N
+Pro for Education
+Pro for Education N
+Pro for Workstation
+Pro for Workstation N
+Professional
+Professional N
+Program Fail Count
+Program Fail Count (Chip)
+Program Fail Count (SSD Total)
+Program Fail Count (Total)
+Program Fail Count (Worst Case Component)
+Program Fail Count (Worst Case)
+Program Fail Count Worst Die
+Program Fail Count(SSD Total)
+Program Fail Count(Worst Case)
+Program Fail count (Worst case)
+Program Failure Block Count
+Program fail count
+Program fail count in worst die
+Protect mode
+PublicLoader.qml
+Q1)(|
+Q5W5f5u5
+Q9$$\
+QAbstractItemModel*
+QAbstractNativeEventFilter
+QI6K8
+QIDATx
+QML2_IMPORT_PATH
+QML_XHR_ALLOW_FILE_READ
+QQSVW
+QR)7+O
+QT_PLUGIN_PATH
+QT_SCALE_FACTOR
+QU,S_e
+QWindow*
+QZ=FU
+QZuuz
+QbrT^
+QhTNH
+QhTgH
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+Qt5Core.dll
+Qt5Gui.dll
+Qt5Network.dll
+Qt5Qml.dll
+Qt5Widgets.dll
+QtObject{
+QueryActCtxW
+QueryFullProcessImageNameW
+QueryPerformanceCounter
+QueryServiceStatus
+QueryServiceStatus - 1
+QueryServiceStatus - 2
+Qw5O.
+R0!gx
+R<N!W
+RAID Recovery Count
+RAISE ECC Correctable Count
+RIDAT8
+RIDATx
+RK*,s
+RNjOT
+RW;^I
+RadioButton{
+RaiseException
+Raw Read Error Count
+Raw Read Error Rate
+Raw data error rate
+Rc{nP
+Re-Allocated NAND Block Count
+Re-Allocated Sector Count
+Re-Assigned Sector Count
+Re-allocated Event Count
+Read Channel Margin
+Read Counts Sectors from Nand
+Read Error Rate
+Read Error Retry Rate
+Read Fail Count
+Read Failure Block Count
+Read Retry Count
+Read Sector Count
+Read life time
+Read sector count to NAND
+ReadFile
+ReadProcessMemory
+Reallocated Block Count
+Reallocated Event Count
+Reallocated Flash Block Count
+Reallocated NAND Block Count
+Reallocated NAND Blocks
+Reallocated Sector Count
+Reallocated Sectors Count
+Reallocated sector count
+Reallocation Event Count
+Reallocation Events
+Reallocation event count
+Reassigned Block Count
+Recalibration Retries
+Rectangle
+Rectangle {
+Rectangle{
+RegCloseKey
+RegOpenKeyExW
+RegQueryValueExA
+RegQueryValueExW
+Remain Life
+Remaining Drive Life
+Remaining Life
+Remaining Reserved Block Count
+Remaining Reserved Block Count (SSD Total)
+Remaining Spare Available
+Remaining Spare Blocks
+Reported I/O Error Detection Code Errors
+Reported UECC (UnCorrectable) Errors
+Reported UNC Errors
+Reported Uncorrectable Errors
+Reported uncorrectable error
+Reserve Block Count
+Reserved
+Reserved Block Count
+ResetEvent
+Result_LoadDiskInfo
+Result_Startup_BGS
+Result_Stop_BGS
+Retired Block Count
+Retired Sectors Count
+Reverse
+Rotation Rate
+RoundCapProgress{
+Rs;>@
+RtlGetNtVersionNumbers
+Run Out Cancel
+Runtime Bad Block
+Runtime Bad Block (Total)
+Runtime Invalid Block Count
+R~C8sIY
+S%|QI+}YG
+S, Fy
+S.M.A.R.T., 
+S<6w>A^
+SA400
+SAMSUNG
+SAMSUNG HD155UI
+SAMSUNG HD204UI
+SAMSUNG HM
+SAMSUNG MP
+SAMSUNG SP
+SAMSUNG SV
+SATA CRC Error
+SATA CRC Error Count
+SATA CRC Errors
+SATA Downshift Count
+SATA Interface Down Shift
+SATA Interface Down shift
+SATA Interface Downshift
+SATA Interface Downshift Count
+SATA PHY Error
+SATA PHY Error Count
+SATA PHY Errors
+SATA Phy error count
+SATA R-Error (CRC) Error Count
+SATA R-Errors Error Count
+SATA Uncorrectable Error Count
+SATA interface Downshift
+SATA/150
+SATA/300
+SATA/600
+SATA/PCIe Interface Downshift Count
+SC311
+SC401
+SCSIBus
+SCSIDISK
+SCSIPort
+SCSITargetId
+SDSSDP
+SDSSDRC
+SEDC400
+SELECT * FROM MSStorageDriver_FailurePredictData
+SELECT * FROM MSStorageDriver_FailurePredictThresholds
+SELECT * FROM Win32_DiskDrive
+SETUPAPI.dll
+SHAppBarMessage
+SHELL32.dll
+SK hynix
+SKC310
+SKC400
+SLC Average Erase Count
+SLC Maximum Erase Count
+SLC Minimum Erase Count
+SLC Total Erase Count
+SM2280
+SMART Offline Scan Uncorrectable Error Count
+SOFTWARE\Microsoft\Internet Explorer
+SOFTWARE\Microsoft\NET Framework Setup\NDP\v2.0.50727
+SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client
+SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full
+SOFTWARE\Wow6432Node\Microsoft\NET Framework Setup\NDP\v2.0.50727
+SSD G2 Series
+SSD Life Left
+SSD Life Remaining
+SSD Mode Status
+SSD Protect Mode
+SSD U100
+SSD U110
+SSD Wear Indicator
+SSD i100
+SSD i110
+SSD protect mode
+STT_FTM
+SUV300
+SUV400
+SUV500
+SY2Sc
+SanDisk
+SanDisk Extreme
+SandForce
+ScrollBar
+ScrollView{
+Seagate
+Seek Error Rate
+Seek Time Performance
+Segoe UI
+SelectDisk
+SendAtaCommandPd - IDENTIFY_DEVICE
+SendAtaCommandPd - IDENTIFY_DEVICE (ATA_PASS_THROUGH)
+SendAtaCommandPd - SMART_CONTROL_STATUS
+SendAtaCommandPd - SMART_CONTROL_STATUS (ATA_PASS_THROUGH)
+SendAtaCommandPd - SMART_READ_DATA
+SendAtaCommandPd - SMART_READ_DATA (ATA_PASS_THROUGH)
+SendAtaCommandPd - SMART_READ_THRESHOLDS
+SendAtaCommandPd - SMART_READ_THRESHOLDS (ATA_PASS_THROUGH)
+SendMessageW
+Serial ATA
+Serial Number
+SerialNumber: 
+Server
+Server Standard (core installation)
+Server Standard (full installation)
+Server for Small Business
+Service Pack 
+SetEvent
+SetFilePointer
+SetForegroundWindow
+SetLastError
+SetUnhandledExceptionFilter
+SetupDiEnumDeviceInfo
+SetupDiGetClassDevsW
+SetupDiGetDevicePropertyW
+Setupapi.dll
+Sh\xW
+Shdocvw.dll
+ShellExecuteW
+Shell_NotifyIconW
+Shell_TrayWnd
+Shock During Write
+ShowIcon
+Sichuan1
+Silicon Image SiI 
+SiliconHardDisk
+SiliconImageController:
+Simple Read Retry Attempts
+SkB|#
+Sleep
+SleepConditionVariableCS
+Small Business Server
+Small Business Server Premium
+Smart
+Smart Off-line Scan Uncorrectable Error Count
+SmartApacer
+SmartCorsair
+SmartIndilinx
+SmartIntel
+SmartIntelDc
+SmartJMicron
+SmartJMicron60x
+SmartJMicron61x
+SmartJMicron66x
+SmartKingston
+SmartKingstonDC500
+SmartKingstonKC600
+SmartKingstonSA400
+SmartKingstonSuv
+SmartKioxia
+SmartMarvell
+SmartMaxiotek
+SmartMicron
+SmartMicronMU02
+SmartMicronMU03
+SmartMtron
+SmartNVMe
+SmartOcz
+SmartOczVector
+SmartPhison
+SmartPlextor
+SmartRealtek
+SmartRecadata
+SmartSKhynix
+SmartSamsung
+SmartSanDisk
+SmartSanDiskDell
+SmartSanDiskGb
+SmartSanDiskHp
+SmartSanDiskHpVenus
+SmartSanDiskLenovo
+SmartSanDiskLenovoHelenVenus
+SmartSandForce
+SmartScy
+SmartSeagate
+SmartSeagateBarraCuda
+SmartSeagateIronWolf
+SmartSiliconMotion
+SmartSsd
+SmartSsstc
+SmartToshiba
+SmartWdc
+SmartYmtc
+Soft ECC Correction
+Soft ECC Correction Rate
+Soft Error Rate
+Soft Read Error Rate
+Soft Read Error Rate stab
+Software\EASEUS\EPM\Version
+Software\Microsoft\Windows\CurrentVersion\ThemeManager\
+Solid
+SpaosX
+Spare Block Count
+Spare Block Count Left
+Spare Blocks Available
+Spare Blocks Remaining
+Spin Buzz
+Spin High Current
+Spin Retry Count
+Spin Up Time
+Spin-Up Time
+St-_3
+Start Stop Count
+Start/Stop Count
+StartService - 1
+StartService - 2
+StartService Completed : SERVICE_RUNNING
+StartServiceW
+Starter
+StdxLm"k
+Storage Server Enterprise
+Storage Server Express
+Storage Server Standard
+Storage Server Workgroup
+StoreMI
+Successful RAIN Recovery Count
+Super Talent
+Super cap Status
+SysPager
+SystemParametersInfoW
+T+)f'l
+T-d%@SF
+T3l.Bf&F
+T<.|V
+T?pixmap@QIcon@@QBE?AVQPixmap@@HHW4Mode@1@W4State@1@@Z
+T?pos@QCursor@@SA?AVQPoint@@XZ
+THNSNC
+THQ_);
+TLC NAND GB Writes
+TOSHIBA
+TPre%
+TRIM, 
+T_^vl
+Tablet PC
+TempF
+Temperature
+Temperature Throttle Status
+TerminateProcess
+Text {
+TextFieldStyle{
+Theme.qml
+ThemeActive
+ThemeBase.json
+Thermal Asperity Rate
+Thermal Throttle Status
+Thermal Throttling Count
+Throttle Statistics
+Throughput Performance
+Timed Workload - Host Read/Write Ratio
+Timed Workload - Media Wear
+Timed Workload Host Read/Write Ratio
+Timed Workload Media Wear
+Timed Workload Timer
+ToolbarWindow32
+Torque Amplification Count
+Toshiba
+Total Background Scan
+Total Background Scan Over Limit Count
+Total Bad Block
+Total Bad Block Count
+Total Bad Blocks
+Total Block Erase Failure
+Total Block Program Failure
+Total Block ReMap Pass Count
+Total Blocks Erased
+Total Bytes Read
+Total Count NAND Pages Reads Requiring Read Retry
+Total Count of Adaptive Read Retry Attempts
+Total Count of Error bits from flash
+Total Count of Read Commands
+Total Count of Read Sectors
+Total Count of Read Sectors with Correctable Bit Errors
+Total Count of Simple Read Retry Attempts
+Total Count of Write Commands
+Total Count of Write Sectors
+Total Do RefCal Count
+Total Erase Count
+Total Erase Fail Count
+Total Erase Failures
+Total GB Read
+Total GB Written
+Total GB written to NAND
+Total GB written to NAND (SLC)
+Total Host Bytes/Sectors Written
+Total Host GB Write
+Total Host Read
+Total Host Read 
+Total Host Reads
+Total Host Sector Writes
+Total Host Write
+Total Host Writes
+Total LBA Read
+Total LBA Write
+Total LBA Written
+Total LBA written
+Total LBAs Read
+Total LBAs Written
+Total LBAs read
+Total LBAs written
+Total Later Bad Block Count
+Total Media Writes
+Total NAND Erase Count
+Total NAND Programming Count
+Total NAND Programming Count (pages)
+Total NAND Read Count
+Total NAND Read Plane Count (High 4Bytes)
+Total NAND Read Plane Count (Low 4Bytes)
+Total NAND Write Count
+Total NAND Writes
+Total Nand Bytes/Sectors Written
+Total Nand Flash Written
+Total Number Of Read Bits Corrected
+Total Number of Corrected Bits
+Total Number of NAND Read Retries
+Total Program Fail Count
+Total Program Page Count
+Total Programming Failures
+Total Read
+Total Read Failures (Uncorrectable)
+Total Refresh ISP Count
+Total SLC Erase Count
+Total SLC Write Count
+Total Sectors Write
+Total Uncorrectable NAND Reads
+Total Wear Level Count
+Total Written
+Total bad block count
+Total erase count
+Tp FL"
+Transfer Mode
+TrayNotifyWnd
+TreeViewStyle
+TvVm[
+U RPRQ
+U5@D<Y</
+U:T+M
+UASP (%s)
+UASPController:
+UDMA CRC Error Count
+UDMA/100
+UDMA/133
+UDMA/16
+UDMA/25
+UDMA/33
+UDMA/44
+UDMA/66
+UECC Count
+UECC Error Count
+UN:jS
+USB (%s)
+USB-HDD Check
+USBSTOR
+USER32.dll
+UU9}TW
+U^X.lO
+U`, 2
+Uh<8Q%
+Uimport "../publicQML/public.js" as Public
+Uk5lO
+Ultimate
+Ultimate N
+Ultra CRC Error Count
+Ultra DMA CRC Error Count
+Ultra DMA CRC Error Rate
+Ultra DMA CRC error count
+UltraDMA CRC Error Count
+UnHWK
+UnUsed Reserved Block Count (Total)
+UnUsed Reseved Block Count(SSD Total)
+Unaligned Access Count
+Unaligned access count
+Uncorrectable ECC Count
+Uncorrectable ECC Errors
+Uncorrectable Error Count
+Uncorrectable Error Count Off-line
+Uncorrectable Errors
+Uncorrectable Read Error Count
+Uncorrectable Read Error Rate
+Uncorrectable Sector Count
+Uncorrectable Soft Read Error Rate
+Uncorrectable sectors count when read/write
+Unexpected Power Loss
+Unexpected Power Loss Count
+Unexpected Power Off Count
+Unexpected Power loss Count
+Unexpected power loss count
+UnhandledExceptionFilter
+Unknown
+Unknown exception
+Unlicensed
+UnregisterClassW
+Unsafe Shutdown Count
+Unsafe Shutdowns
+Unused Reserve NAND Blocks
+Unused Reserved Block Count
+Unused Reserved Block Count (Chip) 
+Unused Reserved Block Count (SSD Total)
+Unused Reserved Block Count (Total)
+Unused Spare NAND Blocks
+UsS B
+Used Reserved Block Count
+Used Reserved Block Count (Chip)
+Used Reserved Block Count (SSD Total)
+Used Reserved Block Count (Total)
+Used Reserved Block Count (Worst Case Component)
+Used Reserved Block Count (Worst Case)
+Used Reserved Block Count (Worst case)
+Used Reserved Block Count worst Die
+Used Reseved Block Count(SSD Total)
+Used Reseved Block Count(Worst Case)
+User Capacity
+V)[,5
+V+EXe
+V7giC&m
+VCRUNTIME140.dll
+VERSION.dll
+VIA VT6410
+VID=%04Xh, PID=%04Xh
+VIDAT(
+VK6H=
+VNx\:
+Valid Spare Blocks
+Vendor Specific
+Vendor Unique
+VendorSpecific
+VerQueryValueW
+Version
+Vh (H
+Vibration During Write
+Vimport QtQuick 2.12
+VirtualAlloc
+VirtualAllocEx
+VirtualFree
+VirtualFreeEx
+Vo-{-0
+VolatileWriteCache, 
+Vr;K,{
+W?es'
+WIOG;
+WTSAPI32.dll
+WTSRegisterSessionNotification
+WVh =H
+WVh\=H
+WZYAg
+W[o#'
+Wa>?^
+WaitForSingleObjectEx
+Waiting... Winmgmt
+WakeAllConditionVariable
+WakeUp(%d)
+Warning
+Wear Leveling Count
+Wear Range Delta
+Web Edition
+Web Server
+WhDPH
+WideCharToMultiByte
+Windows 10
+Windows 2000
+Windows 7
+Windows 8
+Windows 8.1
+Windows 95
+Windows 95 OSR2
+Windows 95 OSR2.1
+Windows 95 OSR2.5
+Windows 98
+Windows 98 SE
+Windows 98 SP1
+Windows 9x
+Windows Me
+Windows NT %d.%d
+Windows NT3.%d
+Windows NT4
+Windows Server 2003
+Windows Server 2003 R2
+Windows Server 2008
+Windows Server 2008 R2
+Windows Server 2012
+Windows Server 2012 R2
+Windows Server 2016
+Windows Server 2019
+Windows Storage Server 2003
+Windows Vista
+Windows XP
+Winmgmt
+WmiModel: 
+Write Counts Sectors to Nand
+Write Error Rate
+Write Head
+Write Protect Progress
+Write Sector Count
+Write Sector Count (NAND)
+Write Throttling Activation Flag
+Write life time
+Write sector count to NAND
+WritePrivateProfileStringW
+Ws\tA
+Wv5K?
+W|'pO1
+X0V0T
+X4fm~G
+X4s+5a
+X<l;5
+XK3P*/P'
+XRCA*
+Xagon
+Xhl#R
+Xqc~E
+Y'3<<
+Y2-Bp
+Y4|([_lozRn
+YFg8cK
+YI7xj
+YUUV0
+YX<}*
+YYh*<H
+Y\&ubK
+Y\^4d1
+Y^vb!
+Y__^[
+Y_lw6Z
+Yl>^6
+Ys Bz
+Yz{g`
+Z-k1(wl
+Z4T)xI
+Z6zjE3d=>
+Z?setLayoutDirection@QGuiApplication@@SAXW4LayoutDirection@Qt@@@Z
+Z@1(6
+ZAp10
+ZHITAI
+ZOg[/VU
+ZY\^G)
+ZZKki-
+Zimport QtQuick 2.12
+Zk`ZsG
+ZsVl7
+Zz$Zo
+Z{%X?
+[!qk&
+[IDAT(
+[IXN(k
+[[)ME;
+[`+>j
+[vHuu
+[{@TQ
+\0y0s1
+\Device\Scsi\SI%d1
+\EuLinkLabel.qml
+\EuPageLoader.qml
+\EuSwitchButton.qml
+\IDAT(
+\InfoList.qml
+\StringFileInfo\%04X%04X\%s
+\VarFileInfo\Translation
+\X2hn
+\Zxgs,
+\\.\%c:
+\\.\%s
+\\.\PhysicalDrive%d
+\\.\SCSI%d:
+\\.\Scsi%d:
+\\.\root\WMI
+\\.\root\cimv2
+\e`L{
+\ehome\ehshell.exe
+\g)a7
+\i)?kcv>
+\import QtQuick 2.0
+\import QtQuick 2.12
+\main.qml
+\pC~fy
+\x_)|.
+\|=~^
+])dZ#T
+]1Z<t
+]=?f_
+]D,9w
+]IDAT(
+]IDAT8
+]J<0"0i3
+]e#{I{c
+]g/e+
+]{-h7#
+]}$2X
+^.@Yd
+^?5UG|
+^F5[w
+^`0oh
+^a4i:
+^o;\O
+^qzR;-aq,
+_'kt:
+_0k0w0
+_1!'6
+_4[Qh1c
+_CxxThrowException
+_P(6j
+__CxxFrameHandler3
+__p__commode
+__setusermatherr
+__std_exception_copy
+__std_exception_destroy
+__std_terminate
+__std_type_info_destroy_list
+__stdio_common_vfwprintf
+__stdio_common_vsprintf
+_c_exit
+_callnewh
+_cexit
+_configthreadlocale
+_configure_narrow_argv
+_controlfp_s
+_crt_at_quick_exit
+_crt_atexit
+_d\TI
+_disksmart.ico
+_d}{u
+_errno
+_except1
+_except_handler4_common
+_execute_onexit_table
+_exit
+_get_narrow_winmain_command_line
+_initialize_narrow_environment
+_initialize_onexit_table
+_initterm
+_initterm_e
+_invalid_parameter_noinfo
+_invalid_parameter_noinfo_noreturn
+_recalloc
+_register_onexit_function
+_register_thread_local_exe_atexit_callback
+_seh_filter_dll
+_seh_filter_exe
+_set_app_type
+_set_fmode
+_set_new_mode
+_wfopen_s
+_wtof
+_wtoi
+_wtoi64
+`#_wi=
+`'+Vca
+`,Cz|
+`.rdata
+`AP|S
+`D`pJL
+`IDAT(
+`L**d
+`M\vDs
+`ZI/{
+`eBkP`
+`w)t_l
+`y]*Z
+`{c;Wln
+a!('MI/
+a"OKX
+a:m1&
+a?7i_&=
+aJ>Eh
+aV^1A
+a\$x^6
+addAutoStart
+af-ZA
+af-za
+agNs <#
+ai_k`
+ais"},
+anRL<
+ao_rB
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll
+ar-AE
+ar-BH
+ar-DZ
+ar-EG
+ar-IQ
+ar-JO
+ar-KW
+ar-LB
+ar-LY
+ar-MA
+ar-OM
+ar-QA
+ar-SA
+ar-SY
+ar-TN
+ar-YE
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+asi.Model.IsEmpty() || asi.FirmwareRev.IsEmpty()
+asi.SmartReadData == asi.SmartReadThreshold
+asi1->AttributeCount != asi2->AttributeCount
+asi1->Attribute[i].Id != asi2->Attribute[i].Id
+atlTraceAllocation
+atlTraceCOM
+atlTraceCache
+atlTraceControls
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceException
+atlTraceGeneral
+atlTraceHosting
+atlTraceISAPI
+atlTraceMap
+atlTraceNotImpl
+atlTraceQI
+atlTraceRefcount
+atlTraceRegistrar
+atlTraceSecurity
+atlTraceSnapin
+atlTraceStencil
+atlTraceString
+atlTraceSync
+atlTraceTime
+atlTraceUtil
+atlTraceWindowing
+attribute
+au5x.
+az-AZ-Cyrl
+az-AZ-Latn
+az-az-cyrl
+az-az-latn
+a|"5'Q
+a~Tsb
+b wul
+b# jr->m+}
+b)W*>
+b3pO 
+bAllowSendInfo
+bK|fe
+bM|NZ
+bRet == FALSE || dwReturned != length / Error Coce: %08X
+bad allocation
+bad array new length
+bdnsV
+be-BY
+be-by
+bg-BG
+bg-bg
+bi,*>
+blK<u
+bn-IN
+bn-in
+bs-BA-Latn
+bs-ba-latn
+c"mkv
+c$B)f
+c*{Le
+c-ncb=
+c42S06i-x
+c98~K4S
+c;>3+
+cF{Iz
+cQ?)X
+ca-ES
+ca-es
+ch=uD
+check
+check_halfsel_disable.png
+check_sel_disable.png
+check_select.png
+check_unsel_disable.png
+cimport QtQuick 2.14
+clickRefresh
+clock
+config Winmgmt start= auto
+config.ini
+console.log("iNewPos",iNewPos)
+console.log("strCur",strCur)
+console.log(strNew)
+count=0
+cpj;F
+cq>& 
+cs-CZ
+cs-cz
+current
+currentLanguage
+cursorPosition = iNewPos;
+cy-GB
+cy-gb
+d-S%N
+d64Y3
+d;:0yaM
+d;T>v
+d;k|E$
+d;t+L<y/
+d>{4o
+dRje,f  
+dV?qt_pixmapToWinHICON@@YAPAUHICON__@@ABVQPixmap@@@Z
+da-DK
+da-dk
+data == NULL
+de-AT
+de-CH
+de-DE
+de-LI
+de-LU
+de-at
+de-ch
+de-de
+de-li
+de-lu
+deKhl
+delAutoStart
+deviceId:
+disk info mgr quit
+disk info mgr quit2
+diskDes
+diskHealthIndex=
+diskIndex
+diskIndexArg
+diskInfoMgr
+diskInfos
+diskSize:
+disksmart icon.ico
+div-MV
+div-mv
+djO'=!
+doDone
+doExit
+dtAER
+d~>l^/
+e0t23
+e4bo%
+e7V}tg@
+eAg,r*
+eB+k1}!
+eEPA]
+eLo@8
+e\d]=Gqq
+e^Ng77_
+easeusSendType
+eb8IU
+ejlW2
+el-GR
+el-gr
+else (USB-HDD)
+en-AU
+en-BZ
+en-CA
+en-CB
+en-GB
+en-IE
+en-JM
+en-NZ
+en-PH
+en-TT
+en-US
+en-ZA
+en-ZW
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+epm-pe
+epm-pe-desktop
+eq67@
+es-AR
+es-BO
+es-CL
+es-CO
+es-CR
+es-DO
+es-EC
+es-ES
+es-GT
+es-HN
+es-MX
+es-NI
+es-PA
+es-PE
+es-PR
+es-PY
+es-SV
+es-UY
+es-VE
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+es-ve
+et-EE
+et-ee
+eu-ES
+eu-es
+eyhW$x
+e~S}.
+f%s!j2"b
+f,B/M
+f=idur
+fODRhx
+fZ?setIcon@QWindow@@QAEXABVQIcon@@@Z
+fa-IR
+fa-ir
+false
+fclose
+fflush
+fg#/(
+fi-FI
+fi-fi
+fileExists
+firstCautionIndex
+flagTarget && GetDiskInfo
+fo-FO
+fo-fo
+fr-BE
+fr-CA
+fr-CH
+fr-FR
+fr-LU
+fr-MC
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+fs\t?
+fvg-o
+g/pLjf
+g47bh3vra
+gD3^7/
+gDWA)
+gHA$*$*D
+gVN@GbKm
+gcheck_halfsel.png
+gcheck_unselect.png
+getCautionDiskStatusInfo
+getCurrentLanguage
+getDiskInfos
+getDiskStatus
+getDiskStatusInfo
+getModel
+getPopLink
+ggIB"
+gico_popup_menu_press.png
+gico_show16.png
+gicon_button_refresh_blue18.png
+gl-ES
+gl-es
+gn;?Mk
+gpic_status_bad.png
+gradio_sel.png
+gu* \
+gu-IN
+gu-in
+g|JWg
+h3I-h
+h:#RE
+h:PlC?
+h>'~](
+hDj_2
+hEJZx{u
+hIoCtrl == INVALID_HANDLE_VALUE
+hTisu
+h[B2A
+h^vM{Z
+he-IL
+he-il
+hf2WB
+hi-IN
+hi-in
+hl.bW`
+hm]/rX3y
+hnS-4
+hoFc>F`j
+hoverLeave
+hp||R5
+hr-BA
+hr-HR
+hr-ba
+hr-hr
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0]
+https://br.easeus.com/partition-manager-tips/falha-no-disco-rigido.html
+https://es.easeus.com/partition-manager-tips/fallo-del-disco-duro.html
+https://it.easeus.com/partition-manager-tips/fallimento-di-hard-disk.html
+https://jp.easeus.com/partition-manager/hard-drive-failure.html
+https://tw.easeus.com/partition-manager-tips/hard-drive-failure.html
+https://www.easeus.co.kr/partition-manager-software/hard-drive-failure.html
+https://www.easeus.com/partition-master/hard-drive-failure.html
+https://www.easeus.de/partitionieren-tipps/festplattenausfall.html
+https://www.easeus.fr/partition-manager-tips/panne-de-disque-dur.html
+hu-HU
+hu-hu
+hy-AM
+hy-am
+i(@A<v
+i/L8y/
+i0!2k
+i2$S}@
+i8}79g
+iIDAT8
+iNewPos += (strList.length>1);
+iSSD P4
+ico_disk_32.png
+ico_exit16.png
+ico_language_gou.png
+ico_list_open_disable.png
+ico_list_open_hover.png
+ico_list_open_press.png
+ico_list_right_normal.png
+ico_logo_pallets_disksmart16.png
+ico_popup_close_disable.svg
+ico_popup_close_hover.svg
+ico_popup_close_normal.svg
+ico_popup_close_press.svg
+ico_popup_menu_disable.png
+ico_popup_menu_disable.svg
+ico_popup_menu_hover.png
+ico_popup_menu_normal.png
+ico_popup_menu_press.svg
+icon_button_refresh_gray18.png
+id-ID
+id-id
+idcEsb
+if (!m_bDel){
+if (event.key === Qt.Key_Delete) {
+if(bActivePut)
+if(false === wrapper.bPassInput)
+if(text.length === licenseLength)
+iks#=
+import "."
+import "../publicQML"
+import "../publicQML/public.js" as Public
+import "./public.js" as Public
+import Qt.labs.settings 1.0
+import QtGraphicalEffects 1.14
+import QtQuick 2.0
+import QtQuick 2.12
+import QtQuick 2.14
+import QtQuick 2.15
+import QtQuick 2.6
+import QtQuick.Controls 1.4
+import QtQuick.Controls 2.14
+import QtQuick.Controls 2.14 as NEW
+import QtQuick.Controls 2.4
+import QtQuick.Controls.Styles 1.4
+import QtQuick.Layouts 1.14
+import QtQuick.Shapes 1.14
+import QtQuick.Window 2.12
+import QtQuick.Window 2.14
+import QtQuick.Window 2.2
+import RoundCapProgress 1.0
+inA\?
+index
+index=%d
+index=%d, previousCount=%d
+interfaceTypeWmi:
+invalid string position
+ioft&K
+is-IS
+is-is
+isAutoStart
+isBusy
+isMainland
+isPe=
+isTempF
+isTrayExist
+it-CH
+it-IT
+it-ch
+it-it
+iv-vu
+ivj:]Z
+i}Rw`/
+j%eFRn
+j-Ctc
+j4DM@C0
+jFV<FY
+jIDAT8
+jPeNS
+jU/;|v
+jYnHn
+ja!}}
+ja-JP
+ja-jp
+js*oz
+k)a.5
+k0i0$
+kIDATx
+kMT:m
+kY0j#
+ka-GE
+ka-ge
+kernel32
+kernel32.dll
+kgJ(?
+kigo/
+kk-KZ
+kk-kz
+kn-IN
+kn-in
+kn9JX
+ko-KR
+ko-kr
+kok-IN
+kok-in
+krqaX
+kuRub
+kwmn`
+kxXgMt
+ky-KG
+ky-kg
+l"7bx
+l*;^v
+lElk"bb;
+lIwh7%;
+lO|?G*
+lV3[Nl
+l^o:Y
+lefpCq<
+light
+lnC)r
+loadInfo
+loadInfoList
+loading00.png
+lomoe
+lr;wr
+lt-LT
+lt-lt
+lv-LV
+lv-lv
+m"fGc
+m%\=Oj
+m&O7?
+m0k0$
+m7buq
+m?ztzy+
+mVvd6
+m_bDel = false;
+m_bDel = true;
+main/realStyleName
+malloc
+maximumLength:maxLength
+mc,! 
+mediaType:
+memcpy
+memmove
+memset
+mfc140u.dll
+mg*az
+mi-NZ
+mi-nz
+mk-MK
+mk-mk
+ml-IN
+ml-in
+mmbU~
+mn-MN
+mn-mn
+model:
+mousePos
+mq7eS
+mr-IN
+mr-in
+ms-BN
+ms-MY
+ms-bn
+ms-my
+mt-MT
+mt-mt
+m{*(!o~
+n = %d, pDiskExtent->DiskNumber = %d
+n)4HE_
+n,2t%
+n0l0-
+n;Gk7oQ
+nIDAT8
+nKtrF&?_
+nW]]P
+n[}q@
+nb-NO
+nb-no
+nb?winId@QWindow@@QBEIXZ
+ncbY)
+ngvfY
+nh**K
+ni!=~
+niR1k3
+nl-BE
+nl-NL
+nl-be
+nl-nl
+nmKsP
+nn-NO
+nn-no
+nnnw\
+ns-ZA
+ns-za
+nxuMj
+o,atB
+o84s[
+o9Pg"(
+o9k-1y
+o;@@os
+oIDAT8
+oNplM
+o\>vR
+ol"},
+ole32.dll
+omr$i
+onTextEdited: {
+openUrl
+p*Gr;
+p+qey
+p3Fn;f*
+p9{%Z
+pBh8Q
+pEnumCOMDevs == NULL
+pUMMk
+pXAgP
+p[-`7%s
+p\$x %
+p]mr|
+p`bOp
+pa-IN
+pa-in
+pb]Nw
+physicalDriveId=%d, scsiPort=%d, scsiBus=%d, scsiTargetId=%d
+pic_status_good.png
+pic_status_none.png
+pic_temprature_none.png
+pic_temprature_normal.png
+pk_\N
+pl-PL
+pl-pl
+pnpDeviceId:
+popCondition
+pqjA;
+property bool bActivePut:false
+property bool bPassInput:true
+property var m_bDel:false
+pt-BR
+pt-PT
+pt-br
+pt-pt
+pxO1]
+q*7f\
+q,i*1
+qBx37
+qJNct
+qaUp*c
+qdyGS
+qrc:/
+qrc:/qml/main.qml
+qsort
+quz-BO
+quz-EC
+quz-PE
+quz-bo
+quz-ec
+quz-pe
+r b!s
+r(e%O,
+r?K.{
+rB_|+
+rZE05
+r[6xg
+radio_halfsel.png
+radio_halfsel_disable.png
+radio_sel_disbale.png
+radio_unsel.png
+radio_unsel_disable.png
+refreshDisks
+refreshForPop
+removable
+rf0Kw`
+ro-RO
+ro-ro
+ru-RU
+ru-ru
+r~#^4
+s$nh_
+sHa_+
+sJUe?P/
+sK9$9
+sStatus.dwCurrentState:%08X
+sZ}or_
+s^h8f
+sa-IN
+sa-in
+screenSize
+se-FI
+se-NO
+se-SE
+se-fi
+se-no
+se-se
+select DeviceName, DriverVersion from Win32_PnPSignedDriver
+select Name, DeviceID from Win32_IDEController
+select Name, DeviceID from Win32_SCSIController
+select Name, DeviceID from Win32_USBController
+selectDisk
+setCurrrentLanguage
+setIsTempF
+setVisible
+setWindowIcon
+showFrame
+showFromCaution
+showRaw
+showWindow
+showWindowShadow
+shw~pq
+sigAboutRefresh
+sigCheckForPop
+sigDiskInfosChanged
+sigExit
+sigHoverEnter
+sigHoverLeave
+sigIsTempFchanged
+sigLanguageChanged
+sigShowFrame
+sigSwitchDiskIndex
+signal inputFull()
+signal textEdited()
+sk-SK
+sk-sk
+sl-SI
+sl-si
+sma-NO
+sma-SE
+sma-no
+sma-se
+smj-NO
+smj-SE
+smj-no
+smj-se
+smn-FI
+smn-fi
+sms-FI
+sms-fi
+spublic.js
+sq-AL
+sq-al
+sr-BA-Cyrl
+sr-BA-Latn
+sr-SP-Cyrl
+sr-SP-Latn
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+status
+statusIndex
+statusInfo
+strCur = strCur.replace(" ","");
+strCur = strCur.replace(licenseSeploter,"");
+strCur = strCur.substring(strPart.length);
+strList.push(strPart);
+strPart = strCur.substring(0,5);
+string too long
+strncpy_s
+sv-FI
+sv-SE
+sv-fi
+sv-se
+svcVersion
+sw-KE
+sw-ke
+syr-SY
+syr-sy
+t"lPM
+t#PQh
+t/{a%
+t5zW]op
+tA1#&
+tDsi*
+tFb0k!
+tJ1H0
+tR#[J
+ta-IN
+ta-in
+td.NvCE&\
+te-IN
+te-in
+tempBusSil%d
+tempDesc
+tempIndex
+tempValue
+terminate
+text = strNew.toUpperCase();
+th-TH
+th-th
+theme
+themeName=
+threshold
+tj?U?2
+tn-ZA
+tn-za
+tp?}%
+tr-TR
+tr-tr
+tsg1z
+tswps
+tt-RU
+tt-ru
+ttz_I.o
+ty'/2~
+t|gyI
+u"htmR
+u$QWV
+u$WVh(;H
+u%6My2
+u(+BB
+u)*9'W
+u+PhP8H
+u,E,#
+u.[E1
+u/h`8H
+u0FJX)*
+u3VzL
+u8OSx
+u<?xml version="1.0" encoding="UTF-8"?>
+u=kX)
+u=ttvBp
+uMtvh
+uN(9t
+uReturned != 1
+uU;w$
+u[Ae_%
+u^?staticMetaObject@QWindow@@2UQMetaObject@@B
+uk-UA
+uk-ua
+ulelY
+upxoP
+ur-PK
+ur-pk
+urb_OG_
+usbVendorId == USB_VENDOR_CYPRESS
+usbVendorId == USB_VENDOR_INITIO || usbVendorId == USB_VENDOR_OXFORD
+usbVendorId == USB_VENDOR_IO_DATA
+usbVendorId == USB_VENDOR_JMICRON
+usbVendorId == USB_VENDOR_SUNPLUS
+usbVendorId=%04X, usbProductId=%04X
+uyE`U
+uz-UZ-Cyrl
+uz-UZ-Latn
+uz-uz-cyrl
+uz-uz-latn
+v!cZ  
+v'0Wm
+v,L3:
+v;+?eT
+v<2VG
+v=Y]Bv
+vGZ(Vk
+vIDAT(
+vS)yf
+vV<G`
+vWPM8T-
+vY6."
+validator: inputValidator
+value
+var iCnt = 0;
+var iCurPos = cursorPosition-parseInt(cursorPosition/licenseLength);
+var iNewPos = iCurPos+parseInt(iCurPos/licenseLength);
+var strCur = text;
+var strList=new Array();
+var strNew = strList.join(strList.length>1?licenseSeploter:"");
+var strPart;
+vars.RemoveAt(index) - 1
+vars[i].CommandType = CMD_TYPE_CSMI_PHYSICAL_DRIVE
+vector<T> too long
+vi-VN
+vi-vn
+visible:bPassInput
+vno9d,C
+volumeDiskExtents.NumberOfDiskExtents = %d
+vv$ .`
+w1 ~\]
+w1An-
+w2?1{
+w;lZ7
+wTt<-
+wXft1}H
+wZj4|%be
+wcscat_s
+wcscpy_s
+wcsrchr
+wcstol
+while(-1 !== strCur.indexOf(licenseSeploter))
+while(pEnumCOMDevs ...
+while(strCur !== ""&& (iCnt++)<5){
+windows_dispatcher_MSG
+windows_generic_MSG
+wj{VyFr
+wrapper.bShowIcon = true
+wrapper.inputFull()
+wrapper.textEdited()
+wsprintfW
+wuxJ)o
+www.digicert.com1!0
+www.digicert.com1$0"
+w{ccD
+w}iB?+h
+x"+zk@
+x7:k1'
+x>;B8}9i
+xA bs
+xL]I@
+xSl/OM
+xae?]
+xh-ZA
+xh-za
+ximport QtQuick 2.0
+xiub7
+xj%}T
+xv9tb
+xvSsx
+xxmeia
+x|5L3m
+y!fX1jk
+y%7bA
+y&#qMf!9A
+y&4VC)
+y,qqOs
+y;z'!
+y<fWB
+ycGNmt
+yoWkXY
+yqja.
+yx%dp
+yzja>
+y|+@R
+y~:>s
+z"WN<
+z-=0m
+z<w-(
+zh-CHS
+zh-CHT
+zh-CN
+zh-HK
+zh-MO
+zh-SG
+zh-TW
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zmsVV
+zu-ZA
+zu-za
+zxJ!J
+z~y)M
+{"Disk":"disk %1"}
+{"disk":"%1"}
+{"disk":"%d","disk_model":"%s","status":"%s/%s","temprature":"%d","smart_indicators":%s}
+{"enable_bgs":%1}
+{"result":true}
+{"start_from":"%1"}
+{#a<C<
+{>r>YK
+{V)8f
+{Y04-
+{bscE
+{cRkPP
+{dhyubGPd
+{g>8>
+{oB?]
+|#Wcx
+|,SG^Y
+|/QEq
+|3go&
+|6u5D6
+|>Nfg#
+|Es&5
+|EuPageLoaderPage.qml
+|EuRoundedRectangle.qml
+|EuScrollViewStyle.qml
+|EuText.qml
+|EuUrlImage.qml
+|IDAT8
+|Lu?c
+|[BzB
+|[L$%PQ
+|^JV_
+|^X>O
+|eY?|
+|gS&9
+|publicQML
+|~#gWZ*
+} wqG
+}!!9pY
+}%_-!
+}'^}D
+})ST=
+}.SVW
+}9feL`9^
+}<W7-
+}@#bG
+}@BHw
+}BS),Aa
+}IDAT8
+}Ru7(
+}S#|e
+}Zg\A
+}_MsMD
+}`?l:
+}eZv`:
+}else{
+}g,zl
+}qIj-
+~ R[w
+~!i#A
+~,9=KZ=
+~3jrR
+~A+*{
+~OO#+
+~Z]]]
+~`iB;`
+~baC[
+~l$g0U
+~qj#k"
+~rZ*{
+~y8^i}

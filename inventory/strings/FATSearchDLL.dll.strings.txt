@@ -1,0 +1,1183 @@
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+      <requestedPrivileges>
+    </security>
+    <security>
+  </trustInfo>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+ -----BuildChildrenFromBuffer
+ A\^]
+ A^A\^][
+ A^][
+ A^^]
+ A^_^
+ A_A]_^]
+ A_A^A\
+ A_A^A\^]
+ A_A^A]A\_^]
+ A_A^_
+ A__^
+ D;t$$
+ GlobalSign Code Signing Root R450
+ H3E H3E
+ Info
+ Par:
+!This program cannot be run in DOS mode.
+!http://ocsp.globalsign.com/rootr30;
+"9<x:
+##Build Lost Cluster %d Sector %I64d 
+$?*|\
+$L9A }
+$RECYCLE.BI0
+$RECYCLE.BIN
+$Recycle.Bin
+$RmMetadata$Reparse$Repair
+%I64d
+%http://crl.globalsign.com/root-r3.crl0G
+%s.%s
+%s\log\DelFat.log
+%sconfig\FilterFolder.ini
+&GlobalSign GCC R45 CodeSigning CA 2020
+&GlobalSign GCC R45 CodeSigning CA 20200
+&amp;
+&apos;
+&https://www.globalsign.com/repository/0
+&quot;
+'Chengdu Yiwo Tech Development Co., Ltd.0
+'Chengdu Yiwo Tech Development Co., Ltd.100.
+(A^A\_^
+(A^A]^[
+(A_A^A\^
+(A_A^^[
+(HcD$8H
+(HkD$@
+(t$`H
+)t$`L
+**********************%d  area:%I64d,clu:%d,totoal:%I64d **********************
+********************NewFatTable: sec:%I64d,Clu:%d
+,Clu:
+,curSec:%I64d,parentSec:%I64d
+,lostSector:
+---FDTBitmap:%I64d-%d
+-http://ocsp.globalsign.com/codesigningrootr450F
+.       
+..      
+..  E
+.00cfg
+.?AU_Crt_new_delete@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$codecvt@_WDU_Mbstatet@@@std@@
+.?AV?$codecvt_utf8@_W$0BAPPPP@$0A@@std@@
+.?AV?$wstring_convert@V?$codecvt_utf8@_W$0BAPPPP@$0A@@std@@_WV?$allocator@_W@2@V?$allocator@D@2@@std@@
+.?AVCDoubleFATTable@@
+.?AVCFAT12Table@@
+.?AVCFAT16Table@@
+.?AVCFAT32Table@@
+.?AVCFATDataRunList@@
+.?AVCFATFileProperties@@
+.?AVCFATQuickSearch@@
+.?AVCFATQuickSearchWorker@CFATQuickSearch@@
+.?AVCFATSearchedPartitionInfo@@
+.?AVCFatCompleteSearch@@
+.?AVCFatFolderAnalyzeCB@@
+.?AVCFileNode@@
+.?AVCFileSystemNode@@
+.?AVCNTFSFileProperties@@
+.?AVCNTFSFileRecordAttribute@@
+.?AVCNTFSFileRecordDataRunsAttribute@@
+.?AVCNTFSFileRecordFileNameAttribute@@
+.?AVCNoneResidentNTFSDataRunList@@
+.?AVCRawFileInfo@@
+.?AVCResidentNTFSDataRunList@@
+.?AVCSearchedPartitionInfo@@
+.?AVFat32CalcPartition@@
+.?AVICalcPartition@@
+.?AVICompleteFileSystemSearchController@@
+.?AVIDataRunList@@
+.?AVIFATTable@@
+.?AVIFileProperties@@
+.?AVIFileSystemSearchController@@
+.?AVIQuickFileSystemSearchController@@
+.?AVIRealFATTable@@
+.?AVIRecycleBinNode2UI@@
+.?AV_Facet_base@std@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVbad_cast@std@@
+.?AVcodecvt_base@std@@
+.?AVexception@std@@
+.?AVfacet@locale@std@@
+.?AVios_base@std@@
+.?AVrange_error@std@@
+.?AVruntime_error@std@@
+.?AVtype_info@@
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.data
+.data$r
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.pdata
+.rdata
+.rdata$T
+.rdata$r
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+/0-0+
+/1(0&0$0"
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/tmp/log/Fat32FatTabelLog.log
+/tmp/log/eufatlog.log
+0A^A]A\_]
+0A^A]^
+0A_A\[
+0A_A^A\_^
+0A_A^A\_^][
+0A_A^A]A\_
+0A_A^A]A\_^[
+0A_A^A]A\_^]
+0A_A^]
+0A_A^_
+0L1 0
+0http://crl.globalsign.com/codesigningrootr45.crl0V
+0i0Y1
+0}0i1
+1Rich8
+1http://ocsp.globalsign.com/gsgccr45codesignca20200V
+200728000000Z
+20261013060633Z
+20402
+220801000000Z
+250507000000Z
+260520025500Z
+260805000000Z
+261013060633Z0+
+270521025500Z0
+290318000000Z0S1
+2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+300728000000Z0Y1
+311109235959Z0b1
+333333
+371104235959Z0c1
+380114235959Z0i1
+3H;D$H}
+3O~EN
+4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+5FjiT
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+8A]A\_[
+8A^A]^[
+8A_A\][
+8A_A\_]
+8A_A^A\_^[
+8A_A^_^][
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8FILEt
+8_^][
+8i_A@g
+9.   u
+9C s*H
+9C }%L
+9C }*H
+9D$ }JiD$ 
+9D$(~WH
+9D$Hu
+9D$Hu%
+9H s.
+9Y(tmH
+:0806
+:U|r*C
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+;.   u
+;0|RI
+;D$ t
+;D$8v
+;D$H|
+;K }0H
+;K };H
+;K }=H
+;L$HtC
+;L$xu
+;t$Hr
+;{ s7H
+<$Zw#Hc
+</assembly>
+<0:08
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+>.u(A
+>0<0:
+>http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=
+?#NMr
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$codecvt@_WDU_Mbstatet@@@std@@QEAA@_K@Z
+??0_Lockit@std@@QEAA@H@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_istream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$codecvt@_WDU_Mbstatet@@@std@@MEAA@XZ
+??1_Lockit@std@@QEAA@XZ
+??4?$_Yarn@D@std@@QEAAAEAV01@PEBD@Z
+??Bid@locale@std@@QEAA_KXZ
+?I;>u
+?ReleaseTrace@@YAXPEBDZZ
+?_Addfac@_Locimp@locale@std@@AEAAXPEAVfacet@23@_K@Z
+?_Decref@facet@locale@std@@UEAAPEAV_Facet_base@3@XZ
+?_Fiopen@std@@YAPEAU_iobuf@@PEBDHH@Z
+?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?_Incref@facet@locale@std@@UEAAXXZ
+?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXXZ
+?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z
+?_New_Locimp@_Locimp@locale@std@@CAPEAV123@AEBV123@@Z
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+?_Throw_C_error@std@@YAXH@Z
+?_Xbad_function_call@std@@YAXXZ
+?_Xlength_error@std@@YAXPEBD@Z
+?_Xout_of_range@std@@YAXPEBD@Z
+?always_noconv@codecvt_base@std@@QEBA_NXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEBA?AVlocale@2@XZ
+?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A
+?id@?$codecvt@_WDU_Mbstatet@@@std@@2V0locale@2@A
+?in@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z
+?out@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z
+?out@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEB_W1AEAPEB_WPEAD3AEAPEAD@Z
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?uncaught_exception@std@@YA_NXZ
+?unshift@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEAD1AEAPEAD@Z
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+@ L;P
+@!z\0%=
+@.data
+@.reloc
+@.rsrc
+@0>0<
+@A\^[
+@A^_^
+@A_A^A\
+@A_A^A\_^
+@A_A^A]
+@A_A^A]A\_
+@A_A^A]A\_^]
+@A_A^^
+@A_A^_
+@A__[
+@SATAWH
+@SAVH
+@SUATAWH
+@SUVATAVH
+@SUVH
+@SUVWATAVAWH
+@SUVWAVAWH
+@SVAUAVH
+@SVAVAWH
+@SVWATAV
+@SVWATH
+@SVWH
+@UAVAWH
+@USATAWH
+@USVWATAUAVAWH
+@USVWATAUAVH
+@UVATAVAWH
+@UVAVH
+@UVAWH
+@UVWATAUAVAWH
+@UVWH
+@UWATAWH
+@UWAVAWH
+@UWAVH
+@VATAUAVH
+@VATAVAWH
+@VAVH
+@VWATAVAWH
+@VWATAVH
+@VWAVH
+@WAVAWH
+@l2Sr
+@r2Cr$
+@s2Cs$
+@t2Ct$
+A H9A0t
+A L;x
+A+E@3
+A+EHA
+A+G@3
+A0@rH
+A0@tA
+A0HtH
+A2@rA
+A2HsA
+A9q s@I
+A9q }@I
+A;P A
+A;q s4H
+A;q }4H
+A@L9A@tCI
+ACCDB
+ATAUAVAWH
+ATAVAWH
+ATAWH
+AUAVAWH
+A\_^[
+A^A\_^[
+A^A\_^][
+A^A]A\_^[]
+A^_^[]
+A_A\[]
+A_A^A\
+A_A^A\_]
+A_A^A\_^
+A_A^A\_^H
+A_A^A]A\]
+A_A^A]A\_
+A_A^A]A\_^[]
+A_A^A]A\_^]
+A_A^]
+A_A^_
+A_A^_]
+A_A^_^]
+AadRecoveryPasswordDelete
+B M9B8}
+B8<8u
+Bng~B
+C H9V
+C(;l$h
+C37aL/
+CD$@H
+CL$(L
+CM'M+
+COMMON
+CT$(H
+CT$(L
+CT$8H
+CT$@H
+CT$HL
+CT$XH
+CT$XL
+CT$`H
+CT$`L
+CT$hL
+CT$pL
+CT$xH
+C\$@H
+Chengdu100.
+ClientRecoveryPasswordRotation
+CloseHandle
+Clu:%d -> %d
+Cnt:%I64d, sec:%I64d,clu:%d
+CreateEventW
+CreateFileA
+CreateFileMappingW
+CreateFileW
+CsA2@s$
+D$ ;D$$v
+D$ H9
+D$ H;
+D$ HcL$0H
+D$!HcL$0H
+D$(9D$
+D$(E3
+D$(H-
+D$(H;
+D$(L;
+D$0E3
+D$0HcD$0H
+D$0HcH
+D$0L+
+D$0L;
+D$0MZ
+D$0PE
+D$4PE
+D$8H+
+D$@@2
+D$@H;8u}I
+D$@HcH
+D$@I;E 
+D$@L;(
+D$HH9G
+D$HH9S
+D$HH;M
+D$HHc
+D$HL;
+D$JL;
+D$P9A
+D$P9D$$u
+D$P9G
+D$P;E
+D$PE3
+D$PH;
+D$T9G
+D$X9D$$s
+D$X9G
+D$XD8
+D$XE3
+D$XH+
+D$XH9
+D$XH;
+D$`E3
+D$`H;
+D$`I+
+D$`L;
+D$`fA9D$
+D$`~1f
+D$d~2
+D$hfD
+D$lI;
+D$p?*|\
+D$pE3
+D$pMZ
+D$pfD
+D$t/:"<
+D$x9D$0
+D$xE3
+D8$+u
+D8$8u
+D8&u8I
+D8't2H
+D8,0u
+D8d$Dt%
+D8d$lt
+D8d$lu
+D8mpu$
+D8|$0t
+D8|$Pu
+D9@ s
+D9@ }
+D9Alu
+D9d$h
+D9h s
+D9t$(
+D:Mwu
+D;@ s
+D;@ }
+D;C r
+D;C |
+D;i s
+D;p s
+D;t$x
+D;x }
+DeleteCriticalSection
+DeleteFileW
+DeviceIoControl
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+DosDateTimeToFileTime
+E I;E tOH
+E(I9EPr
+E:\DRW\_drw_main\DRWIntelligentScan\bin\Release\x64\FATSearchDLL.pdb
+E;f`}
+ERROR : Unable to initialize critical section in CAtlBaseModule
+EUCreateFATQuickSearcher
+EUCreateFATSearcher
+EUGetAnalyserList
+EUGetAnalyserMap
+EUGetAnalyserMultimap
+EXFAT
+EnterCriticalSection
+Error
+Error document empty.
+Error null (0) or unexpected EOF found in input stream.
+Error parsing CDATA.
+Error parsing Comment.
+Error parsing Declaration.
+Error parsing Element.
+Error parsing Unknown.
+Error reading Attributes.
+Error reading Element value.
+Error reading end tag.
+Error when TiXmlDocument added to document, because TiXmlDocument can only be at the root.
+Error: empty tag.
+Exception occurred.GetErrorCode
+F8I9F`s
+FAT12
+FAT16
+FAT16   
+FAT32
+FAT32   
+FATFilterName
+FATSearchDLL.dll
+FCPEVENT
+Failed to open file
+Failed to read DBR information!
+Failed to read Element name
+File Path Lost
+File overflows partition!
+FileSet:%I64d  *****
+FileSet:%I64d xxxxxx [area:%I64d,clusize:%d] *****
+FileSet:%I64d,belong to [area:%I64d,clusize:%d]
+Filter
+Found unproessed buffer, lengh:%d bytes
+G I9GHs$
+G#@5k
+G0I;F8~
+GenuD
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleFileNameA
+GetModuleHandleW
+GetPrivateProfileStringA
+GetProcAddress
+GetSystemTimeAsFileTime
+GlobalSign Root CA - R31
+GlobalSign nv-sa1)0'
+GlobalSign nv-sa1/0-
+GlobalSign0
+GlobalSign1
+Gr2Cr$
+Gr2Cr$@0CrH
+H H;Y
+H L;I
+H SUAUAWH
+H+D$HH
+H9A s
+H9AX}
+H9C s*H
+H9C }*H
+H9D$ t
+H9D$P
+H9H s
+H9H s.
+H9H }
+H9H }.
+H9N0s
+H9P s
+H9P }
+H9Q }
+H9Q(u
+H9\$0
+H9h }
+H9h }zH
+H9kH}
+H9l$ 
+H9t$H
+H9x s
+H9x }
+H9y@tP@8yXtJH
+H;8u3
+H;B siH
+H;D$Hs
+H;D$x
+H;K s2H
+H;K s5H
+H;K s7H
+H;K s=H
+H;K }
+H;K }=H
+H;Ohv
+H;P }
+H;Q r
+H;Q s
+H;Q }
+H;Q }WH
+H;S s
+H;S }
+H;S }5H
+H;S }7H
+H;W }5H
+H;\$@tJH
+H;^ u
+H;^8u
+H;^Xu
+H;k }
+H;q s
+H;x s
+H;y r
+H;y s
+H;y }
+H;z s
+H;{ s<H
+H;{ }
+HA^A]A\^
+HA_A]A\]
+HA_A^A]A\
+HA_A^A]A\_^][
+HFSPLUS
+HcD$(H
+HcD$0H
+HcD$4H
+HcD$PL
+HcD$hL
+HcFdH
+HcL$ 
+HpL9g`
+Hs2Ks
+Ht2KtI
+I I9J t\
+I(I9J(u
+I+E@3
+I+N0H
+I9J(t]I
+I9^Ht
+I9q s@I
+I9q }@I
+I;P A
+I;P }uH
+I;R }
+I;S }
+I;q s4H
+I;q }4H
+I;y }
+InitializeConditionVariable
+InitializeCriticalSectionAndSpinCount
+InitializeCriticalSectionEx
+InitializeSListHead
+Insert2PreFullFDTDir: ParentInfo:
+IsDebuggerPresent
+IsProcessorFeaturePresent
+J H9Y
+J H;)}
+J L9A
+J L9I
+J L9y
+JmZ6,/
+KERNEL32.dll
+L$ 9A@t~I
+L$ H+
+L$ SUVWH
+L$ SVAUAVH
+L$ SVWH
+L$ SWH
+L$ UWATAUAVH
+L$ VAWH
+L$ WAVAWH
+L$ WH
+L$(H#
+L$(H+
+L$0H3
+L$0H9P
+L$0M;
+L$0u\M
+L$8H+
+L$8H3
+L$8I;
+L$@E3
+L$@H3
+L$@H;E
+L$HH+
+L$HH3
+L$HH9H s
+L$PE3
+L$PH3
+L$PI+
+L$XH3
+L$`H3
+L$`H9H s
+L$`I+
+L$dfA9L$
+L$hE3
+L$xH3
+L+}`M
+L9@ s
+L9@ }
+L9A s
+L9H s
+L9H }
+L9H0u
+L9I }
+L9` s
+L9i }
+L9p s
+L9x }
+L; tE@
+L;0u1H
+L;8u5
+L;@ A
+L;@ s
+L;@ }
+L;A D
+L;B s
+L;C r
+L;C }
+L;C }<H
+L;I s
+L;I }
+L;J s
+L;J }
+L;K s
+L;K s<H
+L;K }
+L;a s
+L;s }
+L;w s=H
+L;{ }3H
+LD^H+
+LeaveCriticalSection
+LoadLibraryA
+LostDir
+LostDir%d
+M H1E
+M9H s
+M;H }
+M;fxu
+M;r }
+M@I9V
+MSVCP140.dll
+MXL9M
+MapViewOfFile
+Memory allocation failed.
+MhD9Apu
+MultiByteToWideChar
+N I9F0t
+N0H9Q
+NUMBERS
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+No error
+O0M0A
+OutputDebugStringW
+PAGES
+PA\][
+PA^_]
+PA^_^
+PA^_^[]
+PA_A^A]A\_^]
+PA_A^_^]
+PA_^]
+PathFileExistsW
+Pg,%MV
+Pp9t$pt
+PpH9t$xu
+PpHcL$@
+Pr2Sr
+PubLog.dll
+Q`D8Ihu
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+QueryPerformanceCounter
+R I9B0t
+RAWSearchDLL.dll
+RNjOT
+Recycled
+Recycler
+Replace a temp directory %s first clusternum %x with directory %s firstclusternum %x!
+ResetEvent
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+S H;P s
+SHLWAPI.dll
+SUATH
+SUAVH
+SUVWATAUAVAWH
+SUVWATAVH
+SUVWAVH
+SVATH
+SVWATAUAVAWH
+SVWATAVAWH
+SWATAUH
+SWAWH
+Sec=%I64d,Clu=%d,Name=%s
+SetEndOfFile
+SetEvent
+SetFilePointer
+SetFilePointerEx
+SetUnhandledExceptionFilter
+Sichuan1
+SleepConditionVariableCS
+Some thing must be wrong! 
+System Volume Information
+T$ H+
+T$0H+
+T$0H;
+T$8E3
+T$8xbM
+T$@E3
+T$@H+
+T$@t?
+T$@tl
+T$PH+
+T$pH;
+TUUUUUU
+TerminateProcess
+U5@D<Y</
+UATAUAVAWH
+UATAUAWH
+UNKNOWN
+USVWATAUAVAWH
+USVWATAUAVH
+USVWAVH
+UVAVH
+UVWATAUAVAWH
+UVWATAUAVH
+UVWAUAWH
+UVWAVAWH
+UWATAVAWH
+UWJ%3
+UXL9M
+UnhandledExceptionFilter
+Unknown exception
+UnmapViewOfFile
+Unporcessed long file name directory entry at %d
+VAUAVH
+VAVAWH
+VCPROJ
+VCRUNTIME140.dll
+VWATAVAWH
+VWAVH
+VWAWH
+WATAUAVAWH
+WAVAW
+WAVAWH
+WaitForSingleObjectEx
+WakeAllConditionVariable
+We found two undeleted directory got the same first cluster number!
+WideCharToMultiByte
+WriteFile
+X0V0T
+XA_A^A]A\
+XMIND
+YI7xj
+\$ UH
+\$ UVATH
+\$ UVWH
+\$ WH
+\$@E3
+\$@H9
+\$@I;] 
+\$@L;
+\$PE3
+\$PH9
+\$`Hc
+\$`sTH
+\$pH;
+\$xE3
+\$xuwH
+]J<0"0i3
+^0H;^8t@f
+_4[Qh1c
+_CxxThrowException
+_Mtx_destroy_in_situ
+_Mtx_init_in_situ
+_Mtx_lock
+_Mtx_unlock
+__C_specific_handler
+__CxxFrameHandler3
+__RTDynamicCast
+___FileSet:%I64d BaseFDT:%I64d,belong to %I64d,Clu:%d
+__acrt_iob_func
+__std_exception_copy
+__std_exception_destroy
+__std_terminate
+__std_type_info_destroy_list
+__stdio_common_vfprintf
+__stdio_common_vsprintf
+__stdio_common_vsprintf_s
+_callnewh
+_cexit
+_configure_narrow_argv
+_crt_atexit
+_errno
+_execute_onexit_table
+_fseeki64
+_get_stream_buffer_pointers
+_initialize_narrow_environment
+_initialize_onexit_table
+_initterm
+_initterm_e
+_invalid_parameter_noinfo
+_invalid_parameter_noinfo_noreturn
+_lock_file
+_purecall
+_register_onexit_function
+_seh_filter_dll
+_splitpath
+_splitpath_s
+_stricmp
+_strlwr
+_strnicmp
+_strupr
+_unlock_file
+_wcsicmp
+`.rdata
+`A^_^
+`A_A^A]A\_^[
+`A_A^A]A\_^]
+a:m1&
+aiff_aif;m4p_m4a_m4v_mp4_mpg_mpeg_mov;html_htm;rm_rmvb;mkv_webm;asf_wma_wmv;jpg_jpeg;tif_tiff_epx_nef_cr2_sr2_raw_rw2_dng_raf_crw_dcr_kdc_erf_3fr_mef_pef_srw_orf_mrw_mdc_ptx_x3f_mos_cr3_arw;ai_pdf;zip_zipx_docx_pptx_xlsx_potx_pptm_pages_key_numbers_odt_ods_odp_xmind_drp_cdr_wfp_eddx;heic_heif;ts_mts_m2ts;ogg_oga;
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+b wul
+bad allocation
+bad array new length
+bad cast
+bad conversion
+c:\log\Fat32FatTabelLog.log
+c:\log\eufatlog.log
+d$ E3
+d$0L9a(
+d$@M9
+d$@M9]
+d$HH;
+d$IE8
+d$PI;
+d$X|GH
+d$`E2
+d$`H=
+d$ht!
+deque<T> too long
+e`A9Vpu
+effffff
+exe;dll;ocx;sys;com;
+f;D$0u
+f;D$0urH
+f;D$4u
+f;D$p
+f;p s
+fA9D$
+fA9L$
+fE94Ru
+fF9<Bu
+fclose
+fflush
+fgetc
+fgetpos
+file%d
+folder%d
+fopen_s
+fputc
+fread
+fsetpos
+ft7YY
+fwrite
+hA^A]A\_^]
+hA_A]][
+hA_A^A]A\_^[]
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0]
+invalid string position
+jPeNS
+k0i0$
+kernel32.dll
+kxXgMt
+l$ AVH
+l$ H=
+l$ M+
+l$ M;
+l$ VH
+l$ VWATAVAWH
+l$ VWAVH
+l$0E3
+l$0H+
+l$8A_A^A\_
+l$8L;m
+l$@@2
+l$DE;n
+l$PH;
+l$lA;
+l$pM+
+list<T> too long
+m0k0$
+malloc
+map/set<T> too long
+memchr
+memcmp
+memcpy
+memmove
+memset
+n0l0-
+ntelA
+o84s[
+p(tFH
+pA_A^A]A\_^]
+p\$x %
+r`fA;
+reBindFileSet:%I64d  to BaseFDT:%I64d that belong to %I64d,Clu:%d
+rmatio
+s,HcD$4H+
+sec:%I64d
+setvbuf
+strcpy_s
+string too long
+strncpy
+strstr
+strtok
+t fff
+t$ ATAVAWH
+t$ E3
+t$ WATAVAWL
+t$ WAVH
+t$ WH
+t$(L9s
+t$(L9w
+t$0A^_
+t$8E3
+t$8H+
+t$@D8
+t$@E3
+t$@H=
+t$@I;
+t$A9x
+t$HE3
+t$HH9S
+t$HH;
+t$Ht*
+t$`E3
+t$pD8>
+t%fff
+t'fff
+t18\$Dt+H
+t3H9y
+t6fA9x
+t<HcD$PH
+tMH9sXuGH
+tWH;y rQH
+t]D8`
+tlA;P
+toupper
+tsg1z
+ttI;P |nH
+tvH;9t
+tw@8}
+twI;P |qI
+tyH;J |s
+u!9A s
+u!9H }
+u!9P s
+u!9Z s
+u!9p s
+u!9p }
+u!9x s
+u#D9A }
+u#D9Y
+u#D9p
+u#D9q s
+u#D9x
+u#D9y }
+u#H9A s
+u#H9H s
+u#H9P }
+u#H9Q }
+u#H9p s
+u#H9x s
+u#H9y s
+u#H9y }
+u#I9R }
+u#L9@ s
+u#L9@ }
+u#L9A }
+u#L9H s
+u#M9q }
+u$E9B s
+u$I9x }
+u%9x s
+u*H;A
+u+H;A
+u,H;A
+u-H;C
+u1H9P s
+u4H;A
+u;H;P
+uA9H }&H
+u\L;h }+L
+ub'vb'v
+ungetc
+v=Y]Bv
+vector<T> too long
+w'E;C
+wcsrchr
+wmemcpy_s
+www.digicert.com1!0
+www.digicert.com1$0"
+x AVH
+xA_A^A]A\_^[]
+y ..  
+{ ..  tRJ
+{ A9G 
+{ UAVAWH
+|$ @2
+|$ ATAVAWH
+|$ AVH
+|$ AVL
+|$ A^
+|$ E3
+|$ UATAUAVAWH
+|$ UH
+|$(A^
+|$(L+
+|$0L;
+|$8A_A^A\
+|$@D;
+|$@E3
+|$@H;
+|$@H=
+|$@ff
+|$A@2
+|$HL+
+|$XH;
+|$`.   u
+|$`E3
+|$hH;
+|$xE2
+|$xE3
+|$xH+
+|$xI;
+|D0:u
+|D2\t
+|D`:u
+|Db\t
+|Lu?c
+}@M9V
+}HH95
+}`.   
+~qj#k"
+~rZ*{

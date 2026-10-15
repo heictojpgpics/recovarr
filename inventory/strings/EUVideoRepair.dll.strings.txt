@@ -1,0 +1,1614 @@
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+      <requestedPrivileges>
+    </security>
+    <security>
+   %lld - %lld  count:%lld
+   %lld - %lld count:%lld
+  </trustInfo>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+  start calc blokc Bound
+ $=Q=
+ $~<F
+ A;D0
+ A^^[
+ A^_^
+ A_A]A\_]
+ A_A^A\
+ A_A^A]A\]
+ A_A^A]A\_^]
+ A_A^A]_^
+ A_A^]
+ A_A^^
+ A_A^_
+ A_^[
+ A__^
+ GetRepairInfo m_progress is nullptr
+ GlobalSign Code Signing Root R450
+ H3E H3E
+ chunks.
+ entry_size.
+ scan first end  use time:
+ scan second end
+ scan second end  use time:
+ scan second start
+!!!!!!!!!!! file moov parse over
+!This program cannot be run in DOS mode.
+!http://ocsp.globalsign.com/rootr30;
+"9<x:
+"bytes": [
+"subtype": 
+$Hc9N
+$Hc:J
+%Y-%m-%d %H:%M:%S
+%d goproLD
+%d reged as fllow:
+%http://crl.globalsign.com/root-r3.crl0G
+%lld %s regroup :frag Size %d
+%lld base:%d
+%lld be limited with frag:%ld
+%lld can not be regroup,not a AVI File
+%lld find a mdat box at:%lld
+%lld find correct mdat at:%lld
+%lld find new block Start:%lld
+%lld reset a  wrong mdat box at:%lld
+%s IsLowQulityVideo,will set bmp
+%s be set to bmp:start sector %lld  count: %lld
+%s force FixSize Size:%lld
+%s force filesystem Size:%lld
+%s is bad moov
+%s use Gopro align:
+%s will use roged %s datarun  useOrgFsDatarun:%d  usergedDatarun:%d
+%s:%d: 
+%sApply file Size:%lld
+&GlobalSign GCC R45 CodeSigning CA 2020
+&GlobalSign GCC R45 CodeSigning CA 20200
+&https://www.globalsign.com/repository/0
+', 0x
+'7,BP
+'Chengdu Yiwo Tech Development Co., Ltd.0
+'Chengdu Yiwo Tech Development Co., Ltd.100.
+(A^A]^[
+(A_A^_]
+(D$ f
+(D$0L
+(D$0f
+(D$@f
+(D$Pf
+(D$`f
+(D$pf
+(L$@f
+(T$PD
+(\$@D
+(d$0D
+(first_chunk:
+(t$0L
+(t$pH
+(t$pI
+(|$PI
+(|$pI
+)D$0H
+)L$PH
+)t$0H
++t$8D;t$4
+, <^w
+, <^w!H
+, sample_description_index:
+, samples_per_chunk:
+-----warming-----  
+-http://ocsp.globalsign.com/codesigningrootr450F
+....  ....  ....  ....
+./reglog_win.txt
+.00cfg
+.?AU?$output_adapter_protocol@D@detail@json_abi_v3_11_3@nlohmann@@
+.?AV<lambda_1145f2204de12b35bc87dab6035bef05>@@
+.?AV<lambda_40f3738daaa7b5547dd06e2bcecd6b0d>@@
+.?AV<lambda_4cd51912822afe47e938c90fec28df63>@@
+.?AV<lambda_5454e4089f01a3c5ca61afe030324678>@@
+.?AV<lambda_91694a4fa61cb46610ab40a433aa48fb>@@
+.?AV<lambda_c72f65f438d907c3143b12d7e7569b15>@@
+.?AV<lambda_ee98b9f0f79c69d928cda2fd9ba50224>@@
+.?AV<lambda_ef7bee236fa9cf7a5f5fa55a490994c0>@@
+.?AV<lambda_f2722e2760011a857da0e8e2be988de0>@@
+.?AV<lambda_fcc3d0906c9b3de6d5e9591ef6e3f9ed>@@
+.?AV?$_Binder@U_Unforced@std@@P8AVIFileManager@@EAAXAEAUAVIFragInfo@AVI@@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8AVIFileManager@@EAAXAEAUAVI_NC_INFO@AVI@@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8AVIFileManager@@EAAXAEAV?$shared_ptr@VAVIRegroup@@@2@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8AVIFileManager@@EAAXXZAEAV?$shared_ptr@VAVIFileManager@@@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8AVIFileManager@@EAAX_JPEADH@ZAEAV?$shared_ptr@VAVIFileManager@@@2@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8IntegrationAlg@VRG@@EAAX_JPEADH@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MovMp4Repair@@EAAHPEAX_JH@ZPEAV3@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MtsFileManager@@EAAXAEAV?$shared_ptr@UTsFrag@reg@@@2@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MtsFileManager@@EAAXAEAV?$shared_ptr@VMtsRegroup@@@2@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MtsFileManager@@EAAX_JPEADH@ZAEAV?$shared_ptr@VMtsFileManager@@@2@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MxfFileManager@@EAAXAEAV?$shared_ptr@VMxfRegroup@@@2@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MxfFileManager@@EAAXUMxfInfo@@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8MxfFileManager@@EAAX_JPEADH@ZAEAV?$shared_ptr@VMxfFileManager@@@2@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8QTBinaryAnalyse@VRG@@EAAX_JPEADH@ZAEAV?$shared_ptr@VQTBinaryAnalyse@VRG@@@2@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Binder@U_Unforced@std@@P8ReGroupFile@VRG@@EAAXV?$shared_ptr@UDataRange@VRG@@@2@PEADH@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.?AV?$_Func_base@HPEAX_JH@std@@
+.?AV?$_Func_base@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBUMoovEntry@QuickTimeBoxParse@@H@std@@
+.?AV?$_Func_base@V?$shared_ptr@VIsoBox@@@std@@AEBVContainerBox@@@std@@
+.?AV?$_Func_base@V?$shared_ptr@VIsoBox@@@std@@_K_KAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@
+.?AV?$_Func_base@X$$V@std@@
+.?AV?$_Func_base@XAEAUAVIFragInfo@AVI@@@std@@
+.?AV?$_Func_base@XAEAUAVI_NC_INFO@AVI@@@std@@
+.?AV?$_Func_base@XAEAV?$shared_ptr@UTsFrag@reg@@@std@@@std@@
+.?AV?$_Func_base@XAEAV?$shared_ptr@VAVIRegroup@@@std@@@std@@
+.?AV?$_Func_base@XAEAV?$shared_ptr@VMtsRegroup@@@std@@@std@@
+.?AV?$_Func_base@XAEAV?$shared_ptr@VMxfRegroup@@@std@@@std@@
+.?AV?$_Func_base@XUMxfInfo@@@std@@
+.?AV?$_Func_base@XV?$shared_ptr@UDataRange@VRG@@@std@@PEADH@std@@
+.?AV?$_Func_base@XV?$shared_ptr@VReGroupFile@VRG@@@std@@@std@@
+.?AV?$_Func_base@X_JPEADH@std@@
+.?AV?$_Func_base@_KAEBVContainerBox@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_1145f2204de12b35bc87dab6035bef05>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_40f3738daaa7b5547dd06e2bcecd6b0d>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_4cd51912822afe47e938c90fec28df63>@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBUMoovEntry@QuickTimeBoxParse@@H@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_5454e4089f01a3c5ca61afe030324678>@@V?$shared_ptr@VIsoBox@@@std@@_K_KAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_91694a4fa61cb46610ab40a433aa48fb>@@XV?$shared_ptr@VReGroupFile@VRG@@@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_c72f65f438d907c3143b12d7e7569b15>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_ee98b9f0f79c69d928cda2fd9ba50224>@@_KAEBVContainerBox@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_ef7bee236fa9cf7a5f5fa55a490994c0>@@V?$shared_ptr@VIsoBox@@@std@@_K_KAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_f2722e2760011a857da0e8e2be988de0>@@V?$shared_ptr@VIsoBox@@@std@@AEBVContainerBox@@@std@@
+.?AV?$_Func_impl_no_alloc@V<lambda_fcc3d0906c9b3de6d5e9591ef6e3f9ed>@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8AVIFileManager@@EAAXAEAUAVIFragInfo@AVI@@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAUAVIFragInfo@AVI@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8AVIFileManager@@EAAXAEAUAVI_NC_INFO@AVI@@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAUAVI_NC_INFO@AVI@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8AVIFileManager@@EAAXAEAV?$shared_ptr@VAVIRegroup@@@2@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAV?$shared_ptr@VAVIRegroup@@@2@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8AVIFileManager@@EAAXXZAEAV?$shared_ptr@VAVIFileManager@@@2@@std@@X$$V@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8AVIFileManager@@EAAX_JPEADH@ZAEAV?$shared_ptr@VAVIFileManager@@@2@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@X_JPEADH@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8IntegrationAlg@VRG@@EAAX_JPEADH@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@X_JPEADH@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MovMp4Repair@@EAAHPEAX_JH@ZPEAV3@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@HPEAX_JH@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MtsFileManager@@EAAXAEAV?$shared_ptr@UTsFrag@reg@@@2@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAV?$shared_ptr@UTsFrag@reg@@@2@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MtsFileManager@@EAAXAEAV?$shared_ptr@VMtsRegroup@@@2@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAV?$shared_ptr@VMtsRegroup@@@2@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MtsFileManager@@EAAX_JPEADH@ZAEAV?$shared_ptr@VMtsFileManager@@@2@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@X_JPEADH@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MxfFileManager@@EAAXAEAV?$shared_ptr@VMxfRegroup@@@2@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@XAEAV?$shared_ptr@VMxfRegroup@@@2@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MxfFileManager@@EAAXUMxfInfo@@@ZPEAV3@AEBU?$_Ph@$00@2@@std@@XUMxfInfo@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8MxfFileManager@@EAAX_JPEADH@ZAEAV?$shared_ptr@VMxfFileManager@@@2@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@X_JPEADH@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8QTBinaryAnalyse@VRG@@EAAX_JPEADH@ZAEAV?$shared_ptr@VQTBinaryAnalyse@VRG@@@2@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@X_JPEADH@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ReGroupFile@VRG@@EAAXV?$shared_ptr@UDataRange@VRG@@@2@PEADH@ZPEAV34@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XV?$shared_ptr@UDataRange@VRG@@@2@PEADH@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$_LaunchPad@V?$unique_ptr@V?$tuple@V<lambda_73701293df5f97a81fd24e34f4852a77>@@@std@@U?$default_delete@V?$tuple@V<lambda_73701293df5f97a81fd24e34f4852a77>@@@std@@@2@@std@@@std@@
+.?AV?$_Ref_count@UBoxBody@mp4base@@@std@@
+.?AV?$_Ref_count@VBox@mp4base@@@std@@
+.?AV?$_Ref_count@VSampleEntryBox@mp4base@@@std@@
+.?AV?$_Ref_count_obj@UAlignBlockDetail@VRG@@@std@@
+.?AV?$_Ref_count_obj@UAlignBlockInfo@VRG@@@std@@
+.?AV?$_Ref_count_obj@UBrokenDetail@VRG@@@std@@
+.?AV?$_Ref_count_obj@UCacheData@VRG@@@std@@
+.?AV?$_Ref_count_obj@UCachePoint@VRG@@@std@@
+.?AV?$_Ref_count_obj@UDataRange@VRG@@@std@@
+.?AV?$_Ref_count_obj@UFragBlock@VRG@@@std@@
+.?AV?$_Ref_count_obj@UImportanBoxRegInfo@@@std@@
+.?AV?$_Ref_count_obj@UMoovCacheData@VRG@@@std@@
+.?AV?$_Ref_count_obj@UMoovGuessDataCache@VRG@@@std@@
+.?AV?$_Ref_count_obj@UQuickTimeContex@VRG@@@std@@
+.?AV?$_Ref_count_obj@URequreFeature@VRG@@@std@@
+.?AV?$_Ref_count_obj@UTsFrag@reg@@@std@@
+.?AV?$_Ref_count_obj@UUnConfirmFeature@VRG@@@std@@
+.?AV?$_Ref_count_obj@UVideoBlock@VRG@@@std@@
+.?AV?$_Ref_count_obj@UcachePair@VRG@@@std@@
+.?AV?$_Ref_count_obj@UmoovFragInfo@VRG@@@std@@
+.?AV?$_Ref_count_obj@UmxfExpectKlvFeature@@@std@@
+.?AV?$_Ref_count_obj@UspliceSampleFeCache@VRG@@@std@@
+.?AV?$_Ref_count_obj@V?$function@$$A6AXV?$shared_ptr@UDataRange@VRG@@@std@@PEADH@Z@std@@@std@@
+.?AV?$_Ref_count_obj@V?$function@$$A6AXV?$shared_ptr@VReGroupFile@VRG@@@std@@@Z@std@@@std@@
+.?AV?$_Ref_count_obj@V?$function@$$A6AXXZ@std@@@std@@
+.?AV?$_Ref_count_obj@V?$function@$$A6AX_JPEADH@Z@std@@@std@@
+.?AV?$_Ref_count_obj@V?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@json_abi_v3_11_3@nlohmann@@@std@@
+.?AV?$_Ref_count_obj@V?$vector@IV?$allocator@I@std@@@std@@@std@@
+.?AV?$_Ref_count_obj@V?$vector@U?$pair@II@std@@V?$allocator@U?$pair@II@std@@@2@@std@@@std@@
+.?AV?$_Ref_count_obj@V?$vector@UChunkInfo@VRG@@V?$allocator@UChunkInfo@VRG@@@std@@@std@@@std@@
+.?AV?$_Ref_count_obj@V?$vector@USampleDetail@VRG@@V?$allocator@USampleDetail@VRG@@@std@@@std@@@std@@
+.?AV?$_Ref_count_obj@V?$vector@_KV?$allocator@_K@std@@@std@@@std@@
+.?AV?$_Ref_count_obj@VAVIFileManager@@@std@@
+.?AV?$_Ref_count_obj@VAVIRegroup@@@std@@
+.?AV?$_Ref_count_obj@VBoxList@mp4base@@@std@@
+.?AV?$_Ref_count_obj@VCFileNodeExtend@@@std@@
+.?AV?$_Ref_count_obj@VContainerBox@@@std@@
+.?AV?$_Ref_count_obj@VFeatureStreamCache@VRG@@@std@@
+.?AV?$_Ref_count_obj@VFileFilter@VRG@@@std@@
+.?AV?$_Ref_count_obj@VIsoBox@@@std@@
+.?AV?$_Ref_count_obj@VMJpegCodec@VRG@@@std@@
+.?AV?$_Ref_count_obj@VMp4FileManager@VRG@@@std@@
+.?AV?$_Ref_count_obj@VMtsFileManager@@@std@@
+.?AV?$_Ref_count_obj@VMtsRegStatus@@@std@@
+.?AV?$_Ref_count_obj@VMtsRegroup@@@std@@
+.?AV?$_Ref_count_obj@VMxfFileManager@@@std@@
+.?AV?$_Ref_count_obj@VMxfRegroup@@@std@@
+.?AV?$_Ref_count_obj@VPaddingBox@@@std@@
+.?AV?$_Ref_count_obj@VProcessManager@@@std@@
+.?AV?$_Ref_count_obj@VQTBinaryAnalyse@VRG@@@std@@
+.?AV?$_Ref_count_obj@VReGroupFile@VRG@@@std@@
+.?AV?$_Ref_count_obj@VUuidBox@@@std@@
+.?AV?$_Ref_count_obj@VVRGFileStream@VRG@@@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_stringbuf@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$basic_stringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$enable_shared_from_this@VBox@mp4base@@@std@@
+.?AV?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@json_abi_v3_11_3@nlohmann@@
+.?AVBox@mp4base@@
+.?AVBoxContainer@mp4base@@
+.?AVBoxList@mp4base@@
+.?AVChangeDataRunListHelper@@
+.?AVCo64Box@mp4base@@
+.?AVContainerBox@@
+.?AVFtypBox@mp4base@@
+.?AVHdlrBox@mp4base@@
+.?AVIDataRunList@@
+.?AVIMediaDeviceIdentify@@
+.?AVIMovMp4Repair@@
+.?AVIUserInfoMediaDeviceIdentify@@
+.?AVIsoBox@@
+.?AVMJpegCodec@VRG@@
+.?AVMdatBox@mp4base@@
+.?AVMovMp4Repair@@
+.?AVPaddingBox@@
+.?AVQTFeatureAnalyse@VRG@@
+.?AVSampleEntryBox@mp4base@@
+.?AVStcoBox@mp4base@@
+.?AVStscBox@mp4base@@
+.?AVStsdBox@mp4base@@
+.?AVStszBox@mp4base@@
+.?AVTkhdBox@mp4base@@
+.?AVUuidBox@@
+.?AV_Generic_error_category@std@@
+.?AV_Pad@std@@
+.?AV_Ref_count_base@std@@
+.?AV_System_error@std@@
+.?AV_System_error_category@std@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVbad_cast@std@@
+.?AVbad_optional_access@std@@
+.?AVbad_weak_ptr@std@@
+.?AVerror_category@std@@
+.?AVexception@detail@json_abi_v3_11_3@nlohmann@@
+.?AVexception@std@@
+.?AVios_base@std@@
+.?AVlogic_error@std@@
+.?AVother_error@detail@json_abi_v3_11_3@nlohmann@@
+.?AVruntime_error@std@@
+.?AVsystem_error@std@@
+.?AVtype_error@detail@json_abi_v3_11_3@nlohmann@@
+.?AVtype_info@@
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.INSV
+.M2TS
+.data
+.data$r
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.pdata
+.rdata
+.rdata$T
+.rdata$r
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+/0-0+
+/1(0&0$0"
+/http://secure.globalsign.com/cacert/root-r3.crt06
+00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
+0123456789ABCDEF
+0A\_^
+0A^A]_
+0A^_^
+0A^_^][
+0A_A^A\
+0A_A^A\_^
+0A_A^A]A\_
+0A_A^A]A\_^[
+0A_A^A]A\_^]
+0A_A^_
+0A_A^_^]
+0L1 0
+0http://crl.globalsign.com/codesigningrootr45.crl0V
+0i0Y1
+0}0i1
+1.0,0
+11eU%
+1http://ocsp.globalsign.com/gsgccr45codesignca20200V
+200728000000Z
+20261013060626Z
+20402
+220801000000Z
+2333333
+250507000000Z
+260520025500Z
+260805000000Z
+261013060626Z0+
+270521025500Z0
+290318000000Z0S1
+2D$L$~2
+2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+300728000000Z0Y1
+311109235959Z0b1
+371104235959Z0c1
+380114235959Z0i1
+3O~EN
+4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+5FjiT
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+8A^_^[
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8]/u7H
+8_^][
+8i_A@g
+961c151d2e87f2686a955a9be24d316f1362bf21 3.11.3
+9C }#H
+9C }&H
+:%s  offset:%lld org data run is correct,will not fix it
+:0806
+:U|r*C
+:\$ u_H
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+;B0uhH
+;K }>H
+;S }/H
+;S }5H
+</assembly>
+<0:08
+<9GuT
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+<discarded>
+>0<0:
+>http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=
+?333333
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z
+??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??0_Lockit@std@@QEAA@H@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+??1_Lockit@std@@QEAA@XZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@G@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@I@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV01@H@Z
+??Bid@locale@std@@QEAA_KXZ
+?_Execute_once@std@@YAHAEAUonce_flag@1@P6AHPEAX1PEAPEAX@Z1@Z
+?_Fiopen@std@@YAPEAU_iobuf@@PEBDHH@Z
+?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?_Getcat@?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?_Gninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXXZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ
+?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+?_Pninc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAPEA_WXZ
+?_Syserror_map@std@@YAPEBDH@Z
+?_Throw_C_error@std@@YAXH@Z
+?_Throw_Cpp_error@std@@YAXH@Z
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAAXXZ
+?_Winerror_map@std@@YAHH@Z
+?_Winerror_message@std@@YAKKPEADK@Z
+?_Xbad_function_call@std@@YAXXZ
+?_Xinvalid_argument@std@@YAXPEBD@Z
+?_Xlength_error@std@@YAXPEBD@Z
+?_Xout_of_range@std@@YAXPEBD@Z
+?always_noconv@codecvt_base@std@@QEBA_NXZ
+?cerr@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
+?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QEAAAEAV12@XZ
+?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEBA?AVlocale@2@XZ
+?getloc@ios_base@std@@QEBA?AVlocale@2@XZ
+?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A
+?id@?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@2V0locale@2@A
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z
+?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAXAEBVlocale@2@@Z
+?in@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z
+?out@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z
+?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z
+?put@?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@QEBA?AV?$ostreambuf_iterator@DU?$char_traits@D@std@@@2@V32@AEAVios_base@2@DPEBUtm@@PEBD3@Z
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z
+?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAPEAV12@PEA_W_J@Z
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z
+?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAAG_W@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?sputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEAA_JPEB_W_J@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAHXZ
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAAGXZ
+?uncaught_exception@std@@YA_NXZ
+?unshift@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEAD1AEAPEAD@Z
+?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+?xsgetn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEA_W_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+?xsputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEB_W_J@Z
+@!z\0%=
+@.data
+@.reloc
+@.rsrc
+@0>0<
+@8p8t
+@8}`t
+@A^_^
+@A_A^A\
+@A_A^A\_^
+@A_A^A]A\^][
+@A_A^A]A\_
+@A_A^A]A\_^[
+@A_A^A]A\_^]
+@A_A^A]^[
+@A_A^_
+@A_A^_^[
+@A_A^_^]
+@SUVWATAUAVAWH
+@SUVWATAVAWH
+@SUWAUAWH
+@SVAUAVH
+@SVAVH
+@SVAWH
+@SVWATAUAVAWH
+@SVWAVH
+@SVWH
+@UAVAWH
+@USVWATAUAVAWH
+@USVWATAVAWH
+@USVWAVAWH
+@USVWAVH
+@UVWATAUAVAWH
+@UVWAVAWH
+@UVWH
+@UWAVAWH
+@VWATAVAWH
+@VWATH
+@VWAVH
+@WATAUAVAWH
+@WAVAWH
+A9@ ~fM
+A9A }=I
+A9B A
+A;Q }
+A@H+A8H
+ATAVAWH
+AUTO_FILL_HEADER
+AUTO_FILL_TAIL
+AVI start
+AXH+APH
+AXHc8H
+A]A\_^
+A^_^[]
+A^_^][
+A_A\_
+A_A]_][
+A_A^A\
+A_A^A\_]
+A_A^A\_^
+A_A^A\_^[]
+A_A^A\_^][
+A_A^A]A\]
+A_A^A]A\_
+A_A^A]A\_^[
+A_A^A]A\_^[]
+A_A^A]A\_^]
+A_A^A]A\_^][
+A_A^A]_]
+A_A^A]_^
+A_A^]
+A_A^_
+A_A^_^[
+A_A^_^[]
+A_A^_^]
+A_A^_^][
+AhH+A`H
+AreFileApisANSI
+B@L;P
+BMPSURE
+BOUNDSURE
+Bad optional access
+BkCOffset:%d devstart:%lld bytes:%lld PStart:%lld CCount:%lld Ptail:%lld
+Bng~B
+Body is NULL.
+Body is null.
+C(L+C I
+C@H9U
+CD$@H
+CL$ L
+CL$8H
+CL$xH
+CM'M+
+CPH9CHt2J
+CPH9CHtMH
+CT$ H
+CT$XL
+CT$`H
+CT$xH
+Chengdu100.
+Chunk 
+Chunk Offset
+CloseHandle
+CreateEventW
+CreateFileMappingW
+CreateFileW
+D$ A+
+D$ E3
+D$ H;
+D$ I+
+D$ L;
+D$ fA
+D$(E3
+D$(H;
+D$(L;
+D$0E3
+D$0H)
+D$0H+
+D$0H+D$(H
+D$0H9
+D$0H;
+D$0Hc
+D$0I+
+D$0I;
+D$0J9
+D$0L;
+D$0L;G
+D$0fA
+D$0tP
+D$8A)U
+D$8E3
+D$8H+
+D$8H9D$@t
+D$8H;
+D$8I+
+D$8J)|0
+D$8J9
+D$8pytf
+D$@D+
+D$@E3
+D$@H+
+D$@H9D$Ht
+D$@H;
+D$@HcH
+D$@fA
+D$@tC
+D$HH+
+D$HH;
+D$HL;
+D$ML;
+D$MM+
+D$PE3
+D$PH9D$H
+D$PH9D$Xt
+D$PHcH
+D$PJ9
+D$PL;
+D$PM;
+D$XE3
+D$XH+
+D$XI+
+D$XI;
+D$Xatem
+D$\ocem
+D$`E3
+D$`H+D$XH
+D$`H;
+D$`L;
+D$`fA
+D$bL;
+D$bM+
+D$hE3
+D$hH;
+D$hI+
+D$hL;
+D$hdiss
+D$hediv
+D$pH;
+D$pHcH
+D$pL+
+D$pM;
+D$pfA
+D$pfD
+D$pfE
+D$xH+D$pH
+D$xH;
+D$xL;
+D$xLk
+D+9Ic
+D9@ }
+D9d$x
+D9q }
+D;s }0H
+D;t$ L
+D;t$0
+D;|$0
+DEBUG
+DatarunObject
+DeleteCriticalSection
+DeleteFileW
+DeviceIoControl
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+E/H9U
+E0L9M
+E7diss
+E:\DRW\_drw_main\DRWIntelligentScan\bin\Release\x64\EUVideoRepair.pdb
+EPI9EHt
+EUVideoRepair.dll
+Elapsed
+EnterCriticalSection
+Exception occurred.GetErrorCode
+F H9G u
+F(H9G(
+F(I9F0t
+FEATURESURE
+FILE_HOLE_FILL
+Fail to allocate buffer.
+Fail to create box body.
+Fail to create box:%s.
+Fail to parse body of:%s.
+Failed to get standard output handle!
+Failed to write to standard output!
+G0Lc@PH
+GOPRO
+GenuD
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetIMovMp4Repair
+GetLastError
+GetModuleFileNameA
+GetModuleHandleW
+GetProcAddress
+GetStdHandle
+GetSystemTimeAsFileTime
+GetTickCount
+GlobalSign Root CA - R31
+GlobalSign nv-sa1)0'
+GlobalSign nv-sa1/0-
+GlobalSign0
+GlobalSign1
+H VWATAVAWH
+H+CpH
+H+D$`H
+H+D$`I
+H+\$`H
+H+kPH
+H9A A
+H9A }
+H9AXu/
+H9C s#H
+H9C s&H
+H9C }&H
+H9D$0tH
+H9D$P
+H9GhuvH
+H9H s
+H9H }
+H9KptiH
+H9P s
+H9Q s
+H9Q }
+H9T$8t!
+H9T$Pt*
+H9T$Xt.L
+H9\$0
+H9ihu-
+H9xpv
+H9y@tP@8yXtJH
+H9|$8
+H;9t+
+H;C }/H
+H;D$8I
+H;D$ps
+H;Egti
+H;H s
+H;HXH
+H;HXu?H
+H;HhH
+H;Hhu9
+H;Mgt
+H;O s0L
+H;Ohv
+H;P }
+H;Q |
+H;S sCL
+H;S sFH
+H;S }8H
+H;\$ 
+H;\$8u
+H;x0r
+H;|$8
+HA_A^A]A\_^][
+HD video frag info
+HD video one frag use rollbakc alg
+HL;d$H
+HcA<L
+HcALI
+HcAPL
+HcD$0Hc
+HcK D
+HcL$$I
+HcL$4H
+HcL$4M
+HcL$<I
+HcOPH
+HcOPH)J
+HcOPI
+HcT$$H
+HcT$@H
+HcT$pH
+Hck0L
+Hcy03
+HhH+H`H
+I9:u*A
+I9@ vfM
+I9@ ~fM
+I9@0t
+I9A s=I
+I9A }=I
+I9AH|
+I9B A
+I9F0t
+I9Jhs
+I9Khs
+I;A s7I
+I;B A
+I;~xt
+INVALID
+IO Function Not Init
+Info_Repairvideo
+Info_Repairvideo_Fail
+Info_Repairvideo_Success
+InitializeConditionVariable
+InitializeCriticalSectionAndSpinCount
+InitializeSListHead
+Invalid body data.
+Invalid body size.
+Invalid body.
+Invalid box data, size(%u) is too small.
+Invalid boxSize:%u.
+IsDebuggerPresent
+IsProcessorFeaturePresent
+JmZ6,/
+K SUVWAVH
+KERNEL32.dll
+L$ @H
+L$ @I
+L$ D+
+L$ H+
+L$ H;
+L$ I;
+L$ Mc
+L$ SH
+L$ SUVATAUAVAWH
+L$ SUVWH
+L$ SVWH
+L$ SWH
+L$ UVWATAUAVAWH
+L$ VATAUH
+L$ VWAVH
+L$ WAVAWH
+L$$E+
+L$(E3
+L$(H9S
+L$(H;
+L$(Hc
+L$(Ic
+L$(OcD
+L$0 H
+L$0@H
+L$0E3
+L$0H+
+L$0H3
+L$0L+
+L$8D;
+L$8E3
+L$8H+
+L$8H3
+L$8H9L$@t
+L$8H;
+L$8I;
+L$8L+
+L$@E3
+L$@H3
+L$@L+
+L$HE3
+L$HH+
+L$HH3
+L$HH9S
+L$HH;
+L$HL+
+L$PE3
+L$PH+
+L$PH3
+L$PH;
+L$XH3
+L$XI;
+L$`E3
+L$`H3
+L$`H;
+L$`I;
+L$hE3
+L$hH3
+L$pE3
+L$pH+
+L$pH3
+L$pHcY
+L$pu"H9P s
+L$xH3
+L$xH;
+L+D$PH
+L+L$@I
+L+d$`D
+L+{PD
+L+{XL
+L, <^
+L9@ s
+L9AXt
+L9Ahs
+L9Aht
+L9Ahu
+L9B s
+L9I(u
+L9L$Pt3
+L9P }
+L9d$`
+L9l$@s
+L;9u7H
+L;AXt
+L;C s0H
+LcA0E;
+Lcd$pE
+Lcu`L
+LeaveCriticalSection
+Lost Name File(23).mov
+M H1E
+MSVCP140.dll
+MapViewOfFile
+McR03
+McZ0Ic
+Mcb0K
+MessageBoxA
+MultiByteToWideChar
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+O0M0A
+PA^A\_^]
+PA^_^
+PA^_^][
+PA_A^A\_^
+PA_A^A]A\_^[
+PA_A^A]A\_^]
+PA_A^]
+PA_A^_^[
+PA_A^_^]
+PREBLOCK_DIRECT_FILL
+PathFileExistsW
+Pg,%MV
+QXH9Q`t
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+QueryPerformanceCounter
+RNjOT
+RSDSZ
+Reason_Repairvideo_Fail
+Recheck Range %lld-%lld in:%lld-%lld
+ResetEvent
+Result_Repairvideo
+Richt
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+S H9S(t/H
+S I+V I
+SHLWAPI.dll
+SOUND
+STSD  has no child?
+SUVWATAUAVAWH
+SUVWATAVAWH
+SUVWAVAWH
+SUVWAVH
+SUVWH
+SUWATAUAVH
+SVAUAVAWH
+SVWATAUAVAWH
+SVWAVAWH
+SVWAVH
+SVWAWH
+SetEndOfFile
+SetEvent
+SetFilePointerEx
+SetUnhandledExceptionFilter
+Sichuan1
+SleepConditionVariableCS
+T$(E3
+T$(H9T$0t*L
+T$(H9T$0t-L
+T$(H9T$0t2H
+T$(H;
+T$(H;Upt
+T$0H)J
+T$0H+
+T$0H9T$8t
+T$0L9L$Ht
+T$0L;
+T$8H+
+T$8H;
+T$@H+
+T$@H+U
+T$@H9T$Ht+H
+T$@H9T$Ht+L
+T$@Hc
+T$@I;
+T$HH+
+T$HM;
+T$PH+
+T$PH9T$Xt*L
+T$PH9T$Xt.H
+T$PH9T$Xt.L
+T$PH;
+T$PHc
+T$XH+
+T$`H+
+T$hE3
+T$hH+
+T$pH+
+T$xH+
+T:HI+
+TUUUUUU
+TerminateProcess
+TidyUsedCluster over
+Trigger_RepairScan_Begin
+Trigger_RepairScan_End
+Trigger_Repairvideo_Begin
+Trigger_Repairvideo_End
+U1(\Q
+U5@D<Y</
+UATAUAVAWH
+UAVAWH
+UNSURE
+UPI9UX
+UPI9UXt%H
+UPI9UXt*3
+USER32.dll
+USVWATAUAVAWH
+USVWATAVAWH
+USVWAVAWH
+USVWAVH
+UUUUUUU
+UVWATAUAVAWH
+UVWATAVH
+UVWAVAWH
+UWATAUAWH
+UWATAVAWH
+UWAVH
+UnhandledExceptionFilter
+Unknown exception
+UnmapViewOfFile
+UpH9Uxt)H
+V8H9V@t
+VAVAWH
+VCRUNTIME140.dll
+VWATAUH
+VWATAVAWH
+VWAUAVAWH
+VWAVH
+VWAWH
+VpH9Vxt
+VpH9Vxt)H
+VpH9Vxu;L
+WATAUAVAWH
+WATAUAVAWL
+WAUAVH
+WAVAWH
+WaitForSingleObjectEx
+WakeAllConditionVariable
+WideCharToMultiByte
+WpH9Wxt)H
+WriteFile
+X$yM[
+X0V0T
+XA^A]A\_][
+XA_A^A]A\_^][
+XA__^[
+YI7xj
+ZEROFILL
+[ UWAUAVAWH
+[json.exception.
+\$ AVH
+\$ H;
+\$ UAVAWH
+\$ UH
+\$ UVWH
+\$ WH
+\$(H;
+\$(L;
+\$0H9W
+\$0H;
+\$0H;\$@
+\$0HcATH
+\$0I;
+\$0L+
+\$0L9
+\$8H;
+\$8I;
+\$8J;
+\$@H;
+\$@Ic
+\$HH+\$@H
+\$HH;
+\$HIk
+\$PH;
+\$PH;]
+\$PJ9
+\$PMc
+\$XH+
+\$XH9Q
+\$`E3
+\$`s`9
+\$hH;
+\$pH9\$xt`H
+\$pH;
+\$pI;
+\$xE3
+\3(I+
+\4dV.
+\tAfA
+\u%04x
+\u%04x\u%04x
+],"subtype":
+]J<0"0i3
+_4[Qh1c
+_Cnd_destroy
+_Cnd_destroy_in_situ
+_Cnd_do_broadcast_at_thread_exit
+_Cnd_init
+_Cnd_init_in_situ
+_Cnd_signal
+_Cnd_wait
+_CxxThrowException
+_Mtx_destroy
+_Mtx_destroy_in_situ
+_Mtx_init
+_Mtx_init_in_situ
+_Mtx_lock
+_Mtx_unlock
+_Query_perf_counter
+_Query_perf_frequency
+_Thrd_detach
+_Thrd_start
+_Xtime_get_ticks
+__C_specific_handler
+__CxxFrameHandler3
+__RTDynamicCast
+___lc_codepage_func
+__acrt_iob_func
+__std_exception_copy
+__std_exception_destroy
+__std_terminate
+__std_type_info_destroy_list
+__stdio_common_vfprintf
+__stdio_common_vsprintf
+_callnewh
+_cexit
+_configure_narrow_argv
+_crt_atexit
+_dsign
+_dtest
+_errno
+_execute_onexit_table
+_fseeki64
+_get_stream_buffer_pointers
+_initialize_narrow_environment
+_initialize_onexit_table
+_initterm
+_initterm_e
+_invalid_parameter_noinfo_noreturn
+_localtime64_s
+_lock_file
+_purecall
+_register_onexit_function
+_seh_filter_dll
+_strnicmp
+_unlock_file
+`.rdata
+`A]A\^
+`A^_^
+`A_A^A\_^[]
+`A_A^A\_^][
+`A_A^A]A\_^[
+`A_A^A]A\_^]
+`A_A^_^]
+a:m1&
+alignbase
+alignedTypeEnd
+alignedTypePre
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+appversion
+array
+b wul
+bad allocation
+bad array new length
+bad cast
+bad error
+bad logic
+bad_weak_ptr
+binary
+bitmap create by self
+block be Split:
+blockSize
+body is null.
+bodySize(%u) is too small, the min size is:%u, .
+boolean
+box size big than aligned size,will append:%lld 
+brokenSize
+cannot use operator[] with a numeric argument with 
+cannot use operator[] with a string argument with 
+cannot use push_back() with 
+check it
+childNext > parent.end
+chunk_offset[
+compatible_brands:'
+d$ E3
+d$ UAVAWH
+d$8I+
+d$8I;
+d$@M;
+d$PH;
+d$XE+
+d$`@2
+d$`H=
+data_reference_index:
+datarun
+deque<T> too long
+destroy :%p
+devoffset:%lld feature be find
+discarded
+duration_ms
+e:\drw\_drw_main\drwintelligentscan\videorepair\avifilemanager.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\aviregroup.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\box.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\cfilenodeextend.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\enhancebitmap.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\filemanager.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\fshelper.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\ftypbox.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\hdlrbox.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\integrationalg.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\iohelper.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\movmp4repair.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\mp4binaryanalyse.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\mtsrawfinder.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\mtsregstatus.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\mxfregroup.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\regroupfile.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\sample_entry_box.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\scanroundmanaegr.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\stcobox.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\stscbox.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\stsdbox.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\stszbox.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\utils.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\vrgfilestream.cpp
+e:\drw\_drw_main\drwintelligentscan\videorepair\vrgtimer.cpp
+edivtnH
+endoffsetdevice
+entry_count:
+entry_size[
+env info: GoproHD
+environment
+error
+error aligned
+error,now
+exception
+exception raised
+false
+fclose
+feature in next cache
+fflush
+fgetc
+fgetpos
+file %s fill sectors:%lld - %lld
+file :%s from filesystem has no frag,will set some base Info
+file :%s is bad
+file :%s isRaw:%d  devoffset:%lld   moovoffset:%lld  fileoffset:%lld be regroup as block(%d):
+file be push:%s %lld
+file has no frag
+file has no moov
+file header :%lld frag moov be find over:%lld  %lld
+file offset:%lld  has no frag
+file overflow 
+file system size:%lld  
+file will be regoup: %s  offset:%lld
+file will not regroup ,find in file list but not in binary list:%lld  :%s
+file:%lld  :%s be reged in scanning
+file:%lld be reged in scanning
+file:%lld can not find suit able mdat
+file:%lld check over
+file:%lld find a moov very big in devoffset:%lld  size:%lld
+file:%s be regroup,moov  is raw:%d
+file:%s has no full correct moov
+file:%s use filesystem DataRun
+file:%s will use org datarun,file system file will not change anything
+find Mts Raw on device offset:%lld
+find it
+find next feature
+first scan use Time
+first scan use Time start
+fixedDatarunSize:%lld
+flags:
+fputc
+frag:%d  %s reged finished
+fread
+fsetpos
+fwrite
+generic
+gfffffffH
+gfffffffI
+hA^_^[
+hA_A^A]A\_^[]
+hA_A^A]A\_^][
+handler_type:'
+hmTh(
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0]
+idx info dev offset:%lld fileoffset %lld
+incompatible ReferenceType for get_ref, actual type is 
+incomplete UTF-8 string; last byte: 0x
+insufficient bytes in parent to verify next header
+int z=0
+invalid UTF-8 byte at index 
+invalid stoi argument
+invalid string position
+invalid vector<T> subscript
+isdigit
+jPeNS
+k0i0$
+kernel32.dll
+known box size:%lld  big than moov FileOffset:%lld
+known box size:%lld  small than moov FileOffset:%lld
+known box size:%lld moov FileOffset:%lld
+known size is big than moov offset,will append moov block to last frag
+kxXgMt
+l$ H;
+l$ VWAUAVAWH
+l$(E3
+l$(H;
+l$(L;
+l$0H+
+l$0H9Q
+l$0I;
+l$8A;
+l$`E3
+l$`Hc
+last block size:%lld
+last frag contain idx1
+level
+list<T> too long
+localeconv
+logic error
+logic error,why you want to check no exist box!
+logic error:%s  %lld
+logtype
+logversion
+m0k0$
+m_NaluCacheInfo null is logic error:%lld
+m_progress is is set:%p
+major_brand:'
+malloc
+map/set<T> too long
+matrix:
+maybe error
+mdat has no owner:%lld
+mdat_missing
+median_flag
+median_size
+memchr
+memcmp
+memcpy
+memmove
+memset
+message
+minor_version:'
+module
+moduleversion
+moov block Count :%lld not align:%d,add Count to:%lld 
+moov parse error
+moov will left go:%d from:%lld
+moov==known size,but moov dev offset:%lld not align:%d,force align to:%lld 
+moov_flag
+moov_missing
+mp4mov
+msdsH
+mya be error;
+n0l0-
+name:'
+new algorithm not work
+new algorithm work
+no aligned blocks
+not align 
+not regroup filesystem find file:%lld  :%s
+ntelA
+null obj
+null}
+number
+nuosH
+o84s[
+object
+offset:%lld CannotReg
+org frag(pre align) index:%d  %lld %lld
+original_correct
+other
+other_error
+p L+p
+p WATAWH
+pA^_^[]
+pA_A^A\_^
+pA_A^A]A\_^]
+pA_A^_^]
+p\$x %
+partion offset Dev:%lld  dataArea Offset Partition:%lld  alignbase:%d
+pre  TidyUsedCluster
+pre block count:%lld not align,will append:%d
+push new feature: %lld smaple:%d, fileoffset:%lld sectorOffset:%d
+pytfnidpvoomfoomarfmtadmeerfpiksatemocempytsxdisdisstfrp
+q(M9&
+q8H+q0H
+q@H+q8H
+r"I+7I
+range error
+read size dev:%lld size:%lld return size:%ld
+reg basefile:%lld bepushed
+regQueue
+regStatus
+reged
+regedSize Size:%lld, 
+repair_fail
+repair_success
+runEvn
+s H9U
+sampleIndex
+sample_size:
+setvbuf
+slice ramin now:%d
+some error 
+some error %s :%d noWonerSize:%lld
+staroffsetdevice
+start
+start first aligned frags
+start regroup Files
+start:%lld  end:%lld
+start:%lld count:%lld
+status
+stoi argument out of range
+string
+string too long
+strncmp
+strrchr
+strtol
+strutureReg.log
+system
+t HcALH
+t fff
+t$ @8rht
+t$ AWH
+t$ E3
+t$ WAVAWH
+t$ WAVH
+t$ WH
+t$(E3
+t$0A^_
+t$0H+
+t$0H;
+t$0I;
+t$0tFH
+t$8E;
+t$8H+
+t$@H+
+t$@H=
+t$@I+
+t$@I;
+t$@Li
+t$@M;
+t$@uEH
+t$HA_A^A]A\_
+t$HH;
+t$HI;
+t$PH;
+t$PH=
+t$XH;
+t$XH;L$p
+t$XI;
+t$`Hk
+t$hE3
+t$pE3
+t$pH;
+t'M;Q |!I
+t+L;A r%L
+t2H;Q |,L;
+t3M;Q |-I
+t7fff
+t:fff
+tDH;Q |>H
+tEHcQ
+tMIcA
+tPLc%
+tXH+;H
+t\H;Q rVA
+t`fff
+target in
+target moov be find
+terminate
+tffff
+this block start not align:%lld
+timestamp
+tlH;K |fH
+top:depth=
+top:depth=3
+total size:
+total_video
+toupper
+tsg1z
+type must be boolean, but is 
+type_error
+u!9Q }
+u#H9P }
+u$I;I
+u%H99u
+u(H9P }
+u+H9]
+u+H;A
+u+McQ
+u7A8FD
+u?H9u
+u?L9u
+u@fff
+uOH9P }
+uPL9P }
+uRL9_
+un known logic
+ungetc
+unknown error
+unknown logic
+unsupport codec
+update pair:%lld  offset:%lld  count:%lld
+use file system fix apply size:
+use time:%lld  microsecond
+use time:%lld  second
+useOrgDatarun
+uxLcA
+uyH9P s
+v=Y]Bv
+v?fD;
+vOH+KpH
+vector<T> too long
+version
+version:
+voomtadm
+wHH+w@H
+we not support box is not moov or mdat,now
+why :%lld MoovCacheOverButHasNotMdat is false
+why block not align!!!!!
+why not start with AUD
+why? check it
+will append:%lld 
+will fill :%lld data and align
+will not regroup
+will regroup
+workType
+www.digicert.com1!0
+www.digicert.com1$0"
+x AVH
+you need cache moov frag
+{"bytes":[
+|$ ATAVAWH
+|$ AVAWL
+|$ AVH
+|$ E3
+|$ Lc
+|$ cuRE
+|$0E3
+|$0H+
+|$0H;
+|$0Hk
+|$8H9|$@t;H
+|$8I;
+|$8Ic
+|$@D8
+|$@H+
+|$@H9\$8t
+|$@H;
+|$@I;
+|$HH+
+|$HH;
+|$HH=
+|$PD8
+|$PH;
+|$PI;
+|$PL+
+|$TGu
+|$XH+
+|$XH;
+|$XM;y
+|$hE3
+|$hI;y
+|$pI;
+|$pLk
+|$xH;
+|4PGu
+|Lu?c
+}hHcF
+}jL+t$`M
+}wD8u
+~)p$w
+~qj#k"
+~rZ*{

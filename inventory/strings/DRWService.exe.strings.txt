@@ -1,0 +1,323 @@
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+      <requestedPrivileges>
+    </security>
+    <security>
+  </trustInfo>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+ A_A^_^[
+ GlobalSign Code Signing Root R450
+ H3E H3E
+!This program cannot be run in DOS mode.
+!http://ocsp.globalsign.com/rootr30;
+"9<x:
+%http://crl.globalsign.com/root-r3.crl0G
+&:eBsi)
+&GlobalSign GCC R45 CodeSigning CA 2020
+&GlobalSign GCC R45 CodeSigning CA 20200
+&https://www.globalsign.com/repository/0
+'Chengdu Yiwo Tech Development Co., Ltd.0
+'Chengdu Yiwo Tech Development Co., Ltd.100.
+(A_A^_[
+(qzz@
+-http://ocsp.globalsign.com/codesigningrootr450F
+.00cfg
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVexception@std@@
+.?AVtype_info@@
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.data
+.data$r
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.pdata
+.rdata
+.rdata$r
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$mn
+.text$mn$00
+.text$x
+.xdata
+.xdata$x
+/0-0+
+/1(0&0$0"
+/http://secure.globalsign.com/cacert/root-r3.crt06
+/install
+/uninstall
+0A^^]
+0A^_^
+0A_A^A\_^
+0L1 0
+0http://crl.globalsign.com/codesigningrootr45.crl0V
+0i0Y1
+0}0i1
+1http://ocsp.globalsign.com/gsgccr45codesignca20200V
+200728000000Z
+20261013060613Z
+20402
+220801000000Z
+2333333
+250507000000Z
+260520025500Z
+260805000000Z
+261013060613Z0+
+270521025500Z0
+290318000000Z0S1
+2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+300728000000Z0Y1
+311109235959Z0b1
+371104235959Z0c1
+380114235959Z0i1
+3O~EN
+4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+5FjiT
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8i_A@g
+:0806
+:U|r*C
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+</assembly>
+<0:08
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+>0<0:
+>http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+?_Xlength_error@std@@YAXPEBD@Z
+?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?uncaught_exception@std@@YA_NXZ
+?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z
+@!z\0%=
+@.data
+@.reloc
+@.rsrc
+@0>0<
+@A_A^A\_^
+@SVWAVAWH
+@SVWH
+@SWAVAWH
+@UVAVH
+@VWAVH
+ADVAPI32.dll
+A_A^A]A\]
+A_A^A]A\_
+Bng~B
+ChangeServiceConfig2A
+Chengdu100.
+CloseHandle
+CloseServiceHandle
+ControlService
+CreateEventA
+CreateFileA
+CreateService failed
+CreateServiceA
+D$ E3
+D$@r0H
+DRW read registry key value.
+DeleteService
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+E:\DRW\_drw_main\DRWIntelligentScan\bin\Release\x64\BitlockerReadFVEService.pdb
+ED$`H
+GenuD
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetModuleFileNameA
+GetModuleHandleW
+GetStartupInfoW
+GetSystemTimeAsFileTime
+GlobalSign Root CA - R31
+GlobalSign nv-sa1)0'
+GlobalSign nv-sa1/0-
+GlobalSign0
+GlobalSign1
+InitializeSListHead
+Install service succeed
+IsDebuggerPresent
+IsProcessorFeaturePresent
+JmZ6,/
+KERNEL32.dll
+KkH?;5
+L$@H3
+L$`H3
+L;1u,H
+M H1E
+MSVCP140.dll
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+O0M0A
+OpenSCManager failed
+OpenSCManagerA
+OpenService failed
+OpenServiceA
+OutputDebugStringA
+Pg,%MV
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+QueryPerformanceCounter
+QueryServiceStatus
+QueryServiceStatus failed
+RNjOT
+Read FVE Server
+RegCloseKey
+RegEnumKeyExA
+RegOpenKeyExA
+RegQueryInfoKeyA
+RegQueryValueExA
+RegisterServiceCtrlHandler failed
+RegisterServiceCtrlHandler succeed
+RegisterServiceCtrlHandlerA
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SYSTEM\CurrentControlSet\Control\FVEAutoUnlock
+Service already installed
+Service not installed
+Service running...
+Service starting...
+Service stopped
+Service stopping...
+SetEvent
+SetNamedPipeHandleState
+SetServiceStatus
+SetUnhandledExceptionFilter
+Sichuan1
+StartService failed
+StartServiceA
+StartServiceCtrlDispatcher failed
+StartServiceCtrlDispatcherA
+Stop Service failed
+TerminateProcess
+U5@D<Y</
+UATAUAVAWH
+UnhandledExceptionFilter
+Uninstall service failed
+Uninstall service succeed
+Unknown exception
+VCRUNTIME140.dll
+VWATAVAWH
+WATAUAVAWH
+WRich
+WaitForSingleObject
+WaitNamedPipeA
+WriteFile
+X0V0T
+YI7xj
+\$ UH
+\$ UVAVH
+\\.\Pipe\DRWBitlocker
+]J<0"0i3
+_4[Qh1c
+_CxxThrowException
+__C_specific_handler
+__CxxFrameHandler3
+__p__commode
+__setusermatherr
+__std_exception_copy
+__std_exception_destroy
+__std_terminate
+_c_exit
+_callnewh
+_cexit
+_configthreadlocale
+_configure_narrow_argv
+_crt_atexit
+_exit
+_get_narrow_winmain_command_line
+_initialize_narrow_environment
+_initialize_onexit_table
+_initterm
+_initterm_e
+_invalid_parameter_noinfo_noreturn
+_register_onexit_function
+_register_thread_local_exe_atexit_callback
+_seh_filter_exe
+_set_app_type
+_set_fmode
+_set_new_mode
+_stricmp
+_strupr_s
+`.rdata
+a:m1&
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+b wul
+bad allocation
+bad array new length
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0]
+jPeNS
+k0i0$
+kxXgMt
+lstrcpyA
+m0k0$
+malloc
+map/set<T> too long
+memcmp
+memcpy
+memmove
+memset
+n0l0-
+n<fff
+ntelA
+o84s[
+p\$x %
+string too long
+strncpy_s
+t$ H;
+t$PE3
+t$XE3
+terminate
+tsg1z
+u+H;A
+u-H;P
+u0HcH<H
+u}fff
+v=Y]Bv
+www.digicert.com1!0
+www.digicert.com1$0"
+x AVH
+|Lu?c
+~0@R3
+~qj#k"
+~rZ*{
+~t2s6

@@ -1,0 +1,613 @@
+                          
+                                 H
+         (((((                  H
+         h((((                  H
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ %41g
+ A\_^
+ A]A\_
+ A^A]A\
+ A^A]A\_^
+ A_A^A]A\_
+ Base Class Array'
+ Base Class Descriptor at (
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+ Type Descriptor'
+ delete
+ delete[]
+ new[]
+!This program cannot be run in DOS mode.
+!hn7!
+%s\System32\Drivers\%s%d.sys
+%s\System32\Drivers\%s.sys
+',=?k
+'CHENGDU YIWO Tech Development Co., Ltd.0
+'CHENGDU YIWO Tech Development Co., Ltd.100.
+( 8PX
+(&A)...
+('8PW
+(f*^[0
+(null)
+)O6530./21+*-,4#4PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
++Xt@(
+,W5y+
+- Attempt to initialize the CRT more than once.
+- Attempt to use MSIL code from this assembly during native code initialization
+- CRT not initialized
+- floating point support not loaded
+- not enough space for _onexit/atexit table
+- not enough space for arguments
+- not enough space for environment
+- not enough space for locale information
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- not enough space for thread data
+- pure virtual function call
+- unable to initialize heap
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+-Uninstall
+.?AVbad_alloc@std@@
+.?AVbad_exception@std@@
+.?AVexception@std@@
+.?AVlength_error@std@@
+.?AVlogic_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.mixcrt
+.pdata
+.text
+/1(0&0$0"
+/gS6?AiJ
+0A\_^
+0A]A\_
+0A^A]A\
+0A^A]A\_^
+0A_A^A]A\_^[
+0w0c1
+0}0i1
+20240903102912Z
+210429000000Z
+220323000000Z
+220801000000Z
+230714000000Z
+240709000000Z
+240903102912Z0+
+270709235959Z0
+2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA
+2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA0
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+311109235959Z0b1
+341013235959Z0H1
+360428235959Z0i1
+370322235959Z0c1
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+5FjiT
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+6*f(_
+60402
+63[4]5mm]5\]m]mm5\mm5555555\\\5\\\5m\55\\5ed:
+700PP
+700WP
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+8*u:A
+8D$ht
+8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
+8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
+8\$ht
+91510107765360104N1
+99~R3
+9D$4u
+< t[<
+<$MOC
+<$csm
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+<0:08
+<program name unknown>
+=rIQU
+>0<0:
+>Mp$d
+>iS_(
+@.data
+@.rsrc
+@8l$&H
+@8t$Ht
+@A_A^A]A\_
+@SUVWATAVH
+@SUVWH
+@SVWATAUAVAWH
+@UATAUAVAWH
+@USVWATAUAVAWH
+@UVWATAVAWH
+@WhA6o
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ADVAPI32.dll
+ATAUAVH
+A]A\_
+A^A\_^][
+A_A^A\_^]
+A_A^A]
+A_A^A]A\]
+A_A^A]A\_
+A_A^A]A\_][
+An application has made an attempt to load the C runtime library incorrectly.
+April
+August
+B(I9A(u
+Boot File System
+CONOUT$
+Chengdu100.
+CloseHandle
+CloseServiceHandle
+ControlService
+ControlService failed!  Error = %d 
+Copyright (C) 2008
+CorExitProcess
+CreateFileA
+CreateService failed!  Error = %d 
+CreateServiceA
+D$ H9D$Xs
+D$(H9D$0t$H
+D$(H9D$8
+D$0L9gXt+
+D$8A9}
+D$8H9D$0t$H
+D$8H;
+D$8HcH
+D$8t#A
+D$8u 
+D$@H;5^
+D$@L;
+D$HH9D$@u7H
+D$HH;
+D$Ht#A
+D$PH;5
+D$PHc
+D$PHi
+D$PL;
+D$Ps-
+D$Tff
+D$XD+
+D$XE3
+D$XH;
+D$Xt&A
+D$`Hc
+D$lE3
+D$p H
+D:\Project_Application\_EPM_Main_\mod.WinDiskAccessDriverSetup\setupempdrv03\x64\Release\setupempdrvx64.pdb
+DOMAIN error
+December
+DecodePointer
+DeleteCriticalSection
+DeleteFileA
+DeleteFlag
+DeleteService
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Timestamp 20230
+DigiCert Trusted Root G40
+DigiCert, Inc.1 0
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+DiskFlt
+DisplayName
+EncodePointer
+EnterCriticalSection
+ErrorControl
+ExitProcess
+February
+FindClose
+FindFirstFileA
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+FlushFileBuffers
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+Friday
+G0HcH
+GetACP
+GetActiveWindow
+GetCPInfo
+GetCommandLineA
+GetConsoleCP
+GetConsoleMode
+GetConsoleOutputCP
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetEnvironmentStrings
+GetEnvironmentStringsW
+GetFileType
+GetLastActivePopup
+GetLastError
+GetLocaleInfoA
+GetModuleFileNameA
+GetModuleHandleA
+GetOEMCP
+GetPrivateProfileIntA
+GetPrivateProfileStringA
+GetProcAddress
+GetProcessHeap
+GetProcessWindowStation
+GetStartupInfoA
+GetStdHandle
+GetStringTypeA
+GetStringTypeW
+GetSystemTimeAsFileTime
+GetSystemWindowsDirectoryA
+GetTickCount
+GetUserObjectInformationA
+GetVersionExA
+Group
+H+D$PH
+H+D$`H
+H-^Eu
+H9D$ t8H
+H9D$(
+H9D$(s
+H9D$8r
+H9D$8v
+H9D$Hs
+H;=ns
+H;D$(s
+H;D$8s
+H;D$8w
+H;D$Hs
+H;D$Ps
+H;D$`s
+HH:mm:ss
+H_^][
+HcD$4H
+HcE H
+HcH<H
+HcM H
+HcO H
+Hct$@H
+HeapAlloc
+HeapCreate
+HeapFree
+HeapReAlloc
+HeapSetInformation
+HeapSize
+I3')+*+)))*))()*+++,6J!54 CBA
+Ihttp://crl3.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl0
+ImagePath
+InitializeCriticalSection
+InitializeCriticalSectionAndSpinCount
+IsDebuggerPresent
+IsValidCodePage
+J>@G_
+JEEEEEEEEEEFC
+JEEEEEEEEEEFD
+JEFEEEEEEEEEB
+JHHGGGGGGGGHI
+JJIIIIJIIIIJJ
+JanFebMarAprMayJunJulAugSepOctNovDec
+January
+K0HcQ
+KERNEL32.DLL
+KERNEL32.dll
+L$ SWH
+L$ UATAUAVAWH
+L$ VWATAUH
+L$ fD
+L$(H3
+L$0E3
+L$0H;
+L$8H+
+L$8H3
+L$8H9H
+L$8H;
+L$@;|
+L$@E3
+L$@H+
+L$DD+
+L$HH+
+L$HH9H s
+L$PE3
+L$PH+
+L$PH3
+L$PH;
+L$XE3
+L$XH+
+L$XH9H
+L$pH+
+L$pH9A w!3
+LCMapStringA
+LCMapStringW
+LcA<E3
+LeaveCriticalSection
+Lhttp://cacerts.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crt0
+LoadLibraryA
+MM/dd/yy
+MZu_Hc
+March
+MessageBoxA
+Mhttp://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0S
+Mhttp://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0
+Microsoft Visual C++ Runtime Library
+Monday
+MoveFileA
+MultiByteToWideChar
+N0HcQ
+November
+Nw~ytMMMMMMUbbrrrrrxxxxxxxxrriUMMMMMMMMMUuzt
+O%JEEEEEEEEEFFB
+O(@>=77A779?<8;$O' 
+OA&in9
+October
+OpenSCManagerA
+OpenService failed!  Error = %d 
+OpenServiceA
+PA<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+PA]A\_
+PA^A]A\
+PA^A]_^]
+PPPPPPPPPPPPPPPPPKMNNNNNNNNNNOLO
+Phttp://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crt0
+Please contact the application's support team for more information.
+PnP Filter
+Private Organization1
+Program: 
+QueryPerformanceCounter
+R6002
+R6008
+R6009
+R6016
+R6017
+R6018
+R6019
+R6024
+R6025
+R6026
+R6027
+R6028
+R6030
+R6031
+R6032
+R6033
+R6034
+RaiseException
+RegCloseKey
+RegCreateKeyExA
+RegDeleteValueW
+RegOpenKeyExA
+RegQueryValueExA
+RegSetValueExA
+RegSetValueExW
+Richnc
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlPcToFileHeader
+RtlUnwindEx
+RtlVirtualUnwind
+Runtime Error!
+S0Q0O
+SA|X=G
+SETUPEMPDRV03
+SHDeleteKeyA
+SHLWAPI.dll
+SING error
+SUWATAUAVAWH
+SVWATAUAVAWH
+SYSTEM\CurrentControlSet\Control\Class\{4D36E967-E325-11CE-BFC1-08002BE10318}
+SYSTEM\CurrentControlSet\Control\Class\{71A27CDD-812A-11D0-BEC7-08002BE2092F}
+SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal
+SYSTEM\CurrentControlSet\Control\SafeBoot\Network
+SYSTEM\CurrentControlSet\Services\%s
+Saturday
+September
+SetFilePointer
+SetHandleCount
+SetLastError
+SetStdHandle
+SetUnhandledExceptionFilter
+Sichuan1
+Sleep
+Start
+StartService failure! Error = %d 
+StartServiceA
+SunMonTueWedThuFriSat
+Sunday
+System
+T$ I;
+T$&t5
+T$PE3
+T$Xt"
+T$`E3
+TLOSS error
+TerminateProcess
+This application has requested the Runtime to terminate it in an unusual way.
+This indicates a bug in your application.
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+Thursday
+TlsFree
+Tuesday
+U?)+N
+USER32.DLL
+UVWAUAVH
+UnhandledExceptionFilter
+Unknown exception
+UpperFilters
+VATAVAWH
+VWATAUAVH
+VWATH
+VolFlt
+WATAUAVAWH
+WATAUH
+Wednesday
+WideCharToMultiByte
+WkV21TSav^8{
+WriteConsoleA
+WriteConsoleW
+WriteFile
+Wuhou District1
+[K]taM?
+\$ E3
+\$ H;
+\$ VH
+\$0H;
+\$8L3
+\$8t%
+\$DD;
+\System32\Drivers\%s.sys
+\SystemRoot
+\SystemRoot\System32\drivers\%s.sys
+\YC"Z
+]J<0"0i3
+]]<l_%
+__based(
+__cdecl
+__clrcall
+__fastcall
+__pascal
+__ptr64
+__restrict
+__stdcall
+__thiscall
+__unaligned
+_eaX`
+`.rdata
+`RTTI
+`copy constructor closure'
+`default constructor closure'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector constructor iterator'
+`eh vector copy constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`eh vector vbase copy constructor iterator'
+`h````
+`h`hhh
+`local static guard'
+`local static thread guard'
+`local vftable constructor closure'
+`local vftable'
+`managed vector constructor iterator'
+`managed vector copy constructor iterator'
+`managed vector destructor iterator'
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`scalar deleting destructor'
+`string'
+`typeof'
+`udt returning'
+`vbase destructor'
+`vbtable'
+`vcall'
+`vector constructor iterator'
+`vector copy constructor iterator'
+`vector deleting destructor'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`vector vbase copy constructor iterator'
+`vftable'
+`virtual displacement map'
+a7hIw
+abcdefghijklmnopqrstuvwxyz
+a{S"Q
+bad allocation
+bad exception
+cOXY/P.Z0.0.QR00/ZPP0000000/0PPZR.BI@/DE0,
+d$ AUAVAWH
+d$ AUH
+dddd, MMMM dd, yyyy
+e A_A^A]A\]
+eHA_A^A]A\_^[]
+f;D$@u:A
+f;D$@uhA
+hA]A\_^
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0X
+http://ocsp.digicert.com0\
+http://www.digicert.com/CPS0
+invalid string position
+jYPQTVTSkllZTTXRTUiHceWda/
+jj@0HK4
+k0i0$
+kernel32.dll
+l$ VWATAUAVH
+l$ WATAUAVAWH
+l$ WH
+l$89}
+l$DE3
+l$Huj
+l$Xu~
+l$pD92
+l$x@2
+l2|X/gGe
+list<T> too long
+m0k0$
+mscoree.dll
+operator
+pA_A^A]A\_^[
+pwwwwwwww
+pwwwwwwwwwwwwwwwp
+pxDDDDDDDDD@
+pxDDDDDDDDDDDDDDpx
+pxDDDDDDDDDH
+pxDDDDDDpx
+pxwwwwwwpxDDD
+pxwwwwwwwwwwwwwxpx
+runtime error 
+setupempdrv03
+setupempdrv03 Version 1.0
+shHcD$HH
+start process!
+string too long
+system32
+t HcP
+t!LcW
+t$ E3
+t$ WH
+t$(E3
+t$8wC
+t$DE3
+t$PH= 
+t)IcL$
+t)fff
+t2HcD$DH
+t7LcG
+t8fff
+tHfff
+tjfff
+u"8D$Xt
+ugIc@
+v=Y]Bv
+vector<T> too long
+www.digicert.com1!0
+www.digicert.com1$0"
+wwwwwwwpx
+wwwwwwwwwwwwwwwpx
+xA_A^A\^
+xppwpp
+xpxxxx
+y.}w/
+{un'%
+{|yvrrwsqpon
+|$ ATAUAVH
+|$ ATH
+|$ E3
+|$8Hc
+|$8ff
+|$Hfff
+|$`@2
+|$`Hc
+|$`t:H
+|$`t>H
+|$hD+|$PD+
+|Lu?c
+}>qooggggggg1`_fhsnHK
+}zy|yx~
+~KD;c
+~qj#k"

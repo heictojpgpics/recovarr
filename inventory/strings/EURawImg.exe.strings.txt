@@ -1,0 +1,3156 @@
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+      <requestedPrivileges>
+    </security>
+    <security>
+  </trustInfo>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+  Exif
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./012356789:;<=>?@ABCDEFGHJKLMNOPQRSTVXZ\^acegiknprtvx{}
+ (2@Pd}
+ ?2*d?JR
+ A^^[
+ A^_^
+ A_A\_
+ A_A]A\_^
+ A_A]A\_^][
+ A_A^A\
+ A_A^A\_^
+ A_A^A]A\_
+ A_A^A]A\_^]
+ A_A^^
+ A_A^_
+ A_^]
+ A__^
+ Cnot 
+ DIGITAL CAMERA
+ Fisheye
+ GlobalSign Code Signing Root R450
+ H3E H3E
+ Macro
+ Reflex
+ camera
+ fD;c
+ shutter system
+!(0)"
+!This program cannot be run in DOS mode.
+!http://ocsp.globalsign.com/rootr30;
+"9<x:
+"L$!"L$&"L$("L$+
+# APERTURE=%0.1f
+# EXPTIME=%0.5f
+# FOCALLEN=%0.1f
+# ISOSPEED=%d
+# MAKE=%s
+# MODEL=%s
+# TIMESTAMP=%d
+#*1892+$
+#LcA03
+$21%3874569yWXY(Vx'A)w&Bv
+$`<`ur
+$uaHi
+%""""
+%*s %s %d %d:%d:%d %d
+%,3:;4-&
+%02x%02x%02x%02x
+%04d:%02d:%02d %02d:%02d:%02d
+%05llx
+%06llx
+%0x-%05d
+%d %d
+%d.%d.%d
+%d:%d:%d
+%d:%d:%d %d:%d:%d
+%dx%d
+%f %f %f
+%http://crl.globalsign.com/root-r3.crl0G
+%hu %hu %hu %hu
+%s %d:%s:%s %s
+%s %s
+%s %s %d:%s:%s %s
+%s: Unexpected end of file
+%s: data corrupted at %d
+%u x %u pixels
+&<Lu"
+&GlobalSign GCC R45 CodeSigning CA 2020
+&GlobalSign GCC R45 CodeSigning CA 20200
+&https://www.globalsign.com/repository/0
+'.5<=6/7>?????????????????
+'Chengdu Yiwo Tech Development Co., Ltd.0
+'Chengdu Yiwo Tech Development Co., Ltd.100.
+'f?FO-
+(A]A\_[
+(A^A\^[
+(A^_][
+(A_A\_[
+(A_A]_^][
+(A_A^A]A\_^[]
+(A_A^A]A\_^][
+(D$ H
+(D$PH
+(D$pH
+(L$ D
+(L$@D
+(L$PD
+(L$pD
+(L$pL
+(T$ H
+(T$0D
+(T$@D
+(T$`D
+(\$0H
+(\$PD
+(\$pD
+(d$@D
+(l$ L
+(l$0D
+(l$0I
+(l$pD
+(t$ D
+(t$ H
+(t$ L
+(t$0H
+(t$0L
+(t$@D
+(t$@L
+(t$PH
+(t$PL
+(t$`H
+(t$pD
+(t$pH
+(t$pL
+(|$ H
+(|$0D
+(|$0H
+(|$0I
+(|$0L
+(|$@H
+(|$pD
+)D$ H
+)D$`D
+)D$pI
+)L$0L
+)L$0f
+)L$PD
+)L$Pf
+)T$ A
+)T$@D
+)T$`D
+)T$`f
+)\$0A
+)\$pD
+)d$@D
+)d$`D
+)d$pH
+)l$PD
+)l$pf
+)t$ A
+)t$0D
+)t$0H
+)t$@D
+)t$@f
+)t$PA
+)t$PD
+)t$PH
+)t$pE
+)t$pH
+)t$pL
+)t$pf
+)|$ E
+)|$ H
+)|$0H
+)|$@H
+)|$@f
+)|$`D
+)|$`f
+)|$pD
+*CUnknown
+*ist D
+*ist DL
+*ist DL2
+*ist DS
+*ist DS2
+*istD
+*istDL
+*istDL2
+*istDS
+*istDS2
++T$$A+
+,6u$9
+,t-ff
+-100c
+-LX100
+-http://ocsp.globalsign.com/codesigningrootr450F
+.00cfg
+.?AVLibRaw@@
+.?AVLibRaw_abstract_datastream@@
+.?AVLibRaw_bigfile_buffered_datastream@@
+.?AVLibRaw_bigfile_datastream@@
+.?AVLibRaw_buffer_datastream@@
+.?AVLibRaw_windows_datastream@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVexception@std@@
+.?AVruntime_error@std@@
+.?AVtype_info@@
+.?AW4LibRaw_exceptions@@
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.data
+.data$r
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.pdata
+.rdata
+.rdata$r
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$mn
+.text$mn$00
+.text$x
+.xdata
+.xdata$x
+/0-0+
+/1(0&0$0"
+/AF-P
+/D$(v
+/http://secure.globalsign.com/cacert/root-r3.crt06
+0.21.1-Release
+000000000000
+0100S
+0224468
+0244668
+0300S
+0404D
+0A]][
+0A^A]_^[
+0A^_^
+0A_A\_][
+0A_A^A\_^
+0A_A^A]A\_
+0A_A^A]A\_^[
+0A_A^_
+0A_A^_^[
+0L1 0
+0http://crl.globalsign.com/codesigningrootr45.crl0V
+0i0Y1
+0}0i1
+1 AW1
+1 t!A
+100-17-Coated5
+1044D
+1234D
+12435867
+13860
+1404D
+16-Uncoated
+16-Uncoated-3FR
+16-Uncoated-FFF
+1<\12V
+1^SW>c<&
+1http://ocsp.globalsign.com/gsgccr45codesignca20200V
+200 (Mod)
+200728000000Z
+20261013060624Z
+20402
+22-Uncoated
+22-Uncoated-3FR
+22-Uncoated-FFF
+220801000000Z
+2234D
+250507000000Z
+260520025500Z
+260805000000Z
+261013060624Z0+
+270521025500Z0
+2754D
+277XS
+290318000000Z0S1
+2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+3%A4B5Q678)y&
+3000S
+300728000000Z0Y1
+3064D
+31-Uncoated
+31-Uncoated-FFF
+3100S
+311109235959Z0b1
+3200S
+3300S
+3320AF
+33333
+333?"
+371104235959Z0c1
+380114235959Z0i1
+39-Coated
+39-Coated-3FR
+39-Coated-FFF
+39-Uncoated
+39-Uncoated-3FR
+39-Uncoated-FFF
+3954D
+3D$T+
+3D$X+T$\
+3O~EN
+3\$8A
+40-Coated
+40-Coated-3FR
+40-Coated-FFF
+40-Coated5
+40-Coated5-3FR
+40-Coated5-FFF
+4000S
+457XS
+4;\$D|
+4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+50-15-Coated5
+50-15-Coated5-II
+50-15-Coated5-II-3FR
+50-15-Coated5-II-FFF
+50-Coated
+50-Coated-3FR
+50-Coated-FFF
+50-Coated5
+50-Coated5-3FR
+50-Coated5-FFF
+500 Mech.
+50132467
+5035D
+503CWD
+5FjiT
+5aq/C/
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+5qCbP
+60-Coated
+60-Coated-3FR
+6300S
+640x480
+645DF
+66666>666;6A;:;555
+6854D
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+80-Coated
+8A^_^[
+8A_A]_^][
+8A_A^A\_^[
+8A_A^A]A\_^][
+8A_A^_^][
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8_^][
+8i_A@g
+9200S
+9500S
+9D$ w
+9D$$w
+9D$(w
+9D$,w
+9D$0w
+9D$Dr`A
+9VW('RUXCvYwTa
+9s0~<
+9t$@t
+9u]H9
+9{ ~HL
+:!~59Z
+:0806
+:@u1M
+:U|r*C
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+; t]A
+;@u0L
+;@u4L
+;C u!fA;
+;D$0t
+;D$\siH
+;VH}*H
+;\$D|
+;ff&?
+;|$D|
+;~X}4H
+</assembly>
+<0:08
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<Hu f
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+<fu!H
+=CMbMt
+=CMbPt
+=CMbT
+=PAEHu0
+=SECc
+=SECi
+=SECit)=SECpt
+=SECiuSH
+=SECp
+=SECpu
+=STKP
+=WRTS
+=u1H9
+> u]I
+>0<0:
+>http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=
+?0653
+?7/'A
+?=;KVf
+??0LibRaw@@QEAA@AEBV0@@Z
+??0LibRaw@@QEAA@I@Z
+??0LibRaw_abstract_datastream@@QEAA@AEBV0@@Z
+??0LibRaw_abstract_datastream@@QEAA@XZ
+??0LibRaw_bigfile_buffered_datastream@@QEAA@AEBV0@@Z
+??0LibRaw_bigfile_buffered_datastream@@QEAA@PEBD@Z
+??0LibRaw_bigfile_buffered_datastream@@QEAA@PEB_W@Z
+??0LibRaw_bigfile_datastream@@QEAA@AEBV0@@Z
+??0LibRaw_bigfile_datastream@@QEAA@PEBD@Z
+??0LibRaw_bigfile_datastream@@QEAA@PEB_W@Z
+??0LibRaw_buffer_datastream@@QEAA@AEBV0@@Z
+??0LibRaw_buffer_datastream@@QEAA@PEBX_K@Z
+??0LibRaw_windows_datastream@@QEAA@AEBV0@@Z
+??0LibRaw_windows_datastream@@QEAA@PEAX@Z
+??0LibRaw_windows_datastream@@QEAA@PEB_W@Z
+??0libraw_memmgr@@QEAA@I@Z
+??1LibRaw@@UEAA@XZ
+??1LibRaw_abstract_datastream@@UEAA@XZ
+??1LibRaw_bigfile_buffered_datastream@@UEAA@XZ
+??1LibRaw_bigfile_datastream@@UEAA@XZ
+??1LibRaw_buffer_datastream@@UEAA@XZ
+??1LibRaw_windows_datastream@@UEAA@XZ
+??1libraw_memmgr@@QEAA@XZ
+??4LibRaw@@QEAAAEAV0@AEBV0@@Z
+??4LibRaw_abstract_datastream@@QEAAAEAV0@AEBV0@@Z
+??4LibRaw_bigfile_buffered_datastream@@QEAAAEAV0@AEBV0@@Z
+??4LibRaw_bigfile_datastream@@QEAAAEAV0@AEBV0@@Z
+??4LibRaw_buffer_datastream@@QEAAAEAV0@AEBV0@@Z
+??4LibRaw_bufio_params@@QEAAAEAU0@$$QEAU0@@Z
+??4LibRaw_bufio_params@@QEAAAEAU0@AEBU0@@Z
+??4LibRaw_windows_datastream@@QEAAAEAV0@AEBV0@@Z
+??4libraw_memmgr@@QEAAAEAV0@AEBV0@@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@K@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+??_7LibRaw@@6B@
+??_7LibRaw_abstract_datastream@@6B@
+??_7LibRaw_bigfile_buffered_datastream@@6B@
+??_7LibRaw_bigfile_datastream@@6B@
+??_7LibRaw_buffer_datastream@@6B@
+??_7LibRaw_windows_datastream@@6B@
+??_FLibRaw@@QEAAXXZ
+?COLOR@LibRaw@@QEAAHHH@Z
+?Canon_CameraSettings@LibRaw@@IEAAXI@Z
+?Canon_D30_linenums_2_StdWBi@LibRaw@@1Vlibraw_static_table_t@@A
+?Canon_G9_linenums_2_StdWBi@LibRaw@@1Vlibraw_static_table_t@@A
+?Canon_KeyIs0x0410_Len2048_linenums_2_StdWBi@LibRaw@@1Vlibraw_static_table_t@@A
+?Canon_KeyIs0x0410_Len3072_linenums_2_StdWBi@LibRaw@@1Vlibraw_static_table_t@@A
+?Canon_KeyIsZero_Len2048_linenums_2_StdWBi@LibRaw@@1Vlibraw_static_table_t@@A
+?Canon_WBCTpresets@LibRaw@@IEAAXF@Z
+?Canon_WBpresets@LibRaw@@IEAAXHH@Z
+?Canon_wbi2std@LibRaw@@1Vlibraw_static_table_t@@A
+?FC@LibRaw@@QEAAHHH@Z
+?FCF@LibRaw@@IEAAHHH@Z
+?FujiCCT_K@LibRaw@@1Vlibraw_static_table_t@@A
+?Fuji_wb_list1@LibRaw@@1Vlibraw_static_table_t@@A
+?Fuji_wb_list2@LibRaw@@1Vlibraw_static_table_t@@A
+?GetNormalizedModel@LibRaw@@IEAAXXZ
+?HassyRawFormat_idx2HR@LibRaw@@IEAAPEBDI@Z
+?KodakIllumMatrix@LibRaw@@IEAAFIPEAM@Z
+?Kodak_DCR_WBtags@LibRaw@@IEAAXHIH@Z
+?Kodak_KDC_WBtags@LibRaw@@IEAAXHH@Z
+?Nikon_NRW_WBtag@LibRaw@@IEAAXHH@Z
+?Oly_wb_list1@LibRaw@@1Vlibraw_static_table_t@@A
+?Oly_wb_list2@LibRaw@@1Vlibraw_static_table_t@@A
+?Open@LibRaw_windows_datastream@@IEAAXPEAX@Z
+?PentaxISO@LibRaw@@IEAAXG@Z
+?PentaxLensInfo@LibRaw@@IEAAX_KI@Z
+?Pentax_wb_list1@LibRaw@@1Vlibraw_static_table_t@@A
+?Pentax_wb_list2@LibRaw@@1Vlibraw_static_table_t@@A
+?SetStandardIlluminants@LibRaw@@IEAAXIPEBD@Z
+?Sony_SR2_wb_list1@LibRaw@@1Vlibraw_static_table_t@@A
+?Sony_SR2_wb_list@LibRaw@@1Vlibraw_static_table_t@@A
+?Sony_SRF_wb_list@LibRaw@@1Vlibraw_static_table_t@@A
+?UUUUUU
+?[?<@S
+?_CanonConvertAperture@LibRaw@@KAMG@Z
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+?_Xlength_error@std@@YAXPEBD@Z
+?aRGB_coeff@LibRaw@@IEAAXQEAY02N@Z
+?adjust_bl@LibRaw@@IEAAXXZ
+?adjust_maximum@LibRaw@@QEAAHXZ
+?adjust_sizes_info_only@LibRaw@@QEAAHXZ
+?adjust_to_raw_inset_crop@LibRaw@@QEAAHIM@Z
+?adobe_coeff@LibRaw@@UEAAHIPEBDH@Z
+?adobe_copy_pixel@LibRaw@@IEAAXIIPEAPEAG@Z
+?android_loose_load_raw@LibRaw@@IEAAXXZ
+?android_tight_load_raw@LibRaw@@IEAAXXZ
+?apply_tiff@LibRaw@@IEAAXXZ
+?border_interpolate@LibRaw@@IEAAXH@Z
+?broadcom_load_raw@LibRaw@@IEAAXXZ
+?buffering_off@LibRaw_abstract_datastream@@UEAAXXZ
+?buffering_off@LibRaw_bigfile_buffered_datastream@@UEAAXXZ
+?bufsize@LibRaw_bufio_params@@2HA
+?calloc@LibRaw@@IEAAPEAX_K0@Z
+?calloc@libraw_memmgr@@QEAAPEAX_K0@Z
+?cam_xyz_coeff@LibRaw@@IEAAXQEAY03MQEAY02N@Z
+?cameramakeridx2maker@LibRaw@@SAPEBDI@Z
+?canon_600_auto_wb@LibRaw@@IEAAXXZ
+?canon_600_coeff@LibRaw@@IEAAXXZ
+?canon_600_color@LibRaw@@IEAAHQEAHH@Z
+?canon_600_correct@LibRaw@@IEAAXXZ
+?canon_600_fixed_wb@LibRaw@@IEAAXH@Z
+?canon_600_load_raw@LibRaw@@IEAAXXZ
+?canon_has_lowbits@LibRaw@@IEAAHXZ
+?canon_load_raw@LibRaw@@IEAAXXZ
+?canon_s2is@LibRaw@@IEAAHXZ
+?canon_sraw_load_raw@LibRaw@@IEAAXXZ
+?capabilities@LibRaw@@SAIXZ
+?checkCancel@LibRaw@@IEAAXXZ
+?ciff_block_1030@LibRaw@@IEAAXXZ
+?cleanup@libraw_memmgr@@QEAAXXZ
+?clearCancelFlag@LibRaw@@UEAAXXZ
+?convertFloatToInt@LibRaw@@QEAAXMMM@Z
+?convert_to_rgb_loop@LibRaw@@MEAAXQEAY03M@Z
+?copy_bayer@LibRaw@@MEAAXQEAGPEAG@Z
+?copy_fuji_uncropped@LibRaw@@MEAAXQEAGPEAG@Z
+?copy_line_to_bayer@LibRaw@@IEAAXPEAUfuji_compressed_block@@HHH@Z
+?copy_line_to_xtrans@LibRaw@@IEAAXPEAUfuji_compressed_block@@HHH@Z
+?copy_mem_image@LibRaw@@QEAAHPEAXHH@Z
+?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
+?crop_masked_pixels@LibRaw@@IEAAXXZ
+?crw_init_tables@LibRaw@@IEAAXIQEAPEAG@Z
+?crxConvertPlaneLineDf@LibRaw@@IEAAXPEAXH@Z
+?crxDecodePlane@LibRaw@@IEAAHPEAXI@Z
+?crxLoadDecodeLoop@LibRaw@@MEAAXPEAXH@Z
+?crxLoadFinalizeLoopE3@LibRaw@@MEAAXPEAXH@Z
+?crxLoadRaw@LibRaw@@IEAAXXZ
+?crxParseImageHeader@LibRaw@@IEAAHPEAEHH@Z
+?cubic_spline@LibRaw@@IEAAXPEBH0H@Z
+?dcraw_clear_mem@LibRaw@@SAXPEAUlibraw_processed_image_t@@@Z
+?dcraw_make_mem_image@LibRaw@@UEAAPEAUlibraw_processed_image_t@@PEAH@Z
+?dcraw_make_mem_thumb@LibRaw@@UEAAPEAUlibraw_processed_image_t@@PEAH@Z
+?dcraw_thumb_writer@LibRaw@@QEAAHPEBD@Z
+?deflate_dng_load_raw@LibRaw@@IEAAXXZ
+?derror@LibRaw@@IEAAXXZ
+?eight_bit_load_raw@LibRaw@@IEAAXXZ
+?eof@LibRaw_bigfile_buffered_datastream@@UEAAHXZ
+?eof@LibRaw_bigfile_datastream@@UEAAHXZ
+?eof@LibRaw_buffer_datastream@@UEAAHXZ
+?error_count@LibRaw@@QEAAHXZ
+?exp_bef@LibRaw@@IEAAXMM@Z
+?fcol@LibRaw@@QEAAHHH@Z
+?fillBufferAt@LibRaw_bigfile_buffered_datastream@@IEAA_NH_J@Z
+?fill_holes@LibRaw@@IEAAXH@Z
+?find_green@LibRaw@@IEAAMHHHH@Z
+?find_ifd_by_offset@LibRaw@@IEAAHH@Z
+?flip_index@LibRaw@@IEAAHHH@Z
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+?fname@LibRaw_abstract_datastream@@UEAAPEBDXZ
+?fname@LibRaw_bigfile_buffered_datastream@@UEAAPEBDXZ
+?fname@LibRaw_bigfile_datastream@@UEAAPEBDXZ
+?forget_ptr@libraw_memmgr@@AEAAXPEAX@Z
+?free@LibRaw@@IEAAXPEAX@Z
+?free@libraw_memmgr@@QEAAXPEAX@Z
+?free_image@LibRaw@@QEAAXXZ
+?free_omp_buffers@LibRaw@@IEAAXPEAPEADH@Z
+?fuji_14bit_load_raw@LibRaw@@IEAAXXZ
+?fuji_bayer_decode_block@LibRaw@@IEAAXPEAUfuji_compressed_block@@PEBUfuji_compressed_params@@H@Z
+?fuji_compressed_load_raw@LibRaw@@IEAAXXZ
+?fuji_decode_loop@LibRaw@@MEAAXPEAUfuji_compressed_params@@HPEA_JPEAIPEAE@Z
+?fuji_decode_strip@LibRaw@@IEAAXPEAUfuji_compressed_params@@H_JIPEAE@Z
+?fuji_rotate@LibRaw@@MEAAXXZ
+?gamma_curve@LibRaw@@IEAAXNNHH@Z
+?get2@LibRaw@@IEAAGXZ
+?get4@LibRaw@@IEAAIXZ
+?getOlympus_CameraType2@LibRaw@@IEAAXXZ
+?getOlympus_SensorTemperature@LibRaw@@IEAAXI@Z
+?get_CanonArea@LibRaw@@IEAA?AUlibraw_area_t@@XZ
+?get_char@LibRaw_bigfile_buffered_datastream@@UEAAHXZ
+?get_char@LibRaw_bigfile_datastream@@UEAAHXZ
+?get_char@LibRaw_buffer_datastream@@UEAAHXZ
+?get_decoder_info@LibRaw@@UEAAHPEAUlibraw_decoder_info_t@@@Z
+?get_internal_data_pointer@LibRaw@@QEAAPEAUlibraw_internal_data_t@@XZ
+?get_mem_image_format@LibRaw@@QEBAXPEAH000@Z
+?get_timestamp@LibRaw@@IEAAXH@Z
+?getbithuff@LibRaw@@IEAAIHPEAG@Z
+?getint@LibRaw@@IEAAIH@Z
+?getreal@LibRaw@@IEAANH@Z
+?gets@LibRaw_bigfile_buffered_datastream@@UEAAPEADPEADH@Z
+?gets@LibRaw_bigfile_datastream@@UEAAPEADPEADH@Z
+?gets@LibRaw_buffer_datastream@@UEAAPEADPEADH@Z
+?getwords@LibRaw@@KAHPEADQEAPEADHH@Z
+?guess_RAFDataGeneration@LibRaw@@IEAAHPEAE@Z
+?guess_byte_order@LibRaw@@IEAAFH@Z
+?hasselblad_full_load_raw@LibRaw@@IEAAXXZ
+?hasselblad_load_raw@LibRaw@@IEAAXXZ
+?have_fpdata@LibRaw@@QEAAHXZ
+?identify@LibRaw@@IEAAXXZ
+?identify_finetune_by_filesize@LibRaw@@IEAAXH@Z
+?identify_finetune_dcr@LibRaw@@IEAAXQEADHH@Z
+?identify_finetune_pentax@LibRaw@@IEAAXXZ
+?identify_process_dng_fields@LibRaw@@IEAAXXZ
+?imacon_full_load_raw@LibRaw@@IEAAXXZ
+?init_fuji_block@LibRaw@@IEAAXPEAUfuji_compressed_block@@PEBUfuji_compressed_params@@_JI@Z
+?init_fuji_compr@LibRaw@@IEAAXPEAUfuji_compressed_params@@@Z
+?initdata@LibRaw@@IEAAXXZ
+?int_to_float@LibRaw@@IEAAMH@Z
+?is_canon_600@LibRaw@@MEAAHXZ
+?is_coolscan_nef@LibRaw@@QEAAHXZ
+?is_curve_linear@LibRaw@@IEAAHXZ
+?is_floating_point@LibRaw@@QEAAHXZ
+?is_fuji_rotated@LibRaw@@QEAAHXZ
+?is_jpeg_thumb@LibRaw@@QEAAHXZ
+?is_nikon_sraw@LibRaw@@QEAAHXZ
+?is_phaseone_compressed@LibRaw@@MEAAHXZ
+?is_sraw@LibRaw@@QEAAHXZ
+?jpeg_src@LibRaw_abstract_datastream@@UEAAHPEAX@Z
+?jpeg_src@LibRaw_buffer_datastream@@UEAAHPEAX@Z
+?jpeg_thumb_writer@LibRaw@@IEAAXPEAU_iobuf@@PEADH@Z
+?kodak_262_load_raw@LibRaw@@IEAAXXZ
+?kodak_65000_decode@LibRaw@@IEAAHPEAFH@Z
+?kodak_65000_load_raw@LibRaw@@IEAAXXZ
+?kodak_c330_load_raw@LibRaw@@IEAAXXZ
+?kodak_c603_load_raw@LibRaw@@IEAAXXZ
+?kodak_dc120_load_raw@LibRaw@@IEAAXXZ
+?kodak_jpeg_load_raw@LibRaw@@IEAAXXZ
+?kodak_radc_load_raw@LibRaw@@IEAAXXZ
+?kodak_rgb_load_raw@LibRaw@@IEAAXXZ
+?kodak_thumb_load_raw@LibRaw@@IEAAXXZ
+?kodak_thumb_loader@LibRaw@@IEAAXXZ
+?kodak_ycbcr_load_raw@LibRaw@@IEAAXXZ
+?leaf_hdr_load_raw@LibRaw@@IEAAXXZ
+?libraw_openfile_tail@LibRaw@@IEAAHPEAVLibRaw_abstract_datastream@@@Z
+?libraw_powf64l@LibRaw@@SAMMM@Z
+?libraw_swab@LibRaw@@IEAAXPEAX_K@Z
+?lin_interpolate@LibRaw@@IEAAXXZ
+?lin_interpolate_loop@LibRaw@@MEAAXPEAHH@Z
+?linear_table@LibRaw@@IEAAXI@Z
+?ljpeg_diff@LibRaw@@IEAAHPEAG@Z
+?ljpeg_end@LibRaw@@IEAAXPEAUjhead@@@Z
+?ljpeg_idct@LibRaw@@IEAAXPEAUjhead@@@Z
+?ljpeg_row@LibRaw@@IEAAPEAGHPEAUjhead@@@Z
+?ljpeg_row_unrolled@LibRaw@@IEAAPEAGHPEAUjhead@@@Z
+?ljpeg_start@LibRaw@@IEAAHPEAUjhead@@H@Z
+?lock@LibRaw_abstract_datastream@@UEAAHXZ
+?lossless_dng_load_raw@LibRaw@@IEAAXXZ
+?lossless_jpeg_load_raw@LibRaw@@IEAAXXZ
+?lossy_dng_load_raw@LibRaw@@IEAAXXZ
+?make_decoder@LibRaw@@IEAAPEAGPEBE@Z
+?make_decoder_ref@LibRaw@@IEAAPEAGPEAPEBE@Z
+?malloc@LibRaw@@IEAAPEAX_K@Z
+?malloc@libraw_memmgr@@QEAAPEAX_K@Z
+?malloc_omp_buffers@LibRaw@@IEAAPEAPEADH_K@Z
+?median4@LibRaw@@IEAAHPEAH@Z
+?mem_ptr@libraw_memmgr@@AEAAXPEAX@Z
+?memmem@LibRaw@@KAPEAXPEAD_K01@Z
+?minolta_rd175_load_raw@LibRaw@@IEAAXXZ
+?minolta_z2@LibRaw@@IEAAHXZ
+?nikon_14bit_load_raw@LibRaw@@IEAAXXZ
+?nikon_3700@LibRaw@@IEAAXXZ
+?nikon_coolscan_load_raw@LibRaw@@IEAAXXZ
+?nikon_e2100@LibRaw@@IEAAHXZ
+?nikon_e995@LibRaw@@IEAAHXZ
+?nikon_he_load_raw_placeholder@LibRaw@@IEAAXXZ
+?nikon_load_padded_packed_raw@LibRaw@@IEAAXXZ
+?nikon_load_raw@LibRaw@@IEAAXXZ
+?nikon_load_sraw@LibRaw@@IEAAXXZ
+?nikon_load_striped_packed_raw@LibRaw@@IEAAXXZ
+?nikon_read_curve@LibRaw@@IEAAXXZ
+?nikon_yuv_load_raw@LibRaw@@IEAAXXZ
+?nokia_load_raw@LibRaw@@IEAAXXZ
+?olympus_load_raw@LibRaw@@IEAAXXZ
+?open_bayer@LibRaw@@UEAAHPEBEIGGGGGGEEIII@Z
+?open_buffer@LibRaw@@QEAAHPEBX_K@Z
+?open_datastream@LibRaw@@UEAAHPEAVLibRaw_abstract_datastream@@@Z
+?open_file@LibRaw@@QEAAHPEBD@Z
+?open_file@LibRaw@@QEAAHPEB_W@Z
+?output_params_ptr@LibRaw@@QEAAPEAUlibraw_output_params_t@@XZ
+?own_filtering_supported@LibRaw@@IEAAHXZ
+?p1raw@LibRaw@@IEAAHII@Z
+?p1rawc@LibRaw@@IEAAHIIAEAI@Z
+?packed_dng_load_raw@LibRaw@@IEAAXXZ
+?packed_load_raw@LibRaw@@IEAAXXZ
+?packed_tiled_dng_load_raw@LibRaw@@IEAAXXZ
+?pana_data@LibRaw@@IEAAIHPEAI@Z
+?panasonicC6_load_raw@LibRaw@@IEAAXXZ
+?panasonicC7_load_raw@LibRaw@@IEAAXXZ
+?panasonic_load_raw@LibRaw@@IEAAXXZ
+?parseAdobePanoMakernote@LibRaw@@IEAAXXZ
+?parseAdobeRAFMakernote@LibRaw@@IEAAXXZ
+?parseCR3@LibRaw@@IEAAH_J0AEAFPEAD11@Z
+?parseCR3_CTMD@LibRaw@@IEAAHF@Z
+?parseCR3_Free@LibRaw@@IEAAXXZ
+?parseCanonMakernotes@LibRaw@@IEAAXIIII@Z
+?parseEpsonMakernote@LibRaw@@IEAAXHHI@Z
+?parseFujiMakernotes@LibRaw@@IEAAXIIII@Z
+?parseHassyModel@LibRaw@@IEAAXXZ
+?parseLeicaInternalBodySerial@LibRaw@@IEAAHI@Z
+?parseLeicaLensID@LibRaw@@IEAAXXZ
+?parseLeicaLensName@LibRaw@@IEAAHI@Z
+?parseLeicaMakernote@LibRaw@@IEAAXHHI@Z
+?parseNikonMakernote@LibRaw@@IEAAXHHI@Z
+?parseOlympusMakernotes@LibRaw@@IEAAXHIIII@Z
+?parseOlympus_CameraSettings@LibRaw@@IEAAXHIIII@Z
+?parseOlympus_Equipment@LibRaw@@IEAAXIIII@Z
+?parseOlympus_ImageProcessing@LibRaw@@IEAAXIIII@Z
+?parseOlympus_RawInfo@LibRaw@@IEAAXIIII@Z
+?parsePentaxMakernotes@LibRaw@@IEAAXHIIII@Z
+?parseRicohMakernotes@LibRaw@@IEAAXHIIII@Z
+?parseSamsungMakernotes@LibRaw@@IEAAXHIIII@Z
+?parseSigmaMakernote@LibRaw@@IEAAXHHI@Z
+?parseSonyLensFeatures@LibRaw@@IEAAXEE@Z
+?parseSonyLensType2@LibRaw@@IEAAXEE@Z
+?parseSonyMakernotes@LibRaw@@IEAAXHIIIIAEAPEAEAEAG0101010101010101@Z
+?parseSonySR2@LibRaw@@IEAAXPEAEIII@Z
+?parseSonySRF@LibRaw@@IEAAXI@Z
+?parse_broadcom@LibRaw@@IEAAXXZ
+?parse_ciff@LibRaw@@IEAAXHHH@Z
+?parse_cine@LibRaw@@IEAAXXZ
+?parse_custom_cameras@LibRaw@@IEAAIIQEAUlibraw_custom_camera_t@@PEAPEAD@Z
+?parse_exif@LibRaw@@IEAAXH@Z
+?parse_exif_interop@LibRaw@@IEAAXH@Z
+?parse_fuji@LibRaw@@IEAAXH@Z
+?parse_fuji_compressed_header@LibRaw@@IEAAXXZ
+?parse_fuji_thumbnail@LibRaw@@IEAAXH@Z
+?parse_gps@LibRaw@@IEAAXH@Z
+?parse_gps_libraw@LibRaw@@IEAAXH@Z
+?parse_jpeg@LibRaw@@IEAAHH@Z
+?parse_kodak_ifd@LibRaw@@IEAAXH@Z
+?parse_kyocera@LibRaw@@IEAAXXZ
+?parse_makernote@LibRaw@@IEAAXHH@Z
+?parse_makernote_0xc634@LibRaw@@IEAAXHHI@Z
+?parse_minolta@LibRaw@@IEAAXH@Z
+?parse_mos@LibRaw@@IEAAX_J@Z
+?parse_phase_one@LibRaw@@IEAAXH@Z
+?parse_qt@LibRaw@@IEAAXH@Z
+?parse_riff@LibRaw@@IEAAXH@Z
+?parse_rollei@LibRaw@@IEAAXXZ
+?parse_sinar_ia@LibRaw@@IEAAXXZ
+?parse_smal@LibRaw@@IEAAXHH@Z
+?parse_thumb_note@LibRaw@@IEAAXHII@Z
+?parse_tiff@LibRaw@@IEAAHH@Z
+?parse_tiff_ifd@LibRaw@@IEAAHH@Z
+?parse_x3f@LibRaw@@IEAAXXZ
+?pentax_4shot_load_raw@LibRaw@@IEAAXXZ
+?pentax_load_raw@LibRaw@@IEAAXXZ
+?ph1_bithuff@LibRaw@@IEAAIHPEAG@Z
+?phase_one_allocate_tempbuffer@LibRaw@@IEAAXXZ
+?phase_one_correct@LibRaw@@QEAAHXZ
+?phase_one_fix_col_pixel_avg@LibRaw@@IEAAXII@Z
+?phase_one_fix_pixel_grad@LibRaw@@IEAAXII@Z
+?phase_one_flat_field@LibRaw@@IEAAXHH@Z
+?phase_one_free_tempbuffer@LibRaw@@IEAAXXZ
+?phase_one_load_raw@LibRaw@@IEAAXXZ
+?phase_one_load_raw_c@LibRaw@@IEAAXXZ
+?phase_one_load_raw_s@LibRaw@@IEAAXXZ
+?phase_one_subtract_black@LibRaw@@QEAAHPEAG0@Z
+?powf_lim@LibRaw@@SAMMMM@Z
+?ppg_interpolate@LibRaw@@IEAAXXZ
+?pre_interpolate@LibRaw@@IEAAXXZ
+?processCanonCameraInfo@LibRaw@@IEAAX_KPEAEIII@Z
+?processNikonLensData@LibRaw@@IEAAXPEAEI@Z
+?process_Hassy_Lens@LibRaw@@IEAAXH@Z
+?process_Sony_0x0116@LibRaw@@IEAAXPEAEG_K@Z
+?process_Sony_0x2010@LibRaw@@IEAAXPEAEG@Z
+?process_Sony_0x9050@LibRaw@@IEAAXPEAEG_K@Z
+?process_Sony_0x9400@LibRaw@@IEAAXPEAEG_K@Z
+?process_Sony_0x9402@LibRaw@@IEAAXPEAEG@Z
+?process_Sony_0x9403@LibRaw@@IEAAXPEAEG@Z
+?process_Sony_0x9406@LibRaw@@IEAAXPEAEG@Z
+?process_Sony_0x940c@LibRaw@@IEAAXPEAEG@Z
+?process_Sony_0x940e@LibRaw@@IEAAXPEAEG_K@Z
+?pseudoinverse@LibRaw@@IEAAXPEAY02N0H@Z
+?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z
+?quicktake_100_load_raw@LibRaw@@IEAAXXZ
+?raw2image@LibRaw@@QEAAHXZ
+?raw2image_ex@LibRaw@@QEAAHH@Z
+?raw2image_start@LibRaw@@QEAAXXZ
+?raw_was_read@LibRaw@@IEAAHXZ
+?read@LibRaw_bigfile_buffered_datastream@@UEAAHPEAX_K1@Z
+?read@LibRaw_bigfile_datastream@@UEAAHPEAX_K1@Z
+?read@LibRaw_buffer_datastream@@UEAAHPEAX_K1@Z
+?readAt@LibRaw_bigfile_buffered_datastream@@IEAA_JPEAX_K_J@Z
+?read_shorts@LibRaw@@IEAAXPEAGI@Z
+?realloc@LibRaw@@IEAAPEAXPEAX_K@Z
+?realloc@libraw_memmgr@@QEAAPEAXPEAX_K@Z
+?reconstruct_base@LibRaw_windows_datastream@@IEAAXXZ
+?recycle@LibRaw@@QEAAXXZ
+?recycle_datastream@LibRaw@@QEAAXXZ
+?removeExcessiveSpaces@LibRaw@@KAXPEAD@Z
+?remove_caseSubstr@LibRaw@@KAXPEAD0@Z
+?remove_trailing_spaces@LibRaw@@KAXPEAD_K@Z
+?remove_zeroes@LibRaw@@IEAAXXZ
+?rollei_load_raw@LibRaw@@IEAAXXZ
+?romm_coeff@LibRaw@@IEAAXQEAY02M@Z
+?samsung2_load_raw@LibRaw@@IEAAXXZ
+?samsung3_load_raw@LibRaw@@IEAAXXZ
+?samsung_load_raw@LibRaw@@IEAAXXZ
+?scale_colors_loop@LibRaw@@MEAAXQEAM@Z
+?scanf_one@LibRaw_bigfile_buffered_datastream@@UEAAHPEBDPEAX@Z
+?scanf_one@LibRaw_bigfile_datastream@@UEAAHPEBDPEAX@Z
+?scanf_one@LibRaw_buffer_datastream@@UEAAHPEBDPEAX@Z
+?seek@LibRaw_bigfile_buffered_datastream@@UEAAH_JH@Z
+?seek@LibRaw_bigfile_datastream@@UEAAH_JH@Z
+?seek@LibRaw_buffer_datastream@@UEAAH_JH@Z
+?selectCRXFrame@LibRaw@@IEAAHFI@Z
+?selectCRXTrack@LibRaw@@IEAAXXZ
+?selectStringBuffer@LibRaw_bigfile_buffered_datastream@@IEAAH_JAEA_J@Z
+?setCancelFlag@LibRaw@@UEAAXXZ
+?setCanonBodyFeatures@LibRaw@@IEAAX_K@Z
+?setLeicaBodyFeatures@LibRaw@@IEAAXH@Z
+?setMakeFromIndex@LibRaw@@QEAAHI@Z
+?setOlympusBodyFeatures@LibRaw@@IEAAX_K@Z
+?setPentaxBodyFeatures@LibRaw@@IEAAX_K@Z
+?setPhaseOneFeatures@LibRaw@@IEAAX_K@Z
+?setSonyBodyFeatures@LibRaw@@IEAAX_K@Z
+?set_bufsize@LibRaw_bufio_params@@SAXH@Z
+?set_dataerror_handler@LibRaw@@QEAAXP6AXPEAXPEBDH@Z0@Z
+?set_exifparser_handler@LibRaw@@QEAAXP6AXPEAXHHHI0_J@Z0@Z
+?set_progress_handler@LibRaw@@QEAAXP6AHPEAXW4LibRaw_progress@@HH@Z0@Z
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+?sget2@LibRaw@@IEAAGPEAE@Z
+?sget2Rev@LibRaw@@IEAAGPEAE@Z
+?sget4@LibRaw@@IEAAIPEAE@Z
+?sgetn@LibRaw@@SAIHPEAE@Z
+?sgetreal@LibRaw@@IEAANHPEAE@Z
+?simple_coeff@LibRaw@@IEAAXH@Z
+?sinar_4shot_load_raw@LibRaw@@IEAAXXZ
+?size@LibRaw_bigfile_buffered_datastream@@UEAA_JXZ
+?size@LibRaw_bigfile_datastream@@UEAA_JXZ
+?size@LibRaw_buffer_datastream@@UEAA_JXZ
+?size@LibRaw_windows_datastream@@UEAA_JXZ
+?smal_decode_segment@LibRaw@@IEAAXQEAY01IH@Z
+?smal_v6_load_raw@LibRaw@@IEAAXXZ
+?smal_v9_load_raw@LibRaw@@IEAAXXZ
+?sony_arq_load_raw@LibRaw@@IEAAXXZ
+?sony_arw2_load_raw@LibRaw@@IEAAXXZ
+?sony_arw_load_raw@LibRaw@@IEAAXXZ
+?sony_decrypt@LibRaw@@IEAAXPEAIHHH@Z
+?sony_ljpeg_load_raw@LibRaw@@IEAAXXZ
+?sony_load_raw@LibRaw@@IEAAXXZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?sraw_midpoint@LibRaw@@QEAAHXZ
+?strcasestr@LibRaw@@KAPEADPEADPEBD@Z
+?stread@LibRaw@@KAHPEAD_KPEAVLibRaw_abstract_datastream@@@Z
+?strerror@LibRaw@@SAPEBDH@Z
+?stretch@LibRaw@@IEAAXXZ
+?strnlen@LibRaw@@KA_KPEBD_K@Z
+?strprogress@LibRaw@@SAPEBDW4LibRaw_progress@@@Z
+?tagtype_dataunit_bytes@LibRaw@@1Vlibraw_static_table_t@@A
+?tell@LibRaw_bigfile_buffered_datastream@@UEAA_JXZ
+?tell@LibRaw_bigfile_datastream@@UEAA_JXZ
+?tell@LibRaw_buffer_datastream@@UEAA_JXZ
+?thumbOK@LibRaw@@QEAAH_J@Z
+?tiff_get@LibRaw@@IEAAXIPEAI000@Z
+?tiff_head@LibRaw@@IEAAXPEAUtiff_hdr@@H@Z
+?tiff_set@LibRaw@@IEAAXPEAUtiff_hdr@@PEAGGGHH@Z
+?tiff_sget@LibRaw@@IEAAFIPEAEIPEA_JPEAI212PEAH@Z
+?trimSpaces@LibRaw@@KAXPEAD@Z
+?uCE3
+?uDf9K
+?uZEeu
+?uncaught_exception@std@@YA_NXZ
+?uncompressed_fp_dng_load_raw@LibRaw@@IEAAXXZ
+?unknown file
+?unlock@LibRaw_abstract_datastream@@UEAAXXZ
+?unpack_function_name@LibRaw@@QEAAPEBDXZ
+?unpack_thumb@LibRaw@@QEAAHXZ
+?unpack_thumb_ex@LibRaw@@QEAAHH@Z
+?unpacked_load_raw@LibRaw@@IEAAXXZ
+?unpacked_load_raw_FujiDBP@LibRaw@@IEAAXXZ
+?unpacked_load_raw_fuji_f700s20@LibRaw@@IEAAXXZ
+?unpacked_load_raw_reversed@LibRaw@@IEAAXXZ
+?valid@LibRaw_bigfile_buffered_datastream@@UEAAHXZ
+?valid@LibRaw_bigfile_datastream@@UEAAHXZ
+?valid@LibRaw_buffer_datastream@@UEAAHXZ
+?vc5_dng_load_raw_placeholder@LibRaw@@IEAAXXZ
+?version@LibRaw@@SAPEBDXZ
+?versionNumber@LibRaw@@SAHXZ
+?vng_interpolate@LibRaw@@IEAAXXZ
+?wfname@LibRaw_abstract_datastream@@UEAAPEB_WXZ
+?wfname@LibRaw_bigfile_buffered_datastream@@UEAAPEB_WXZ
+?wfname@LibRaw_bigfile_datastream@@UEAAPEB_WXZ
+?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z
+?write_ppm_tiff@LibRaw@@IEAAXXZ
+?x3f_dpq_interpolate_af@LibRaw@@IEAAXHHH@Z
+?x3f_dpq_interpolate_af_sd@LibRaw@@IEAAXHHHHHHH@Z
+?x3f_dpq_interpolate_rg@LibRaw@@IEAAXXZ
+?x3f_load_raw@LibRaw@@IEAAXXZ
+?x3f_thumb_loader@LibRaw@@IEAAXXZ
+?x3f_thumb_size@LibRaw@@IEAA_JXZ
+?xtrans_decode_block@LibRaw@@IEAAXPEAUfuji_compressed_block@@PEBUfuji_compressed_params@@H@Z
+@!z\0%=
+@*istD
+@*istDL
+@*istDL2
+@*istDS
+@*istDS2
+@.data
+@.reloc
+@.rsrc
+@0>0<
+@82u-
+@8;us@8{
+@8y,t
+@AIR A01
+@A^_^
+@A_A^A\
+@A_A^A\^]
+@A_A^A]A\_^[
+@A_A^A]A\_^]
+@A_A^_
+@A_A^_^]
+@AgfaPhoto
+@Aptus-II 10
+@Aptus-II 5
+@Aptus-II 6
+@Aptus-II 7
+@Aptus-II 8
+@C-3030Z
+@C-350Z
+@C-5050Z
+@C-5060WZ
+@C-7000Z
+@C-7070WZ
+@C-740UZ
+@C-770UZ
+@C-8080WZ
+@COOLPIX 2100
+@COOLPIX 2500
+@COOLPIX 3200
+@COOLPIX 3700
+@COOLPIX 4300
+@COOLPIX 4500
+@COOLPIX 5000
+@COOLPIX 5400
+@COOLPIX 5700
+@COOLPIX 700
+@COOLPIX 800
+@COOLPIX 8400
+@COOLPIX 8700
+@COOLPIX 880
+@COOLPIX 8800
+@COOLPIX 900
+@COOLPIX 950
+@COOLPIX 990
+@COOLPIX 995
+@COOLPIX P7700
+@COOLPIX P7800
+@DBP for GX680
+@DC-FZ1000M2
+@DC-FZ80
+@DC-G100
+@DC-G99
+@DC-GF10
+@DC-GF9
+@DC-GX9
+@DC-LX100M2
+@DC-ZS200
+@DC-ZS70
+@DC-ZS80
+@DCS Pro 14N
+@DCS460
+@DCS460M
+@DCS465
+@DCS520C
+@DCS560C
+@DCS720X
+@DG-5D
+@DG-7D
+@DMC-FX150
+@DMC-FZ100
+@DMC-FZ1000
+@DMC-FZ150
+@DMC-FZ200
+@DMC-FZ2500
+@DMC-FZ300
+@DMC-FZ35
+@DMC-FZ40
+@DMC-FZ50
+@DMC-FZ70
+@DMC-G7
+@DMC-G8
+@DMC-GH4
+@DMC-GM1
+@DMC-GX85
+@DMC-L1
+@DMC-LC1
+@DMC-LF1
+@DMC-LX1
+@DMC-LX100
+@DMC-LX2
+@DMC-LX3
+@DMC-LX5
+@DMC-LX7
+@DMC-LX9
+@DMC-ZS100
+@DMC-ZS40
+@DMC-ZS50
+@DMC-ZS60
+@E-20
+@E-M1 Mark II
+@E-M1 Mark III
+@E-M10 Mark II
+@E-M10 Mark III
+@E-M10 Mark IV
+@E-M5 Mark II
+@E-M5 Mark III
+@EOSDCS1
+@EOSDCS3
+@F500EXR
+@F600EXR
+@F770EXR
+@GFX 100S
+@GFX 50S II
+@HS10
+@HS20EXR
+@HS30EXR
+@HcG0H
+@K10D
+@K20D
+@NX U
+@NX mini
+@P20+
+@P21+
+@P25+
+@P30+
+@P40+
+@P45+
+@P65+
+@S200EXR
+@S5100
+@S5200
+@S6000fd
+@S9000
+@S9100
+@SAUAWH
+@SH-2
+@SP-310
+@SP-320
+@SP-350
+@SP-500UZ
+@SP-510UZ
+@SP-550UZ
+@SP-560UZ
+@SP-565UZ
+@SP-570UZ
+@SP510UZ
+@SUAUH
+@SUAVH
+@SUAWH
+@SUVAVH
+@SUVWATAUAVAWH
+@SUVWATAVAWH
+@SUVWAUAVAWH
+@SUVWAUAWH
+@SUVWAVAWH
+@SUVWAVH
+@SUVWAW
+@SUVWH
+@SUWATAVH
+@SUWATAWH
+@SUWAUAWH
+@SUWAVH
+@SVATAVH
+@SVAU
+@SVAVH
+@SVWATAUAVAW
+@SVWATAUAVAWH
+@SVWATAUAVH
+@SVWAUAVH
+@SVWAVAWH
+@SVWAVL
+@SVWH
+@SWATAUH
+@SWATAWH
+@SWAWH
+@Stylus 1
+@UATAUAVAWH
+@UATAUH
+@UATAVH
+@UAVAWH
+@USATAVH
+@USVATH
+@USVWATAUAVAWH
+@USVWATAUAVH
+@USVWATAUAWH
+@USVWATAVAWH
+@USWATAUAVAWH
+@USWAVAWH
+@USWH
+@UVATAVAWH
+@UVATAWH
+@UVWATAUAVH
+@UVWH
+@UWATAUH
+@UWAVH
+@UWAWH
+@VATAUAWD
+@VWAVH
+@WATAUAVAWH
+@WATH
+@WAVAW
+@WAVAWH
+@WB2000
+@X-T1 IR
+@_RDATA
+@tGE3
+A-250
+A-260
+A-280
+A8,$vUH
+A8n,t
+A9Axw
+A9A|w
+A9}Xu
+AFi 5
+AFi 54S
+AFi 6
+AFi 65S
+AFi 7
+AFi 75S
+AFi-II 10
+AFi-II 12
+AFi-II 7
+AG-GH4
+AIR A01
+AIR-A01
+ALPHA SWEET DIGITAL
+ALPHA-5 DIGITAL
+ALPHA-7 DIGITAL
+AMRON
+APERTURE
+ARECOYK
+ATAUAVAWH
+AVAWH
+A\^[]
+A]A\]
+A]A\_]
+A]_^][
+A^A\[]
+A^A\]
+A^A\_][
+A^A]A\_^
+A^A]A\_^[]
+A^A]A\_^]
+A^_^[
+A_A\^]
+A_A]A\_][
+A_A]A\_^[]
+A_A][
+A_A]_^
+A_A^A\^]
+A_A^A\_^
+A_A^A\_^[]
+A_A^A\_^][
+A_A^A]A\
+A_A^A]A\]
+A_A^A]A\_
+A_A^A]A\_[]
+A_A^A]A\_^[
+A_A^A]A\_^[]
+A_A^A]A\_^]
+A_A^A]_^][
+A_A^]
+A_A^_
+A_A^_[]
+A_A^_^
+A_A^_^]
+A__^][
+Achromatic
+Adjusting size
+Adobe
+AgfaPhoto
+Alcatel
+Aperture:
+Apple
+Aptina
+Aptus 17
+Aptus 22
+Aptus 54S
+Aptus 65
+Aptus 65S
+Aptus 75
+Aptus 75S
+Aptus-II 10
+Aptus-II 10R
+Aptus-II 12
+Aptus-II 5
+Aptus-II 6
+Aptus-II 7
+Aptus-II 8
+BB-500CL
+BB-500GE
+BC2-HD
+BD$DA
+BLKOFS
+Bad crop box
+Baumer
+BayerDump
+Bibble
+Black Box
+Bng~B
+Broadcom
+C (Typ 112)
+C ;C$
+C ~U3
+C(fD;[h}'M+
+C-5050Z
+C-5060WZ
+C-7000Z
+C-7070WZ
+C-740UZ
+C-770UZ
+C-8080WZ
+C-Lux
+C-Most
+C3030Z
+C350Z
+C5050Z
+C5060WZ
+C7000Z
+C7070WZ
+C70Z,C7000Z
+C740UZ
+C770UZ
+C8080WZ
+C89{0~`H
+CAM-DC25
+CAMMANUF
+CAMMODEL
+CAMSERIAL
+CANON
+CFV II
+CFV II 50C
+CFVII
+CLAUSS
+CMbPt A
+CMost
+CONTACT_INTOPIX
+COOLPIX
+COOLPIX 2100
+COOLPIX 2500
+COOLPIX 3200
+COOLPIX 4300
+COOLPIX 4500
+COOLPIX 5000
+COOLPIX 5400
+COOLPIX 5700
+COOLPIX 700
+COOLPIX 800
+COOLPIX 8400
+COOLPIX 8700
+COOLPIX 8800
+COOLPIX 950
+COOLPIX 995
+COOLPIX A
+COOLPIX A1000
+COOLPIX B700
+COOLPIX Deneb
+COOLPIX Kalon
+COOLPIX P
+COOLPIX P1000
+COOLPIX P330
+COOLPIX P340
+COOLPIX P6000
+COOLPIX P7000
+COOLPIX P7100
+COOLPIX P7700
+COOLPIX P7800
+COOLPIX S6
+COOLSCAN
+CUTRECT
+Camera body:
+CameraObj_camera_type
+Camerz ZDS 14
+Cancelled by user callback
+Canon
+Canon EOS D30
+Cantare
+CaptProf_color_matrix
+CaptProf_mosaic_pattern
+CaptProf_number_of_planes
+CaptProf_raw_data_rotation
+CaptProf_serial_number
+Casio
+CatchLight
+ChH+C`H;
+Chengdu100.
+Clauss
+Clearing zero values
+CloseHandle
+Contax
+Contax 645
+Contax 645AF
+Converting to RGB
+Coolpix P950
+Corrupted data or unexpected EOF
+CreateEventA
+CreateFileMappingA
+CreateFileMappingW
+CreateFileW
+CreateMutexA
+CreateMutex__ThreadImg
+CreateThread
+CreateToolhelp32Snapshot
+Creative
+Credo 40
+Credo 50
+Credo 60
+Credo 80
+D$ +C0
+D$ Hl$
+D$ Mc
+D$ fff
+D$$;D$<L
+D$$A+
+D$$E3
+D$$E;
+D$&fD#
+D$(;k
+D$(A;
+D$(E3
+D$(Ic
+D$(f;^
+D$(fA
+D$(fB
+D$,E;
+D$0A;
+D$0D+
+D$0E3
+D$0H;
+D$0L;
+D$0f;s
+D$0fA
+D$0fD
+D$4Hc
+D$8@8p
+D$8A;
+D$8D;
+D$8E3
+D$8E;
+D$8Hc
+D$8L;G
+D$8M+
+D$8Mk
+D$8fA
+D$8fD;W
+D$8fE
+D$@E3
+D$@E;
+D$@Hi
+D$@fD
+D$@ff
+D$DH;
+D$FfE
+D$HD+
+D$HE3
+D$HH;U8ubH;M@u\I
+D$HIc
+D$HfE
+D$PH;
+D$PH;E
+D$PfA
+D$XD9
+D$XE3
+D$XL;
+D$`H=
+D$hE3
+D$hMc
+D$hf98
+D$pE3
+D$pHc
+D$pfA
+D$pfD
+D$puDf
+D$xE3
+D$xH+
+D-LUX (Typ 109)
+D-LUX 2
+D-LUX 3
+D-LUX 4
+D-LUX 5
+D-LUX 6
+D-LUX2
+D-LUX3
+D-Lux (Typ 109)
+D-Lux 7
+D-Lux2
+D3000
+D3100
+D3200
+D3300
+D3400
+D3500
+D5000
+D5100
+D5200
+D5300
+D5500
+D5600
+D560Z
+D7000
+D7100
+D7200
+D7500
+D8 t_I
+D8!t=f
+D8#uIH
+D810A
+D94$F
+D9@(t
+D9D$DL
+D9L$L
+D9Nd~0
+D9a$~
+D9l$(ukA
+D9t$@E
+D9|$0
+D9~`~}
+D;D$,u
+D;N`|
+D;O(|
+D;S<D
+D;T$L
+D;d$ 
+D;d$X
+D;v |
+D;{0|
+DBP for GX680
+DC-833m
+DC-FZ10002
+DC-FZ1000M2
+DC-FZ40
+DC-FZ42
+DC-FZ45
+DC-FZ80
+DC-FZ81
+DC-FZ82
+DC-FZ83
+DC-FZ85
+DC-G100
+DC-G110
+DC-G9
+DC-G90
+DC-G91
+DC-G95
+DC-G99
+DC-GF10
+DC-GF9
+DC-GF90
+DC-GH5
+DC-GH5M2
+DC-GH5s
+DC-GX7MK3
+DC-GX800
+DC-GX850
+DC-GX880
+DC-GX9
+DC-LX100M2
+DC-S1
+DC-S1H
+DC-S1R
+DC-S5
+DC-TX2
+DC-TZ200
+DC-TZ202
+DC-TZ220
+DC-TZ90
+DC-TZ91
+DC-TZ92
+DC-TZ93
+DC-TZ95
+DC-TZ96
+DC-TZ97
+DC-ZS200
+DC-ZS220
+DC-ZS70
+DC-ZS80
+DC120
+DC280
+DC290
+DCS Pro 14
+DCS Pro 14nx
+DCS Pro SLR
+DCS Pro SLR/c
+DCS200
+DCS315C
+DCS330C
+DCS420
+DCS420A
+DCS420I
+DCS420M
+DCS46
+DCS460A
+DCS460C
+DCS460D
+DCS460I
+DCS460M
+DCS465
+DCS465A
+DCS465C
+DCS465D
+DCS465I
+DCS465M
+DCS520C
+DCS560C
+DCS560M
+DCS620C
+DCS620X
+DCS660C
+DCS660M
+DCS720X
+DCS760C
+DCS760M
+DD(fB
+DEBUG RAW
+DEPTH %d
+DG-5D
+DG-7D
+DIGILUX 2
+DIGILUX 3
+DIGILUX2
+DIGILUX3
+DLPfB
+DLpf;
+DMC-CM1
+DMC-FX150
+DMC-FX180
+DMC-FZ100
+DMC-FZ1000
+DMC-FZ150
+DMC-FZ18
+DMC-FZ200
+DMC-FZ2000
+DMC-FZ2500
+DMC-FZ28
+DMC-FZ30
+DMC-FZ300
+DMC-FZ330
+DMC-FZ35
+DMC-FZ38
+DMC-FZ40
+DMC-FZ42
+DMC-FZ45
+DMC-FZ50
+DMC-FZ70
+DMC-FZ72
+DMC-FZ8
+DMC-FZH1
+DMC-G1
+DMC-G10
+DMC-G2
+DMC-G3
+DMC-G5
+DMC-G6
+DMC-G7
+DMC-G70
+DMC-G8
+DMC-G80
+DMC-G81
+DMC-G85
+DMC-GF1
+DMC-GF2
+DMC-GF3
+DMC-GF5
+DMC-GF6
+DMC-GF7
+DMC-GF8
+DMC-GH1
+DMC-GH2
+DMC-GH3
+DMC-GH4
+DMC-GM1
+DMC-GM1S
+DMC-GM5
+DMC-GX1
+DMC-GX7
+DMC-GX7MK2
+DMC-GX8
+DMC-GX80
+DMC-GX85
+DMC-L1
+DMC-L10
+DMC-LC1
+DMC-LF1
+DMC-LX1
+DMC-LX10
+DMC-LX100
+DMC-LX15
+DMC-LX2
+DMC-LX3
+DMC-LX5
+DMC-LX7
+DMC-LX9
+DMC-TX1
+DMC-TZ100
+DMC-TZ101
+DMC-TZ110
+DMC-TZ60
+DMC-TZ61
+DMC-TZ70
+DMC-TZ71
+DMC-TZ80
+DMC-TZ81
+DMC-TZ82
+DMC-TZ85
+DMC-ZS100
+DMC-ZS110
+DMC-ZS40
+DMC-ZS50
+DMC-ZS60
+DP1 Merrill
+DP2 Merrill
+DP3 Merrill
+DRWRAWReadOver_ClickFile
+DRWRAWReadOver_ThreadImg
+DRWRawImg_Rised_Event
+DRWUI.exe
+DRWUIWriteOver_ClickFile
+DRWUIWriteOver_ThreadImg
+DRW_EURawImg_Mutex
+DSC-F828
+DSC-HX9
+DSC-HX99
+DSC-Image
+DSC-R1
+DSC-RX0
+DSC-RX0M2
+DSC-RX1
+DSC-RX10
+DSC-RX100
+DSC-RX100M
+DSC-RX100M2
+DSC-RX100M3
+DSC-RX100M4
+DSC-RX100M5
+DSC-RX100M5A
+DSC-RX100M6
+DSC-RX100M7
+DSC-RX10M2
+DSC-RX10M3
+DSC-RX10M4
+DSC-RX1R
+DSC-RX1RM2
+DSC-V3
+DSLR-A100
+DSLR-A2
+DSLR-A200
+DSLR-A230
+DSLR-A290
+DSLR-A3
+DSLR-A300
+DSLR-A330
+DSLR-A350
+DSLR-A380
+DSLR-A450
+DSLR-A5
+DSLR-A500
+DSLR-A550
+DSLR-A560
+DSLR-A580
+DSLR-A700
+DSLR-A850
+DSLR-A900
+DX-2000
+DYNAX 5D
+DYNAX 7D
+Decoder not implemented for this data format
+DiMAGE
+DiMAGE 5
+DiMAGE 7
+DiMAGE 7Hi
+DiMAGE 7i
+DiMAGE A1
+DiMAGE A2
+DiMAGE A200
+DiMAGE G
+DiMAGE Z2
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+Digilux 2
+Digital Camera 
+Digital Photo Professional
+E-20,E-20N,E-20P
+E-20N
+E-20P
+E-300
+E-330
+E-400
+E-410
+E-420
+E-450
+E-500
+E-510
+E-520
+E-600
+E-620
+E-M1 Mark II
+E-M1 Mark III
+E-M10
+E-M10 Mark IV
+E-M10MarkII
+E-M10MarkIII
+E-M10MarkIV
+E-M10_M2
+E-M10_M3
+E-M10_M4
+E-M1MarkII
+E-M1MarkIII
+E-M1X
+E-M1_M2
+E-M1_M3
+E-M5 Mark II
+E-M5 Mark III
+E-M5MarkII
+E-M5MarkIII
+E-M5_M2
+E-M5_M3
+E-PL1
+E-PL10
+E-PL1s
+E-PL2
+E-PL3
+E-PL5
+E-PL6
+E-PL7
+E-PL8
+E-PL9
+E-PM1
+E-PM2
+E2100
+E2500
+E3200
+E3700
+E4300
+E4500
+E5000
+E5400
+E5700
+E7mipi
+E7qcom
+E8400
+E8700
+E8800
+E:\DRW\_drw_main\DRWIntelligentScan\bin\Release\x64\EURawImg.pdb
+EASTMAN
+EC-14
+EC-20
+EFirmware Version
+EK-GN100
+EK-GN110
+EK-GN120
+EK-KN120
+ENDHDR
+EOS 1000D
+EOS 100D
+EOS 10D
+EOS 1100D
+EOS 1200D
+EOS 1300D
+EOS 1500D
+EOS 200D
+EOS 20D
+EOS 20Da
+EOS 250D
+EOS 3000D
+EOS 300D
+EOS 30D
+EOS 350D
+EOS 400D
+EOS 40D
+EOS 450D
+EOS 500D
+EOS 50D
+EOS 550D
+EOS 5D
+EOS 5D Mark II
+EOS 5D Mark III
+EOS 5D Mark IV
+EOS 5DS
+EOS 5DS R
+EOS 600D
+EOS 60D
+EOS 60Da
+EOS 650D
+EOS 6D
+EOS 6D Mark II
+EOS 700D
+EOS 70D
+EOS 750D
+EOS 760D
+EOS 77D
+EOS 7D
+EOS 7D Mark II
+EOS 800D
+EOS 80D
+EOS 850D
+EOS 90D
+EOS C500
+EOS D2000
+EOS D2000C
+EOS D2000M
+EOS D30
+EOS D60
+EOS D6000
+EOS D6000C
+EOS D6000M
+EOS M
+EOS M10
+EOS M100
+EOS M2
+EOS M200
+EOS M3
+EOS M5
+EOS M50
+EOS M50 Mark II
+EOS M6
+EOS M6 Mark II
+EOS R
+EOS R10
+EOS R3
+EOS R5
+EOS R6
+EOS R7
+EOS RP
+EOS-1D
+EOS-1D C
+EOS-1D Mark II
+EOS-1D Mark II N
+EOS-1D Mark III
+EOS-1D Mark IV
+EOS-1D X
+EOS-1D X Mark II
+EOS-1D X Mark III
+EOS-1Ds
+EOS-1Ds Mark II
+EOS-1Ds Mark III
+EOSDCS
+EOSDCS1
+EOSDCS1B
+EOSDCS1C
+EOSDCS1I
+EOSDCS1M
+EOSDCS3
+EOSDCS3B
+EOSDCS3C
+EOSDCS3I
+EOSDCS3M
+EOSDCS5I
+EOSDCS5M
+EPSON
+EPf;G
+EURawImg.exe
+EX-F1
+EX-FH100
+EX-P505
+EX-P600
+EX-P700
+EX-S100
+EX-S20
+EX-Z10
+EX-Z1050
+EX-Z50
+EX-Z500
+EX-Z55
+EX-Z60
+EX-Z75
+EX-Z750
+EX-Z8
+EX-Z850
+EX-ZR100
+EX;E`
+EasyShare
+Epson
+F-080C
+F-145C
+F-201C
+F-510C
+F-810C
+F505EXR
+F605EXR
+F775EXR
+F900EXR
+FILE VERSION
+FLENGTH
+FLEQ35MM
+FOCLEN
+FOVbt
+FUJIFILM
+FXD9v ~iE
+FXE9f`
+FinePix
+FinePix X100
+Flash Sync
+Flipping image
+Focal Length:
+Foculus
+ForwardArt
+Fotoman Pixtura
+Fujifilm
+Fujifilm GX680
+F|)LM
+G3DUO
+G3DUO 16:9
+G3FrontMipi
+G3FrontQCOM
+G3LQCom
+G3MipiL
+GFX 100
+GFX 100S
+GFX 50
+GFX 50R
+GFX 50S
+GFX 50S II
+GFX100S
+GFX50S II
+GIT2 16:9
+GIT2 4:3
+GIT2P
+GIT2P 16:9
+GIT2P 4:3
+GITUP
+GR A12 50mm F2.5 MACRO
+GR DIGITAL 2
+GR DIGITAL 3
+GR DIGITAL 4
+GR II
+GR III
+GRAS-50S5C
+GX-10
+GX-1L
+GX-1S
+GX-20
+GX200
+GXR A12 28mm
+GXR A12 50mm
+GXR A16
+GXR Mount A12
+GXR P10
+GXR S10
+Galaxy NX
+Galaxy Note 9 Rear Camera
+Galaxy S6
+Galaxy S7
+Galaxy S8
+Galaxy S9
+Generic
+GenuD
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetExitCodeThread
+GetFileSizeEx
+GetLastError
+GetModuleHandleW
+GetSystemTimeAsFileTime
+Gione
+GlobalSign Root CA - R31
+GlobalSign nv-sa1)0'
+GlobalSign nv-sa1/0-
+GlobalSign0
+GlobalSign1
+GoPro
+Google
+H Series
+H+C`H=
+H+D$xH
+H+K`H
+H+K`I+
+H+L$XH
+H+O`I+
+H+t$P
+H-Series
+H3D-39
+H3DII
+H3DII-39
+H3DII-50
+H9k v?H
+H;D$P
+H;l$H|
+HA_A^A]A\_^[]
+HEAPCCDR
+HEIGHT %d
+HERO5 Black
+HMD Global
+HS10 HS11
+HS22EXR
+HS33EXR
+HS35EXR
+HS50EXR
+HZ10W
+HZ15W
+HZ25W
+HZ50W
+Hasselblad
+Hasselblad 
+Hasselblad 5
+Hasselblad A6D
+Hasselblad H
+Hasselblad H1/H2
+Hasselblad H6D
+Hasselblad V
+Hasselblad X1D
+HcD$ H
+HcD$4
+HcF0H
+HcL$ 
+HcN H
+HcT$$
+HcT$XI
+HcV H
+Hct$ 
+Hc|$0f
+Highlight recovery
+Huawei
+ICC conversion
+IIIID
+IIIII
+IIIIf
+ILCA-68
+ILCA-77M2
+ILCA-99M2
+ILCE-1
+ILCE-3000
+ILCE-5000
+ILCE-5100
+ILCE-6000
+ILCE-6100
+ILCE-6300
+ILCE-6400
+ILCE-6500
+ILCE-6600
+ILCE-7
+ILCE-7C
+ILCE-7M
+ILCE-7M2
+ILCE-7M3
+ILCE-7M4
+ILCE-7R
+ILCE-7RM
+ILCE-7RM2
+ILCE-7RM3
+ILCE-7RM3A
+ILCE-7RM4
+ILCE-7RM4A
+ILCE-7S
+ILCE-7SM2
+ILCE-7SM3
+ILCE-9
+ILCE-9M2
+ILCE-QX1
+ILME-FX3
+IMAGERTEMP
+IMX135
+IMX135-QCOM
+IMX214
+IMX219-mipi 8mp
+IMX230
+IMX298-mipi 16mp
+IQ140
+IQ150
+IQ160
+IQ180
+IQ250
+IQ260
+IQ280
+IQ3 100MP
+IQ3 50MP
+IQ3 60MP
+IQ3 80MP
+IQ4 150MP
+IS Pro
+ISO Speed:
+IXUS 160
+I_Mobile
+I_StyleQ6
+Imacon
+Image too big for processing
+ImgProf_rotation_angle
+InitializeSListHead
+Input/output error
+Interpolating
+Interpolating Foveon sensor data
+IsDebuggerPresent
+IsProcessorFeaturePresent
+Ixpress
+Ixpress %d-Mp
+JK Imaging
+JPEG_preview_data
+JmZ6,/
+K(fD;[h}CM+
+K-3 Mark III
+K-5 II
+K-500
+K0fD;[h}^H
+K2000
+K200D
+KAI-0340
+KD-400Z
+KD-510Z
+KERNEL32.dll
+KKKKH
+KONICA
+Kodak
+Konica
+L$ E3
+L$ L+
+L$ SUVWH
+L$ SVWH
+L$ fI
+L$(E3
+L$(H3
+L$(Ic
+L$(M+
+L$(fA
+L$0H3
+L$0Hc
+L$0I+
+L$0fA
+L$0ff
+L$4fD
+L$8H3
+L$@E3
+L$@H3
+L$HH3
+L$HL+
+L$HL;
+L$JfE
+L$PE3
+L$PH3
+L$XH3
+L$\A;
+L$`H3
+L$hH3
+L$hI+
+L$hL+
+L$pH+
+L$pH3
+L$pfA
+L$xH3
+L$xIc
+L1D-20c
+L;t$0
+LEICA
+LENSARANGE
+LENSCONTROL S
+LENSCTRL S
+LENSFRANGE
+LENSMODEL
+Large F
+LcA03
+LcD$PHc
+LcT$HA
+LcT$dI
+Lcl$ 
+Lcl$ L
+Leaf AFi
+Leica
+Lenovo
+Lens:
+LensID="
+LensID="(
+Libraw internal mempool overflowed
+LightPhase
+Loading thumbnail
+Logitech
+Lunar
+Lusso
+M (Typ 2
+M H1E
+M-Adapter L
+M@t/Hc
+MATRIX
+MAXVAL %d
+MAXXUM 5D
+MAXXUM 7D
+MC-11
+MC-14
+MC-20
+MI3wMipi
+MI3wQCOM
+MODEL-NAME
+MS<E;
+MSVCP140.dll
+MT9J003
+Mamiya
+Mamiya 6
+Mamiya 645
+Mamiya R
+MapViewOfFile
+Matrix
+Max Aperture:
+Median filter
+Meizu
+Micron
+Min Aperture:
+Minolta
+MipiL
+Mixing green channels
+Motorola
+Mutex_ClickFile
+Mutex_ThreadImg
+MwWHc
+MyTouch4GSlide
+N Digital
+NC2000
+NC2000A
+NC2000I
+NC2000M
+NEX-3
+NEX-3N
+NEX-5
+NEX-5C
+NEX-5N
+NEX-5R
+NEX-5T
+NEX-6
+NEX-7
+NEX-C3
+NEX-F3
+NEX-VG10
+NEX-VG20
+NEX-VG30
+NEX-VG900
+NIKON
+NIKON Z 9
+NOKIA
+NOKIARAW
+NX mini
+NX1000
+NX1100
+NX2000
+NX3000
+NX3300
+NX500
+NeutObj_neutrals
+Neutral 
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+Nikon
+Nikon Scan
+No error
+No input stream, or input stream closed
+No thumbnail in file
+Nokia
+O0M0A
+OLYMP
+OLYMPUS
+OM Digi
+OM Digital
+OM SYS
+OV5648
+OV56482
+OV8850
+Olympus
+OmniVisi
+OmniVision
+OmniVison
+One A9
+OnePlus
+OneSV
+Opening file
+Optio
+Optio 33WR
+Optio 750Z
+Optio S
+Optio S V1.01
+Optio S4
+Out of order call of libraw function
+P 20+
+P 21+
+P 25+
+P 30+
+P 40+
+P 45+
+P 65+
+P wpt+A
+P@HcD$ 
+PA\^[
+PA^_]
+PA_A]_^[
+PA_A]_^]
+PA_A^A]A\_^[
+PA_A^A]A\_^]
+PA_A^_[]
+PA_A^_^[
+PA_][
+PB645
+PC-CAM 600
+PEN-F
+PENTAX
+PENTAX 
+PIXPRO 
+PIXPRO AZ901
+PIXPRO S-1
+Panasonic
+Pano 
+Parrot
+Pentax
+Pg,%MV
+Phase
+Phase One
+Phase One 6
+Phase One 645AF
+Phase One 645DF
+Phase One 645DF+
+Phase One iXA
+Phase One iXA - R
+Phase One iXM-RS150F
+Phase One iXR
+Phase One iXU 150
+Phase One iXU 150 - NIR
+Phase One iXU 180
+PhaseOne
+PhaseOne/Mamiya
+Photo Control
+Photron
+Pinhole
+Pixelink
+Pixpro S-1
+Polaroid
+PowerShot
+PowerShot 600
+PowerShot A3300 IS
+PowerShot A460
+PowerShot A470
+PowerShot A5
+PowerShot A5 Zoom
+PowerShot A50
+PowerShot A530
+PowerShot A610
+PowerShot A620
+PowerShot A630
+PowerShot A640
+PowerShot A650 IS
+PowerShot A720 IS
+PowerShot D10
+PowerShot G1
+PowerShot G1 X
+PowerShot G1 X Mark II
+PowerShot G1 X Mark III
+PowerShot G10
+PowerShot G11
+PowerShot G12
+PowerShot G15
+PowerShot G16
+PowerShot G2
+PowerShot G3
+PowerShot G3 X
+PowerShot G5
+PowerShot G5 X
+PowerShot G5 X Mark II
+PowerShot G6
+PowerShot G7 X
+PowerShot G7 X Mark II
+PowerShot G7 X Mark III
+PowerShot G9
+PowerShot G9 X
+PowerShot G9 X Mark II
+PowerShot Pro1
+PowerShot Pro70
+PowerShot Pro90
+PowerShot Pro90 IS
+PowerShot S100
+PowerShot S110
+PowerShot S120
+PowerShot S2 IS
+PowerShot S3 IS
+PowerShot S30
+PowerShot S40
+PowerShot S45
+PowerShot S50
+PowerShot S60
+PowerShot S70
+PowerShot S90
+PowerShot S95
+PowerShot SD300
+PowerShot SX1 IS
+PowerShot SX110 IS
+PowerShot SX120 IS
+PowerShot SX20 IS
+PowerShot SX220 HS
+PowerShot SX30 IS
+PowerShot SX40 HS
+PowerShot SX50 HS
+PowerShot SX60 HS
+PowerShot SX70 HS
+PowerShot SX710 HS
+Pre-interpolating
+ProBack
+ProBack645
+Process32Next
+Q (Typ 116)
+Q2 MONO
+Q4CR)5a9qb6S&8
+QV-2000UX
+QV-3*00EX
+QV-4000
+QV-5700
+QV-R41
+QV-R51
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+QueryPerformanceCounter
+QuickTake
+QuickTake 100
+QuickTake 150
+Quicktake
+RD175
+RD3L$$
+RICOH
+RNjOT
+RP_OV5647
+RP_imx219
+RPi IMX219
+RPi OV5647
+RPi OV5647 v.1
+RPi OV5647 v.2
+RaspberryPi
+ReadFile
+Reading RAW data
+Reading metadata
+RedmiNote3Pro
+ReleaseMutex
+Removing dead pixels
+Request for nonexisting image number
+Request for nonexisting thumbnail number
+ResetEvent
+Ricoh
+Ricoh GXR
+Rollei
+Rotating Fuji diagonal data
+RoverShot
+Rows_data
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+S (Typ 007)
+S10 24-72mm F2.5-4.4 VC
+S100FS
+S2 IS
+S205EXR
+S20Pro
+S2Pro
+S3Pro
+S5000
+S5100
+S5200
+S5500
+S5600
+S5Pro
+S6500fd
+S7000
+S9000
+S9100
+S9500
+S9600
+SAMSUNG
+SCS1000
+SCS2000
+SD1 Merrill
+SECct
+SECiA
+SECit
+SECiu
+SECpt
+SHUTTER
+SIGMA
+SIGMA dp
+SL (Typ 601)
+SL1000
+SLT-A33
+SLT-A35
+SLT-A37
+SLT-A5
+SLT-A55
+SLT-A57
+SLT-A58
+SLT-A65
+SLT-A77
+SLT-A99
+SP-350
+SP-500UZ
+SP-510UZ
+SP-550UZ
+SP-560UZ
+SP-565UZ
+SP-570UZ
+SP310
+SP320
+SP350
+SP500UZ
+SP510UZ
+SP550UZ
+SP560UZ
+SP565UZ
+SP570UZ
+ST Micro
+STV680 VGA
+STYLUS 1
+STYLUS1
+STYLUS1,1s
+STYLUS1s
+SUVWATAUAVAWH
+SUVWATAUAWH
+SUVWAUAWH
+SUVWAUH
+SUWATAUAWH
+SVATH
+SVAUH
+SVS625CL
+SVWATAUAVAWH
+SVWATAVAWH
+SVWATH
+SVWAUAWH
+SVWAVAWH
+SVWAVH
+SWATH
+Samsung
+Sarnoff
+Scaling colors
+SetEvent
+SetUnhandledExceptionFilter
+ShareMemory_ClickFile
+ShareMemory_ThreadImg
+ShootObj_back_type
+Sichuan1
+Sigma
+Sinar
+Sinarcam
+Sleep
+Some strange things
+St8<Tt)
+Starting
+Stellar
+Stretching image
+Subtracting dark frame data
+T#4G?9
+T$ 9C0
+T$ H+
+T$"fD#
+T$$E3
+T$(D;
+T$(f;
+T$,D+
+T$,D;
+T$0E+
+T$4I+
+T$8E3
+T$8H+
+T$8I+
+T$8fA
+T$8fB
+T$<D;
+T$@A+
+T$@E3
+T$@H+
+T$@Hk
+T$@I+
+T$DfE
+T$HE3
+T$HH+
+T$HI+
+T$PH+
+T$`A3
+T$`H+
+T$pA;
+T$pH+
+T$pI+
+TD$0f
+TD$Pf
+THUMB
+TL350
+TL500
+TSNERDTS
+TT$0f
+TT$Pf
+TUPLTYPE %s
+TXG14
+TerminateProcess
+Tl$0f
+Tl$Pf
+Tt$<Ct 
+U5@D<Y</
+U@t/Hc
+UAVAWH
+UFRaw
+UHt>Hc
+USVWATAUAVAWH
+USWAVAWH
+UUUUUU
+UVAWH
+UVWATAUAVAWH
+UVWAUAWH
+UVWAVAWH
+UWAVH
+UltraPixel1
+UltraPixel2
+UnhandledExceptionFilter
+Universal
+Unknown error code
+Unknown exception
+Unknown unpack function
+UnmapViewOfFile
+Unspecified error
+Unsufficient memory
+Unsupported file format or not RAW file
+Unsupported thumbnail format
+V-LUX (Typ 114)
+V-LUX 1
+V-LUX 2
+V-LUX 3
+V-LUX 4
+V-LUX1
+V-Lux 5
+VAVAWH
+VCRUNTIME140.dll
+VT$`f
+VUUUA
+VUUUL
+VUUUUUUUH
+VWATAVAWH
+VWAUAWH
+VWAVAWH
+VWAVH
+VWAWH
+Valeo 11
+Valeo 11p
+Valeo 17
+Valeo 22
+Valeo 6
+Vl$pf
+Volare
+WATAUAVAWH
+WAVAWH
+WB2000
+WB500
+WB5000
+WB550
+WB5500
+WB_DESC
+WIDTH %d
+WS2_32.dll
+WaitForMultipleObjects
+WaitForSingleObject
+Wide-Angle Adapter
+Winder CW
+X-A10
+X-A20
+X-E2S
+X-H2S
+X-Pro1
+X-Pro2
+X-Pro3
+X-S10
+X-T10
+X-T100
+X-T1IR
+X-T20
+X-T200
+X-T30
+X-T30 II
+X0V0T
+X100F
+X100S
+X100T
+X100V
+X1D II 50C
+X1D-50c
+X200,D560Z,C350Z
+XA\_^[
+XA^^][
+XCD-SX910CR
+XZ-10
+Xiaomi
+Xiayi
+Xperia
+YI7xj
+Yuneec
+Z1015
+ZV-E10
+Zeiss
+\$ D;
+\$ E;
+\$ UH
+\$ UVAWH
+\$ UVWATAUAVAWH
+\$ UWAVH
+\$ WH
+\$ f;y
+\$(A_A]A\^
+\$(H;
+\$(fA
+\$0H;
+\$0Hc
+\$0Lc
+\$8D;
+\$@L;
+\$LA;
+]J<0"0i3
+_4[Qh1c
+_CxxThrowException
+_RDATA
+__C_specific_handler
+__CxxFrameHandler3
+__acrt_iob_func
+__p___argc
+__p___argv
+__p__commode
+__setusermatherr
+__std_exception_copy
+__std_exception_destroy
+__std_terminate
+__stdio_common_vfprintf
+__stdio_common_vfscanf
+__stdio_common_vsprintf
+__stdio_common_vsscanf
+_c_exit
+_callnewh
+_cexit
+_configthreadlocale
+_configure_narrow_argv
+_crt_atexit
+_errno
+_exit
+_fseeki64
+_ftelli64
+_get_initial_narrow_environment
+_initialize_narrow_environment
+_initialize_onexit_table
+_initterm
+_initterm_e
+_invalid_parameter_noinfo_noreturn
+_localtime64
+_mktime64
+_purecall
+_register_onexit_function
+_register_thread_local_exe_atexit_callback
+_seh_filter_exe
+_set_app_type
+_set_fmode
+_set_new_mode
+_stat64
+_stricmp
+_strnicmp
+_swab
+_wfopen_s
+_wstat64
+`.rdata
+`A\_[
+`A^][
+`A^_^][
+`A_A]_][
+`A_A^A]A\_^]
+`A_A^A]_^][
+`A_A^]
+`A_A^^
+`A__]
+a(hDNG)
+a:m1&
+aaaaH
+android_loose_load_raw()
+android_tight_load_raw()
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll
+b wul
+back_serial_number
+bad allocation
+bad array new length
+broadcom_load_raw()
+calloc
+canon_600_load_raw()
+canon_load_raw()
+canon_sraw_load_raw()
+ceilf
+coated
+crxLoadRaw()
+d$ D;
+d$ Li
+d$$fA
+d$(D;
+d$(E3
+d$@D;
+d$@E3
+d$@fA
+d$PA;
+d$PE3
+d$XA;
+d530flex
+dcraw
+dcraw v9.26
+default_data_callback
+deflate_dng_load_raw()
+dp%c Quattro
+dp0 Quattro
+dp1 Quattro
+dp2 Quattro
+dp3 Quattro
+eight_bit_load_raw()
+f9T$ s
+f;D$8uH
+fA+D$
+fA+L$
+fA9/s
+fA9D$
+fB94Bu
+fD9d$H
+fD9d$Ht5f
+fD;ch}-H+
+fD;ch}vI+
+failed to create file mapping
+failed to get the file size
+failed to map the file
+failed to open the file
+fclose
+fffffff
+fgetc
+fgets
+floorf
+fopen
+fopen_s
+fputc
+fread
+ftypcrx 
+ftypqt   
+fuji_14bit_load_raw()
+fuji_compressed_load_raw()
+fwrite
+gain_b=
+gain_r=
+gfffA
+gfffC
+gfffD
+gfffG
+gfffH
+gfffL
+gffff
+hA^A]A\_^[
+hasselblad_full_load_raw()
+hasselblad_load_raw()
+heif.dll
+heif_context_alloc
+heif_context_free
+heif_context_get_primary_image_handle
+heif_context_read_from_memory_without_copy
+heif_decode_image
+heif_image_get_bits_per_pixel
+heif_image_get_plane_readonly
+heif_image_get_primary_width
+heif_image_handle_get_height
+heif_image_handle_get_width
+heif_image_handle_release
+heif_image_release
+heif_image_scale_image
+http://ns.adobe.com/xap/1.0/
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0]
+iPhone
+icc_camera_profile
+icc_camera_to_tone_matrix
+imacon_full_load_raw()
+isalnum
+isdigit
+isspace
+jPeNS
+k0i0$
+kXD9kh~VI
+kodak_262_load_raw()
+kodak_65000_load_raw()
+kodak_dc120_load_raw()
+kodak_jpeg_load_raw()
+kodak_radc_load_raw()
+kodak_rgb_load_raw()
+kodak_ycbcr_load_raw()
+kodak_yrgb_load_raw()
+kxXgMt
+l$ AVH
+l$ VAVAWH
+l$ VH
+l$ VWATAUAVH
+l$ VWATAUAWH
+l$ VWAVH
+l$ WATAUAVAWH
+l$ WH
+l$ fD
+l$$D;
+l$(E3
+l$(f;
+l$,E3
+l$,fD;g
+l$0fD;{
+l$8D;
+l$@E3
+l$HE3
+l$Ht 
+l$P@8;tkD
+l$TfD
+l$`H+
+l$hLc
+l$xE3
+leaf_hdr_load_raw()
+libraw_strerror
+lossless_dng_load_raw()
+lossless_jpeg_load_raw()
+lossy_dng_load_raw()
+m0_$@
+m0k0$
+malloc
+memchr
+memcmp
+memcpy
+memmove
+memset
+mf;L$$u9f9o
+minolta_rd175_load_raw()
+moovtrakmdiahdlr
+moovtrakmdiaminfstbl
+moovtrakmdiaminfstblco64
+moovtrakmdiaminfstblstsc
+moovtrakmdiaminfstblstsd
+moovtrakmdiaminfstblstsdCRAW
+moovtrakmdiaminfstblstsdCRAWCDI1
+moovtrakmdiaminfstblstsdCRAWCMP1
+moovtrakmdiaminfstblstsdCRAWJPEG
+moovtrakmdiaminfstblstsz
+moovuuid
+moovuuidCCTP
+moovuuidCMT1
+moovuuidCMT2
+moovuuidCMT3
+moovuuidCMT4
+moovuuidTHMB
+n0l0-
+nikon_14bit_load_raw()
+nikon_coolscan_load_raw()
+nikon_he_load_raw_placeholder()
+nikon_load_padded_packed_raw()
+nikon_load_raw()
+nikon_load_sraw()
+nikon_load_striped_packed_raw()
+nikon_load_yuv_load_raw()
+nokia_load_raw()
+ntelA
+o84s[
+olympus_load_raw()
+ot$(E
+ov5647
+p UWAVH
+p WATAUAVAWH
+pA^_]
+pA_A^A]A\_^]
+p\$x %
+packed_dng_load_raw()
+packed_load_raw()
+panasonicC6_load_raw()
+panasonicC7_load_raw()
+panasonic_load_raw()
+pentax_4shot_load_raw()
+pentax_load_raw()
+phase_one_load_raw()
+phase_one_load_raw_c()
+phase_one_load_raw_s()
+piX 5oo
+qsort
+quicktake_100_load_raw()
+realloc
+rollei_load_raw()
+roundf
+samsung2_load_raw()
+samsung3_load_raw()
+samsung_load_raw()
+sd Quatt
+sd Quattro
+sd Quattro H
+shfff
+sinar_4shot_load_raw()
+smal_v6_load_raw()
+smal_v9_load_raw()
+sony_arq_load_raw()
+sony_arw2_load_raw()
+sony_arw_load_raw()
+sony_ljpeg_load_raw()
+sony_load_raw()
+sqrtf
+strchr
+strcmp
+string too long
+strncat
+strncmp
+strncpy
+strrchr
+strstr
+strtok
+strtol
+t 8\$-
+t"fff
+t$ AVH
+t$ AWH
+t$ D;
+t$ L;t$(
+t$ L;|$
+t$ WATAUAVAW
+t$ WATAUAVAWH
+t$ WATAVAW
+t$ WATAWH
+t$ WAUAVAWfA
+t$ WAVAWH
+t$ WAVD
+t$ WH
+t$ f9A
+t$ fD
+t$ ff
+t$$E3
+t$(fA
+t$(fD
+t$(fD;s
+t$0A;
+t$0A^_
+t$0L+
+t$0fff
+t$8D+
+t$8H+
+t$8f;k
+t$8fE
+t$8u 
+t$@A_A^A\_
+t$@A_A^A]_
+t$@H=
+t$@M;
+t$HE3
+t$HI;
+t$Hff
+t$LE3
+t$PE3
+t$PLcT$`H
+t$PfE
+t$T9l$ 
+t$fA;
+t$pE3
+t$pI+
+t$pt+
+t$xuUH
+t=fff
+tGLcD$0L+
+t\fE+
+terminate
+tsg1z
+t{H=?
+u!H9q
+u+HcB
+u0HcH<H
+u9E;gH
+u<9|$`
+uZEeu
+udfD9
+umfE;
+uncompressed_fp_dng_load_raw()
+unfD;
+unpacked_load_raw()
+unpacked_load_raw_FujiDBP()
+unpacked_load_raw_fuji_f700s20()
+unpacked_load_raw_reversed()
+uqfE;
+uufD9W
+u~fD;
+v%d %dx%d
+v757-71
+v=Y]Bv
+vc5_dng_load_raw_placeholder()
+vector<T> too long
+w&t7A;
+w3MDx(<
+w6t(H
+wOt!-
+wStJ=
+wlt3H
+www.digicert.com1!0
+www.digicert.com1$0"
+wytfA
+x AVH
+x3f_load_raw()
+xRichu
+y(4Sz X
+yUE(rY
+z0u.A
+zAu?A
+zPuNA
+|$ A;
+|$ ATAUAVAWL
+|$ ATAVAWH
+|$ AVA
+|$ AVAW
+|$ AVD
+|$ AVH
+|$ E3
+|$ UATAUAVAWH
+|$ UH
+|$ fA
+|$$f;
+|$(A;
+|$(A^
+|$(D+
+|$(D;
+|$(L9|$`t
+|$(L;
+|$(fD;{
+|$0A_A^
+|$0fD;
+|$0fD;c
+|$0ff
+|$4E3
+|$4Hc
+|$4Mi
+|$@A^_^[
+|$@A_A^A]A\
+|$@D;
+|$@Hc
+|$@Lc
+|$@f;
+|$DLc
+|$HE3
+|$HHc
+|$PE3
+|$PL;
+|$PL;}
+|$XA;
+|$XD9
+|$`@x}
+|$hvJA
+|$pD+
+|$pD;
+|Lu?c
+}$H92u
+}Pfff
+~]D9l
+~qj#k"
+~rZ*{

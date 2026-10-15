@@ -1,0 +1,444 @@
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+      <requestedPrivileges>
+    </security>
+    <security>
+  </trustInfo>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+ GlobalSign Code Signing Root R450
+ H3E H3E
+!.Qq)S
+!This program cannot be run in DOS mode.
+!http://ocsp.globalsign.com/rootr30;
+"9<x:
+$f9D$
+%http://crl.globalsign.com/root-r3.crl0G
+&GlobalSign GCC R45 CodeSigning CA 2020
+&GlobalSign GCC R45 CodeSigning CA 20200
+&https://www.globalsign.com/repository/0
+'Chengdu Yiwo Tech Development Co., Ltd.0
+'Chengdu Yiwo Tech Development Co., Ltd.100.
+*tZD;
+-http://ocsp.globalsign.com/codesigningrootr450F
+.00cfg
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_filebuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_fstream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV_Generic_error_category@std@@
+.?AV_System_error@std@@
+.?AV_System_error_category@std@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVbad_cast@std@@
+.?AVerror_category@std@@
+.?AVexception@std@@
+.?AVfilesystem_error@filesystem@std@@
+.?AVios_base@std@@
+.?AVruntime_error@std@@
+.?AVsystem_error@std@@
+.?AVtype_info@@
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.data
+.data$r
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.pdata
+.rdata
+.rdata$r
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.xdata
+.xdata$x
+/0-0+
+/1(0&0$0"
+/http://secure.globalsign.com/cacert/root-r3.crt06
+0L1 0
+0http://crl.globalsign.com/codesigningrootr45.crl0V
+0i0Y1
+0}0i1
+1http://ocsp.globalsign.com/gsgccr45codesignca20200V
+200728000000Z
+20261013060635Z
+20402
+220801000000Z
+250507000000Z
+260520025500Z
+260805000000Z
+261013060635Z0+
+270521025500Z0
+290318000000Z0S1
+2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+3)k`8B_
+300728000000Z0Y1
+311109235959Z0b1
+371104235959Z0c1
+380114235959Z0i1
+3O~EN
+4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+5FjiT
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8i_A@g
+:0806
+:U|r*C
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:tMD:tMD:tMDh
+;D$Pu
+</assembly>
+<0:08
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+>.RwN7m
+>0<0:
+>http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=
+??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QEAA@PEAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z
+??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAA@XZ
+??0_Lockit@std@@QEAA@H@Z
+??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+??1?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UEAA@XZ
+??1_Lockit@std@@QEAA@XZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+??Bid@locale@std@@QEAA_KXZ
+?_Execute_once@std@@YAHAEAUonce_flag@1@P6AHPEAX1PEAPEAX@Z1@Z
+?_Fiopen@std@@YAPEAU_iobuf@@PEB_WHH@Z
+?_Getcat@?$codecvt@_WDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?_Gndec@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAPEA_WXZ
+?_Gninc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAPEA_WXZ
+?_Init@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEAPEA_W0PEAH001@Z
+?_Init@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXXZ
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+?_Pninc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAPEA_WXZ
+?_Syserror_map@std@@YAPEBDH@Z
+?_Winerror_map@std@@YAHH@Z
+?_Winerror_message@std@@YAKKPEADK@Z
+?_Xlength_error@std@@YAXPEBD@Z
+?_Xout_of_range@std@@YAXPEBD@Z
+?always_noconv@codecvt_base@std@@QEBA_NXZ
+?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
+?eback@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?egptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?epptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ
+?flags@ios_base@std@@QEBAHXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+?getloc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QEBA?AVlocale@2@XZ
+?good@ios_base@std@@QEBA_NXZ
+?gptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?id@?$codecvt@_WDU_Mbstatet@@@std@@2V0locale@2@A
+?in@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEA_W3AEAPEA_W@Z
+?out@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEB_W1AEAPEB_WPEAD3AEAPEAD@Z
+?pptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
+?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z
+?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ
+?setg@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEAAXPEA_W00@Z
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QEAAXH_N@Z
+?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JXZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ
+?uncaught_exception@std@@YA_NXZ
+?unshift@?$codecvt@_WDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEAD1AEAPEAD@Z
+?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z
+?width@ios_base@std@@QEAA_J_J@Z
+?width@ios_base@std@@QEBA_JXZ
+?xsgetn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEA_W_J@Z
+?xsputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MEAA_JPEB_W_J@Z
+@!z\0%=
+@.data
+@.reloc
+@.rsrc
+@0>0<
+@SVWH
+@UVWH
+A_A^A\_]
+A_A^_
+AreFileApisANSI
+Bng~B
+Chengdu100.
+CloseHandle
+CoCreateGuid
+CoInitialize
+CoTaskMemFree
+CoUninitialize
+CopyFileW
+CreateDirectoryW
+CreateFileW
+D$ E3
+D$ H9D$@v
+D$ H9D$Hw
+D$"E3
+D$0H-
+D$0H9
+D$0HcD$0E3
+D$8E3
+D$@tC
+D$HE3
+D$PH9D$ w
+D$XH9D$Hu"L
+D+tMD:tLD
+D;tMD
+DE;tMD
+DeleteFileW
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+Download firebase error, please check google-services.json file is exist.
+F:\share_lib\99_PublicLibrary\_HistoryVersion\FireBaseOnlineConfig\1.1\x64\Release\firebasefetch.pdb
+FindClose
+FindFirstFileExW
+GenuD
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetFileAttributesExW
+GetFileInformationByHandle
+GetFileInformationByHandleEx
+GetLastError
+GetModuleFileNameA
+GetModuleHandleW
+GetProcAddress
+GetProcAddress not find create && release function.
+GetSystemTimeAsFileTime
+GetTempPathW
+GlobalSign Root CA - R31
+GlobalSign nv-sa1)0'
+GlobalSign nv-sa1/0-
+GlobalSign0
+GlobalSign1
+H+D$(H;
+H+D$0H
+H+D$8H;
+H9D$ v
+H9D$(
+H9D$(v
+H9D$0s`H
+H9D$@t
+H9D$Pt
+H9D$PtdH
+H9D$Xs
+H9D$Xw[H
+H9D$`wZH
+H9D$hv
+H9D$hw
+H9D$pw|H
+H9D$pw~H
+H;D$0~2H
+H;D$Ht)H
+HE&tMDh
+HcD$$H
+HcL$ H
+IE0tMDh
+InitializeSListHead
+IsDebuggerPresent
+IsProcessorFeaturePresent
+JmZ6,/
+KERNEL32.dll
+Kp6^K
+L$ H+
+L$(H+
+L$(H3
+L$(H;
+L$0H3
+L$8H9H
+L$@H+
+L$@H3
+L$HH+
+L$HH3
+L$PH3
+L$XH+
+L$XH3
+L$XH9H
+L$XH;
+L$`H+
+L$`H;
+L$hH3
+L$pH3
+L$xH+
+L$xH3
+LE>tMD3
+LoadLibraryA
+M H1E
+MSVCP140.dll
+Ml2~]]
+MultiByteToWideChar
+NE8tMDh
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+O0M0A
+OE;tMDRich:tMD
+Pg,%MV
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+QueryPerformanceCounter
+RNjOT
+RSDSo
+Refresh firebase local config failed.
+RemoveDirectoryW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetErrorMode
+SetFileInformationByHandle
+SetLastError
+SetUnhandledExceptionFilter
+Sichuan1
+StringFromCLSID
+TerminateProcess
+U5@D<Y</
+UWATAVAWH
+UnhandledExceptionFilter
+Unknown exception
+VCRUNTIME140.dll
+WAVAWH
+WideCharToMultiByte
+X0V0T
+YI7xj
+\$ UH
+\$0I;
+\remote_config_data
+]J<0"0i3
+_4[Qh1c
+_CxxThrowException
+__C_specific_handler
+__CxxFrameHandler3
+___lc_codepage_func
+__p___argc
+__p___argv
+__p__commode
+__setusermatherr
+__std_exception_copy
+__std_exception_destroy
+__std_terminate
+_c_exit
+_callnewh
+_cexit
+_configthreadlocale
+_configure_narrow_argv
+_crt_atexit
+_exit
+_fseeki64
+_get_initial_narrow_environment
+_get_stream_buffer_pointers
+_initialize_narrow_environment
+_initialize_onexit_table
+_initterm
+_initterm_e
+_invalid_parameter_noinfo_noreturn
+_lock_file
+_register_onexit_function
+_register_thread_local_exe_atexit_callback
+_seh_filter_exe
+_set_app_type
+_set_fmode
+_set_new_mode
+_unlock_file
+`.rdata
+a:m1&
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+b wul
+bad allocation
+bad array new length
+bad cast
+copy file 2 new path error.
+create temp folder failed.
+create_config
+fclose
+fetch failed. program exception.
+fetch success.
+fflush
+fgetc
+fgetpos
+fgetwc
+file_size
+firebasefetch.exe
+firebaseonlineconfig.dll
+fputwc
+fsetpos
+fwrite
+generic
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0]
+https://update.easeus.com.cn/update/drw_cn/Yiwo_remote_config_data.data
+invalid string position
+jPeNS
+k0i0$
+kernel32.dll
+kxXgMt
+load firebaseonlineconfig dll failed, please check dll is exist...
+m0k0$
+malloc
+memmove
+memset
+n0l0-
+ntelA
+o84s[
+ole32.dll
+p\$x %
+release_config
+remote_config_data
+remove
+setvbuf
+string too long
+strrchr
+strstr
+system
+terminate
+tsg1z
+u0HcH<H
+ungetc
+ungetwc
+unknown error
+v=Y]Bv
+www.digicert.com1!0
+www.digicert.com1$0"
+x AVH
+|$ 'w
+|$8@s*
+|Lu?c
+~qj#k"
+~rZ*{

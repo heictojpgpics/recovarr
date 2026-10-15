@@ -1,0 +1,1638 @@
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+      <requestedPrivileges>
+    </security>
+    <security>
+   112
+   19
+   212
+   29
+  </trustInfo>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+ 0 oH
+ <Gu$H
+ <GuOIc
+ <Gu`H
+ <GuqH
+ A^A]A\_^
+ A^_^
+ A_A\_^[
+ A_A]A\_^
+ A_A^A\
+ A_A^A\_^
+ A_A^A]A\[
+ A_A^A]A\_
+ A_A^A]A\_^]
+ A_A^A]][
+ A_A^^
+ A_A^_
+ CompObj
+ EPSF-
+ FilH
+ GlobalSign Code Signing Root R450
+ H3E H3E
+ SummaryInformation
+!This program cannot be run in DOS mode.
+!http://ocsp.globalsign.com/rootr30;
+!t$=H,
+!t+=oq
+"9<x:
+"libopenshot":
+#+3;CScs
+#bML"
+$-lh5
+$.rsH
+$A9D$
+$BZh1
+$FUJI
+$GIF8
+$MThd
+$Rar!
+$Stuf
+$t`Hc{(A;
+$usta
+${\rt
+%!PS-Adobe
+%!PS-Adobe-
+%%EOF
+%04d:%02d:%02d %02d:%02d:%02d
+%PDF-
+%d:%d:%d %d:%d:%d
+%http://crl.globalsign.com/root-r3.crl0G
+%lld-%lld_
+%s_%lld-%lld_
+%s_%s
+%s_%s 
+%s_%s_%lld-%lld_
+&GlobalSign GCC R45 CodeSigning CA 2020
+&GlobalSign GCC R45 CodeSigning CA 20200
+&https://www.globalsign.com/repository/0
+'Chengdu Yiwo Tech Development Co., Ltd.0
+'Chengdu Yiwo Tech Development Co., Ltd.100.
+(_^][
+(t$ H
+)\ZEo^m/
+)_EaseUS
+)t$ D
+)t$ L
+-http://ocsp.globalsign.com/codesigningrootr450F
+-lh0-
+-lh5-
+-lh7-
+-lhd-
+-t!;E
+.00cfg
+.?AUIAtlMemMgr@ATL@@
+.?AUIAtlStringMgr@ATL@@
+.?AV?$CalculateSize_EndTag@VMOBIRawFileInfo@MOBIAnalyser@RawFormat_xjq@@_J@RawFormat_xjq@@
+.?AV?$IIterator@PEAVCRawFileInfo@@@@
+.?AV?$ListIterator@PEAVCRawFileInfo@@@@
+.?AV?$MemPoolT@$0FA@@tinyxml2@@
+.?AV?$MemPoolT@$0GI@@tinyxml2@@
+.?AV?$MemPoolT@$0HA@@tinyxml2@@
+.?AV?$MemPoolT@$0HI@@tinyxml2@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVAEPAnalyser@@
+.?AVC7ZIPAnalyser@@
+.?AVCADTSAnalyser@BruteForce@@
+.?AVCADTSRawFileInfo@BruteForce@@
+.?AVCAPEAnalyser@BruteForce@@
+.?AVCAPERawFileInfo@BruteForce@@
+.?AVCAsfAnalyser@BruteForce@@
+.?AVCAsfRawFileInfo@BruteForce@@
+.?AVCAtlException@ATL@@
+.?AVCAtlStringMgr@ATL@@
+.?AVCDWGAnalyser@BruteForce@@
+.?AVCDWGRawInfo@BruteForce@@
+.?AVCDXFAnalyser@BruteForce@@
+.?AVCDXFRawFileInfo@BruteForce@@
+.?AVCEPSAnalyser@BruteForce@@
+.?AVCFCPEvtAnalyser@BruteForce@@
+.?AVCFCPEvtFileInfo@BruteForce@@
+.?AVCFH11Analyser@BruteForce@@
+.?AVCFileAACAnalyzer@@
+.?AVCFileAIFAnalyzer@@
+.?AVCFileOggAnalyser@@
+.?AVCGPXAnalyser@@
+.?AVCGifAnalyser@BruteForce@@
+.?AVCGifFileInfo@BruteForce@@
+.?AVCHFPAnalyser@@
+.?AVCHIKAnalyser@@
+.?AVCJsonObject@neb@@
+.?AVCM2TSAnalyser@BruteForce@@
+.?AVCM2TSFileInfo@CM2TSAnalyser@BruteForce@@
+.?AVCMDBAnalyser@RawSpeed@@
+.?AVCMDBRawFileInfo@CMDBAnalyser@RawSpeed@@
+.?AVCMTSAnalyser@BruteForce@@
+.?AVCMTSFileInfo@CMTSAnalyser@BruteForce@@
+.?AVCNeedRawMgr@@
+.?AVCOSPAnalyser@@
+.?AVCPOSAnalyser@@
+.?AVCPTAnalyser@RawSpeed@@
+.?AVCPTFileInfo@CPTAnalyser@RawSpeed@@
+.?AVCRAWSearchController@@
+.?AVCRWAnalyser@Brance@@
+.?AVCRWRawFileInfo@CRWAnalyser@Brance@@
+.?AVCRawFileCellTestStorageDevice@@
+.?AVCRawFileInfo@@
+.?AVCVCFAnalyser@@
+.?AVCWin32Heap@ATL@@
+.?AVCZeroEndRawFileInfo@@
+.?AVCalculateSizeBase@RawFormat_xjq@@
+.?AVCommonRawAnalyser@RawFormat_xjq@@
+.?AVCommonRawFileInfo@CommonRawAnalyser@RawFormat_xjq@@
+.?AVDBXRawFileInfo@DbxAnalyser@RawSpeed@@
+.?AVDMGAnalyser@Brance@@
+.?AVDMGRawFileInfo@DMGAnalyser@Brance@@
+.?AVDbxAnalyser@RawSpeed@@
+.?AVFLVAnalyser@Brance@@
+.?AVFLVRawFileInfo@FLVAnalyser@Brance@@
+.?AVFile3DSAnalyser@@
+.?AVFile3GPAnalyser@@
+.?AVFileAUAnalyser@@
+.?AVFileBMPAnalyser@@
+.?AVFileCABAnalyser@@
+.?AVFileCHMAnalyser@@
+.?AVFileCPTAnalyser@@
+.?AVFileCRWAnalyser@@
+.?AVFileDMGAnalyser@@
+.?AVFileEMFAnalyser@@
+.?AVFileFCPEVENTAnalyser@@
+.?AVFileFLVAnalyser@@
+.?AVFileGZAnalyser@@
+.?AVFileHLPAnalyser@@
+.?AVFileHTMAnalyser@@
+.?AVFileICOAnalyser@@
+.?AVFileJPGAnalyser@@
+.?AVFileLZHAnalyser@@
+.?AVFileLowDocAnalyser@@
+.?AVFileMDBAnalyser@@
+.?AVFileMIDAnalyser@@
+.?AVFileMKVAnalyser@@
+.?AVFileMNYAnalyser@@
+.?AVFileMP3Analyser@@
+.?AVFileMPGAnalyser@@
+.?AVFileMRWAnalyser@@
+.?AVFileOLEAnalyser@@
+.?AVFileONEAnalyser@@
+.?AVFilePDFAnalyser@@
+.?AVFilePNGAnalyser@@
+.?AVFilePSDAnalyser@@
+.?AVFilePSPAnalyser@@
+.?AVFilePSTAnalyser@@
+.?AVFileRARAnalyser@@
+.?AVFileRIFFAnalyser@@
+.?AVFileRM_RMVBAnalyser@@
+.?AVFileRTFAnalyser@@
+.?AVFileSITAnalyser@@
+.?AVFileSVGAnalyser@@
+.?AVFileSWFAnalyser@@
+.?AVFileTARAnalyser@@
+.?AVFileTIFAnalyser@@
+.?AVFileTTFAnalyser@@
+.?AVFileWMFAnalyser@@
+.?AVFileWPDAnalyser@@
+.?AVFileX3FAnalyser@@
+.?AVFileZIPAnalyser@@
+.?AVGZAnalyzer@RawSpeed@@
+.?AVGZRawFileInfo@GZAnalyzer@RawSpeed@@
+.?AVHEICAnalyser@RawFormat_xjq@@
+.?AVHEICRawFileInfo@HEICAnalyser@RawFormat_xjq@@
+.?AVHTMLAnalyser@RawSpeed@@
+.?AVHTMLRawFileInfo@HTMLAnalyser@RawSpeed@@
+.?AVICompleteFileSystemSearchController@@
+.?AVIFileSystemSearchController@@
+.?AVIRawFileAnalyser@@
+.?AVISpecialRawFileAnalyser@@
+.?AVIStorageDevice@@
+.?AVJP2Analyser@RawFormat_xjq@@
+.?AVJP2RawFileInfo@JP2Analyser@RawFormat_xjq@@
+.?AVJpegAnalyzer@BruteForce@@
+.?AVJpegRawFileInfo@JpegAnalyzer@BruteForce@@
+.?AVLZHAnalyser@Brance@@
+.?AVLZHRawFileInfo@LZHAnalyser@Brance@@
+.?AVM1VAnalyser@RawFormat_xjq@@
+.?AVM1VRawFileInfo@M1VAnalyser@RawFormat_xjq@@
+.?AVMIDAnalyser@RawSpeed@@
+.?AVMIDRawFileInfo@MIDAnalyser@RawSpeed@@
+.?AVMOBIAnalyser@RawFormat_xjq@@
+.?AVMOBIRawFileInfo@MOBIAnalyser@RawFormat_xjq@@
+.?AVMP3Analyzer@BruteForce@@
+.?AVMP3RawFileInfo@MP3Analyzer@BruteForce@@
+.?AVMPGAnalyser@Brance@@
+.?AVMPGRawFileInfo@MPGAnalyser@Brance@@
+.?AVMXFAnalyser@Brance@@
+.?AVMXFRawFileInfo@MXFAnalyser@Brance@@
+.?AVMemPool@tinyxml2@@
+.?AVMovAnalyzer@BruteForce@@
+.?AVMovRawFileInfo@MovAnalyzer@BruteForce@@
+.?AVNew3DSAnalyser@RawSpeed@@
+.?AVNew3DSRawFileInfo@New3DSAnalyser@RawSpeed@@
+.?AVOGGAnalyser@Brance@@
+.?AVOGGRawFileInfo@OGGAnalyser@Brance@@
+.?AVONERawFileInfo@OneAnalyser@RawSpeed@@
+.?AVOfficeTagFromXML@Brance@@
+.?AVOleRawFileInfo@FileOLEAnalyser@@
+.?AVOneAnalyser@RawSpeed@@
+.?AVPNGAnalyser@RawSpeed@@
+.?AVPNGRawFileInfo@PNGAnalyser@RawSpeed@@
+.?AVPSPAnalyser@RawSpeed@@
+.?AVPSPRawFileInfo@PSPAnalyser@RawSpeed@@
+.?AVPdfAnalyzer@BruteForce@@
+.?AVPdfRawFileInfo@PdfAnalyzer@BruteForce@@
+.?AVRARAnalyser@RawSpeed@@
+.?AVRARRawFileInfo@RARAnalyser@RawSpeed@@
+.?AVRIFFAnalyser@Brance@@
+.?AVRIFFFileInfo@RIFFAnalyser@Brance@@
+.?AVRM_RMVBAnalyser@Brance@@
+.?AVRM_RMVBRawFileInfo@RM_RMVBAnalyser@Brance@@
+.?AVRTFAnalyser@RawSpeed@@
+.?AVRTFRawFileInfo@RTFAnalyser@RawSpeed@@
+.?AVSITAnalyser@RawSpeed@@
+.?AVSITRawFileInfo@SITAnalyser@RawSpeed@@
+.?AVSVGAnalyser@Brance@@
+.?AVSVGRawFileInfo@SVGAnalyser@Brance@@
+.?AVTARAnalyser@RawSpeed@@
+.?AVTARRawFileInfo@TARAnalyser@RawSpeed@@
+.?AVTiffAnalyzer@BruteForce@@
+.?AVTiffRawFileInfo@TiffAnalyzer@BruteForce@@
+.?AVWPGRawFileInfo@WpgAnalyser@RawSpeed@@
+.?AVWpgAnalyser@RawSpeed@@
+.?AVX3FAnalyser@Brance@@
+.?AVX3FRawFileInfo@X3FAnalyser@Brance@@
+.?AVXMLAttribute@tinyxml2@@
+.?AVXMLComment@tinyxml2@@
+.?AVXMLDeclaration@tinyxml2@@
+.?AVXMLDocument@tinyxml2@@
+.?AVXMLElement@tinyxml2@@
+.?AVXMLNode@tinyxml2@@
+.?AVXMLText@tinyxml2@@
+.?AVXMLUnknown@tinyxml2@@
+.?AVZIPRawFileInfo@FileZIPAnalyser@@
+.?AVbad_cast@std@@
+.?AVexception@std@@
+.?AVios_base@std@@
+.?AVtype_info@@
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.data
+.data$r
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.pdata
+.rdata
+.rdata$T
+.rdata$r
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.xmlf
+/0-0+
+/1(0&0$0"
+/http://secure.globalsign.com/cacert/root-r3.crt06
+0A^_]
+0A^_^
+0A^_^][
+0A_A\_
+0A_A^A\
+0A_A^A\_^
+0A_A^A]A\_
+0A_A^A]A\_^[
+0A_A^A]A\_^]
+0A_A^_
+0A_A^_^]
+0A_^]
+0I;G0u
+0L1 0
+0LcD$03
+0LcD$P
+0http://crl.globalsign.com/codesigningrootr45.crl0V
+0i0Y1
+0}0i1
+1009fff
+1014H
+15ACE
+1A26b
+1AY&f
+1fimtTH
+1http://ocsp.globalsign.com/gsgccr45codesignca20200V
+1wsHp
+200728000000Z
+20261013060650Z
+20402
+220801000000Z
+2333333
+250507000000Z
+260520025500Z
+260805000000Z
+261013060650Z0+
+270521025500Z0
+290318000000Z0S1
+2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+2d69f
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+300728000000Z0Y1
+311109235959Z0b1
+371104235959Z0c1
+380114235959Z0i1
+3O~EN
+4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+5FjiT
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+7LcD$8L
+7LcD$P
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+8A^A]^]
+8A^_^[
+8A_A^A]A\_^][
+8A_^][
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8_^][
+8i_A@g
+90u.9p
+99H;E
+9C s&H
+9C s>
+9C }&H
+9Mu+H
+:0806
+:Exifu
+:ITSF
+:LayerName>Title
+:U|r*C
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+;Cu,H
+;D$ u<
+;D$ uC
+;D$Du
+;D$PtH;D$8tBH
+;D$hu
+;D$lH
+;E(uKB
+;E9u"
+;KX~^H
+;K`~`H
+;S }0H
+;{u@@
+<!DOCTYPE HTML
+<![CDATA[
+</BiffProject>
+</assembly>
+</document>
+</gpx>
+</photoshop
+</svg>
+<0:08
+<1|5<9
+<>u#H
+<?xml version="
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xpacket end
+<BiffProject
+<HTML
+<HTML>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+<svg 
+<svg>
+<svg> 
+=Exifu
+=JFIFu
+=SECd
+=SECdu*H
+=TPE1t~=TIT2tV=APICt/=TYER
+>0<0:
+>http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+??0?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+??0_Lockit@std@@QEAA@H@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_istream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+??1_Lockit@std@@QEAA@XZ
+??5?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@AEAH@Z
+??5?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z
+??Bid@locale@std@@QEAA_KXZ
+?LogInfo@@YAXPEBDZZ
+?XAVC
+?_Execute_once@std@@YAHAEAUonce_flag@1@P6AHPEAX1PEAPEAX@Z1@Z
+?_Fiopen@std@@YAPEAU_iobuf@@PEBDHH@Z
+?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
+?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ
+?_Gninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXXZ
+?_Ipfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA_N_N@Z
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+?_XGetLastError@std@@YAXXZ
+?_Xbad_alloc@std@@YAXXZ
+?_Xbad_function_call@std@@YAXXZ
+?_Xinvalid_argument@std@@YAXPEBD@Z
+?_Xlength_error@std@@YAXPEBD@Z
+?_Xout_of_range@std@@YAXPEBD@Z
+?__ExceptionPtrAssign@@YAXPEAXPEBX@Z
+?__ExceptionPtrCopy@@YAXPEAXPEBX@Z
+?__ExceptionPtrCreate@@YAXPEAX@Z
+?__ExceptionPtrCurrentException@@YAXPEAX@Z
+?__ExceptionPtrDestroy@@YAXPEAX@Z
+?__ExceptionPtrRethrow@@YAXPEBX@Z
+?__ExceptionPtrToBool@@YA_NPEBX@Z
+?always_noconv@codecvt_base@std@@QEBA_NXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEBA?AVlocale@2@XZ
+?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z
+?in@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z
+?out@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z
+?read@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@PEAD_J@Z
+?sbumpc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ
+?seekg@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@_JH@Z
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z
+?sgetc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+?snextc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?tellg@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA?AV?$fpos@U_Mbstatet@@@2@XZ
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+?uncaught_exception@std@@YA_NXZ
+?unshift@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEAD1AEAPEAD@Z
+?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+@ H+}
+@ fA9
+@!z\0%=
+@.data
+@.reloc
+@.rsrc
+@0>0<
+@8,8u
+@8-U~
+@848u
+@8<+u
+@8t$Pt
+@A^A\]
+@A^_^
+@A_A]A\_^[]
+@A_A^A\
+@A_A^A\_^
+@A_A^A\_^[]
+@A_A^A]
+@A_A^A]A\]
+@A_A^A]A\_
+@A_A^A]A\_^[
+@A_A^A]A\_^]
+@A_A^_
+@A__[
+@SATAUAVAWH
+@SHcA
+@SUAUAVAWH
+@SUAVAWH
+@SUVAWH
+@SUVWATAUAVAWH
+@SUVWATAUAVH
+@SUVWATAVAWH
+@SUVWAUAVAWH
+@SUVWAVH
+@SUVWH
+@SVWATAUAVAWH
+@SVWATAVH
+@SVWAUAW
+@SVWAVH
+@SVWH
+@SWAVH
+@SWAWH
+@UATAUAVAWH
+@UAUAVAWH
+@UAVAWH
+@UAWH
+@USVAUH
+@USVWATAUAVAWH
+@USVWATAVAWH
+@USVWAUAVAWH
+@USVWAUH
+@USVWAVAWH
+@USVWAVH
+@USWAWH
+@UVATAUAVAWH
+@UVAUAVH
+@UVAUH
+@UVAWH
+@UVWATAUAVAWH
+@UVWAVAWH
+@UVWAWH
+@UVWH
+@UWAUAVH
+@UWAVH
+@VATH
+@VWAVH
+@WATH
+@WAVAWH
+@WAVH
+A82u,H
+A9@ vfM
+A9@ ~fM
+A9A s=I
+A9A }=I
+A9B A
+A9ELv
+A;Eps]f
+A;M(v
+A;P A
+AC103
+AC10f
+ACCDB
+AGEXf
+APETAGEX
+APPLE
+ATAVAWH
+ATAWH
+AUAVAWH
+AUAVH
+AXHc8H
+A]A\]
+A]_^[]
+A^A\_^[
+A^A]A\_^][
+A^A]_]
+A^A]_^]
+A^_^[
+A^_^[]
+A^_^][
+A_A]_^[
+A_A^A\
+A_A^A\_]
+A_A^A\_^
+A_A^A\_^[]
+A_A^A\_^][
+A_A^A]
+A_A^A]A\]
+A_A^A]A\^]
+A_A^A]A\_
+A_A^A]A\_^[
+A_A^A]A\_^[]
+A_A^A]A\_^]
+A_A^A]A\_^][
+A_A^A]_]
+A_A^A]_^
+A_A^A]_^[]
+A_A^A]_^][
+A_A^]
+A_A^_
+A_A^_^[]
+A_A^_^]
+A__[]
+A__^]
+Adobe Illustrator
+Author
+Available    page   files:%4I64d MB
+Available physical memory:%4I64d MB
+B H;E
+B(H;E
+B0H;E
+B0I9@0I
+B:<8t
+B:<8u
+BEGIN:VCARD
+Bng~B
+C H9E
+C0;C,s
+C0H;G0u
+C4;C,A
+C@H9C
+C@H9F@
+C@H9G@
+C@I9F@
+CANON
+CL$PH
+CL$`H
+CL$hH
+CMT1II*
+COMMON
+COOLPIX P
+CPT7FILE
+CPT8FILE
+CPT9FILE
+CT$HL
+CT$XL
+CT$`L
+CT$hL
+CT$pL
+C\$xL
+CanonCRMiPad 
+Chengdu100.
+CloseHandle
+Cp;Cx~
+CreateEventW
+CreationDate
+Creator
+D$ %PDF
+D$ <svgI
+D$ @2
+D$ @f
+D$ E3
+D$ FWI
+D$ H;
+D$ L;
+D$ MSISA
+D$ `3
+D$ tAL
+D$ usta
+D$$AM DH
+D$$ID
+D$(<svgf
+D$(E3
+D$(I+
+D$(L+
+D$(TAG
+D$(atabH
+D$(f;D
+D$,TAG
+D$,ase
+D$0  0
+D$0</htH
+D$0<svgf
+D$0A;
+D$0E3
+D$0H;
+D$0HcH
+D$0I+
+D$0L;
+D$0heifD
+D$4ml>
+D$8<svgf
+D$8E3
+D$8H+
+D$8L;
+D$8WEBB
+D$8ff
+D$8obj
+D$<> 
+D$<AIKE
+D$@ 2pjH
+D$@9h
+D$@;D$ u
+D$@<svgf
+D$@HcH
+D$@MTrkL
+D$@c2pjH
+D$@ff
+D$H<svgf
+D$HE3
+D$HH;
+D$HSECd
+D$Hkoly
+D$Lvg>
+D$P xpjH
+D$P7z
+D$PE3
+D$PH9D$Htr
+D$PH;
+D$PHcH
+D$PRIFX
+D$PStuff
+D$Pc2pjH
+D$T"id"f
+D$TfI
+D$X: H
+D$XCW
+D$XH+
+D$XH;
+D$` mpjH
+D$`E3
+D$`H;
+D$`HcH
+D$`L;
+D$`c2pjH
+D$hH;
+D$hIIU
+D$p  0
+D$pH;
+D$tEOF
+D$xH+
+D$|H;E
+D)e`A+
+D8$.u
+D8$0u
+D8$8u
+D8$:u
+D86u)H
+D8<0A
+D8<:u
+D8T$`
+D9=$=
+D9A }
+D9OHD
+D9|$xv
+D;C }0H
+DCS Pro SLR
+DIegI
+DIkaI
+DIlpI
+DIpaI
+DItaI
+DSC-R1
+DSLR-A100
+DeleteCriticalSection
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+DosDateTimeToFileTime
+E =H,
+E'star
+E)eHL
+E+txref
+E7star
+E8$6u
+E80u,H
+E9H s
+E:\DRW\_drw_main\DRWIntelligentScan\bin\Release\x64\RAWSearchDLL.pdb
+E;txre
+EH  0
+EH!BDNH
+EH%PDFH
+EH.RMFH
+EH.sndH
+EH8BPSH
+EH<?xmH
+EH<svgH
+EHAC10H
+EHBZh1H
+EHCPT7H
+EHCPT8H
+EHCPT9H
+EHFORMH
+EHFOVbH
+EHFUJIH
+EHGIF8H
+EHII*
+EHIIROH
+EHIIRSH
+EHIIU
+EHITSFH
+EHJMF6H
+EHMAC H
+EHMMORH
+EHMSCFH
+EHMThdH
+EHOggSH
+EHPainH
+EHRIFFH
+EHRar!H
+EHSQLiH
+EHStufH
+EHmscfH
+EHwpg
+EH{\rtH
+EPSON
+ERROR : Unable to initialize critical section in CAtlBaseModule
+EUCreateRAWSearcher
+EUCreateRAWSearcherForCellTest
+EUGetAnalyserList
+EUGetAnalyserMap
+EUGetAnalyserMultimap
+Element nesting is too deep.
+EnterCriticalSection
+Error=%s ErrorID=%d (0x%x) Line number=%d
+Escher
+Exception occurred.GetErrorCode
+Exception:OFFICE AnalyzeTag(%d)
+Exception:OFFICE Depress
+Exception:ZIP CalcRawSize(%d)
+Exception:ZIP CalcRawSize(%d), office?%d
+Exception:ZipInfo(%d)
+E|A;Epr
+F@H9C@
+FCPEVENT
+FFIRu H
+FUJIFILMCCD-RAW 
+Failed to alloc 0x%08x bytes
+Failed to query memory status.
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+Filter
+Forms
+G@H9B@
+G@H9C@
+G@H9E
+GIF8f
+GOPRO
+GenuD
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetIMovMp4Repair
+GetLastError
+GetMainTag tag = %d, len = %u, size = %u
+GetMainTag tag = %d, len = %u,offset = %u
+GetModuleFileNameA
+GetModuleHandleW
+GetPrivateProfileSectionA
+GetProcAddress
+GetProcessHeap
+GetRawUserInfoMap
+GetSubIFDTag tag = %d, len = %u, size = %u
+GetSubIFDTag tag = %d, len = %u,offset = %u
+GetSystemTimeAsFileTime
+GlobalMemoryStatusEx
+GlobalSign Root CA - R31
+GlobalSign nv-sa1)0'
+GlobalSign nv-sa1/0-
+GlobalSign0
+GlobalSign1
+GoPro
+H UVWATAUAVAWH
+H*0"ZOW
+H9C s&H
+H9C }&H
+H9C }*H
+H9D$P
+H9H }.
+H9L$x|
+H9P s
+H9Ppr
+H9Q s
+H9wht?
+H;Axu
+H;C s2H
+H;D$(u
+H;D$0u
+H;D$<u
+H;S r
+H;S s0H
+H;S s2H
+H;\$Ht,
+H;\$`
+H;\$`uXH
+H;\$pu[H
+H;]pu
+H;|$`
+H;|$`u@H
+H;|$`ukH
+H;|$puCH
+HASSELBLAD
+HA^A]_^
+HA_A^A]A\_^][
+HA_A^_^][
+HEAPARCH
+HEAPCCDR
+HEAPTIFP
+H_^][
+HcL$(H
+HcL$,L
+HcT$,I
+HeapAlloc
+HeapDestroy
+HeapFree
+HeapReAlloc
+HeapSize
+Hk@pdH9C
+HkHpd
+Hkxpd
+HpH9K
+HpH;K
+HwpSummaryInformation
+I9@ vfM
+I9A s=I
+I9B A
+I9Jhs
+I;?uI
+INDXH
+IiGM>nw
+Illegal format code in EXIF dir
+Illegal pointer offset value in EXIF.
+Illegal subdirectory link
+Illegally sized directory
+Illustrator
+Incorrect Exif header
+Index/MasterSlide-
+Index/ObjectContainer.iwa
+Index/Slide-
+Index/Slide.iwa
+Index/Slide1.iwa
+Index/Slide2.iwa
+Index/Slide3.iwa
+Index/Tables/DataList.iwa
+Index/Tables/Tile.iwa
+InitializeConditionVariable
+InitializeCriticalSection
+InitializeCriticalSectionAndSpinCount
+InitializeCriticalSectionEx
+InitializeSListHead
+Insta360
+Invalid Exif alignment marker.
+Invalid Exif start (1)
+IsDebuggerPresent
+IsProcessorFeaturePresent
+J940u+
+JMF63
+JmZ6,/
+KERNEL32.dll
+KODAK
+L$ H+
+L$ H;
+L$ I;
+L$ SUVWAVAWH
+L$ SUVWAVH
+L$ SUVWH
+L$ SVWH
+L$ SWH
+L$ UAVH
+L$ UVAWH
+L$ UVWATAUAVAWH
+L$(H3
+L$(M+
+L$(Mc
+L$09w
+L$0H3
+L$0H;
+L$4D;N
+L$8H+
+L$8H3
+L$8H;
+L$8I;
+L$@H3
+L$@H;
+L$Df;H
+L$HH3
+L$HfD
+L$PH3
+L$PI+
+L$XH3
+L$XH;
+L$`E3
+L$`H3
+L$`Hc
+L$`I;
+L$`fD
+L$hH3
+L$pH3
+L$xH3
+L+\$P
+L9Ahs
+L9|$H
+L; u4H
+L;8u4H
+L;D$P
+L;d$X
+LEICA
+LayerText>
+LcC\H
+LcCdH
+LeaveCriticalSection
+LoadLibraryA
+Lost Name File (
+M H1E
+MAMIYA
+MH;H(s
+MH;H8s
+MSVCP140.dll
+MediaPool/Master/MpFolder.xml
+Memory status:
+ModDate
+MultiByteToWideChar
+N(H9N u
+NIKON
+NJ2"v
+NUMBERS
+NativeContent_MAIN
+NfE9 u
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+O*9y]
+O0M0A
+OEBPS/Text/chapter
+OLYMPUS
+OM DIGITAL SOLUTIONS
+OPS/chapter1.html
+OZw3(?
+ObjectPool
+Objects
+OutputDebugStringW
+P fA;
+PAGES
+PANASONIC
+PA^A\]
+PA^^]
+PA^_^
+PA^_^][
+PA_A]^
+PA_A^A\_[
+PA_A^A\_^][
+PA_A^A]A\_^]
+PA_A^_^[
+PA__]
+PBEWu
+PENTAX
+PainH
+PerfectOffice_MAIN
+PerfectOffice_OBJECTS
+Pg,%MV
+Pictures
+PowerPoin
+PowerPoint Document
+ProcessOn Schema File
+Producer
+ProjectFolder/Anon/
+ProjectFolder/project_info.json
+ProjectInformation
+PropData
+PubLog.dll
+Q(uKD
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+Qkkbal
+QueryPerformanceCounter
+Quill
+QuillSub
+R1h58
+RAW D
+RAWSearchDLL.dll
+RNjOT
+RaiseException
+Reports
+ResetEvent
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SAMSUNG
+SQLite format 3
+SUVWATAUAVAWH
+SUVWATAVAWH
+SUVWH
+SVATH
+SVWATAUAVAWH
+SVWAVAWH
+SVWAVH
+SWATAVAWH
+Scene
+SetEvent
+SetUnhandledExceptionFilter
+Sichuan1
+SleepConditionVariableCS
+Stuff
+SuDf9
+SusH;
+Suspicious offset of first IFD value
+T$$Hc
+T$0H9T$8t
+T$8H+
+T$@E3
+T$HH+
+T$PE3
+T$XH;
+TUUUUUU
+TerminateProcess
+TiffAnalyzer GetMainTag tag = %d, len = %u, size = %u
+TiffAnalyzer GetMainTag tag = %d, len = %u,offset = %u
+Title
+Total   page    files:%4I64d MB
+Total physical memory:%4I64d MB
+U5@D<Y</
+UATAUAVAWH
+UATAUI
+UATAVH
+UAVAWH
+USVWATAUAVAWH
+USVWATAUAWH
+USVWATAVAWH
+UVAVH
+UVWATAUAVAWH
+UVWAVAWH
+UWATAVAWH
+UWAUAVAWH
+UWAVH
+UWAWH
+Undefined rotation value
+UnhandledExceptionFilter
+Unknown exception
+Ut{fA
+VAUAWH
+VAVAWH
+VBAProject
+VCARL
+VCPROJ
+VCRUNTIME140.dll
+VUUUUUUUH
+VWATAUAVH
+VWATAUAWH
+VWATAVAWH
+VWAUAVAWH
+VWAUAVH
+VWAVH
+V_:X1:
+Video Stream
+VisioDocument
+WATAUAVAWH
+WATAUAVAWHcq@M
+WAVAWH
+WS2_32.dll
+WaitForSingleObjectEx
+WakeAllConditionVariable
+WideCharToMultiByte
+WordDocument
+Workbook
+X0V0T
+XAVCmp4
+XA_A^A]A\_^[]
+XMIND
+XMLDeclaration value=%s
+XMLElement name=%s
+XML_CAN_NOT_CONVERT_TEXT
+XML_ELEMENT_DEPTH_EXCEEDED
+XML_ERROR_EMPTY_DOCUMENT
+XML_ERROR_FILE_COULD_NOT_BE_OPENED
+XML_ERROR_FILE_NOT_FOUND
+XML_ERROR_FILE_READ_ERROR
+XML_ERROR_MISMATCHED_ELEMENT
+XML_ERROR_PARSING
+XML_ERROR_PARSING_ATTRIBUTE
+XML_ERROR_PARSING_CDATA
+XML_ERROR_PARSING_COMMENT
+XML_ERROR_PARSING_DECLARATION
+XML_ERROR_PARSING_ELEMENT
+XML_ERROR_PARSING_TEXT
+XML_ERROR_PARSING_UNKNOWN
+XML_NO_ATTRIBUTE
+XML_NO_TEXT_NODE
+XML_SUCCESS
+XML_WRONG_ATTRIBUTE_TYPE
+XingD
+YI7xj
+[-&LMb#{'
+[Content_Types].xml
+\$ UATAUAVAWH
+\$ UH
+\$ UVW
+\$ UVWATAUAVAWH
+\$ UVWAUAVH
+\$ UVWH
+\$ WAVAWH
+\$ WH
+\$(H;
+\$(rpH
+\$0H;
+\$0fff
+\$@E3
+\$@H9
+\$@H;
+\$@t!
+\$HE3
+\$PH;
+\$PH=
+\$PHc
+\$Pt!
+\$`H=
+\$hE3
+\$pE2
+\$pI;
+\EUVideoRepair.dll
+] H;](
+]J<0"0i3
+^oEZ_
+_ H9O
+_4[Qh1c
+_CxxThrowException
+__C_specific_handler
+__CxxFrameHandler3
+__RTDynamicCast
+__acrt_iob_func
+__std_exception_copy
+__std_exception_destroy
+__std_terminate
+__std_type_info_destroy_list
+__stdio_common_vfprintf
+__stdio_common_vsnprintf_s
+__stdio_common_vsprintf
+__stdio_common_vsprintf_s
+__stdio_common_vsscanf
+_cexit
+_configure_narrow_argv
+_crt_atexit
+_errno
+_execute_onexit_table
+_fseeki64
+_get_stream_buffer_pointers
+_initialize_narrow_environment
+_initialize_onexit_table
+_initterm
+_initterm_e
+_invalid_parameter_noinfo
+_invalid_parameter_noinfo_noreturn
+_localtime64
+_lock_file
+_mbslwr_s
+_mbsupr_s
+_memicmp
+_purecall
+_register_onexit_function
+_rels/.rels
+_seh_filter_dll
+_splitpath_s
+_strnicmp
+_unlock_file
+_wcsnicmp
+`(@SVWATAWH
+`.rdata
+`A]^]
+`A_A^A]A\_^[
+`A_A^A]A\_^]
+`A_A^]
+`A_A^_^]
+a:m1&
+aNUMBERS
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-multibyte-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+application/epub+
+application/hwp+zip
+application/vnd.oasis.opendocument.presentation
+application/vnd.oasis.opendocument.spreadsheet
+application/vnd.oasis.opendocument.text
+arfmth
+atdut
+atemtp
+b wul
+bad cast
+c2pjH
+cgN6"
+coemtx
+config/RawConfig.ini
+config/config.ini
+content.xml
+content/riffData.cdr
+count
+cp:coreProperties
+cp:lastModifiedBy
+d$ E;
+d$XtPH
+d$xE3
+d$xH=
+dc:creator
+dc:date
+dc:title
+dcterms:created
+dcterms:modified
+debug_raw
+dhvmt=
+diuut
+docProps
+docProps/app.xml
+docProps/core.xml
+effffff
+ewh/?y
+f9B"u
+f9C`v
+f9Cbv
+f;B:u
+f;D$ uK
+f;D$$u
+f;D$(
+f;D$,ua
+f;D$0uef;D$(u
+f;D$T
+f;D$Tu
+f;D$X
+f;D$xu#
+f;L$,
+fA;DH
+fA;DI
+fA;DT
+fA;L@
+fA;LA
+fB9T0
+fD;A s
+false
+fclose
+fflush
+fgetc
+fgetpos
+filter_generalraw
+fnisff
+fputc
+fread
+fsetpos
+ftyp3g2a
+ftyp3gp4
+ftyp3gp5
+ftypM4A 
+ftypM4V 
+ftypf4v 
+ftypheic
+ftypheix
+ftyphevc
+ftyphevx
+ftypisom
+ftypmif1
+ftypmmp4
+ftypmp41
+ftypmp42
+ftypmsf1
+ftypu'I
+fwrite
+h(v(I
+hA_A^A]]
+hA_A^][
+header
+header crc mismatch
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0]
+iPhone 
+incorrect data check
+incorrect header check
+incorrect length check
+index.apxl
+invalid bit length repeat
+invalid block type
+invalid code lengths set
+invalid distance code
+invalid distance too far back
+invalid distances set
+invalid literal/length code
+invalid literal/lengths set
+invalid map<K, T> key
+invalid stoi argument
+invalid stored block lengths
+invalid string position
+invalid string_view position
+invalid window size
+isalpha
+isdigit
+isspace
+jPeNS
+k0i0$
+kartt
+kernel32.dll
+kxXgMt
+l$ AVH
+l$ E;
+l$ WH
+l$0H+
+l$@E2
+l$Vu,
+l$Xff
+l$`L;
+l6qnk
+list<T> too long
+m0k0$
+malloc
+manifest.json
+map/set<T> too long
+memchr
+memcmp
+memcpy
+memmove
+memset
+meta.xml
+meta:creation-date
+meta:initial-creator
+metaH
+metaI
+mimetype
+mj>zjZ
+n0l0-
+nidpt5
+nikon
+ntelA
+nu2\j
+numbers/
+o84s[
+office:document-meta
+office:meta
+only_common
+op PH
+pA\^[
+pA_A^A]A\_^[
+pA_A^A]A\_^]
+pA_A^_^]
+p\$x %
+ppt/_rels/presentation.xml.rels
+ppuBff
+prase json string error at 
+project.xml
+r=SECd
+raw_signs.json
+rels/_rels.xml
+rels/page1_rels.xml
+search_end_min_len
+setvbuf
+signs
+stoi argument out of range
+strchr
+strcmp
+string too long
+strncmp
+strncpy
+strrchr
+strstr
+strtol
+t ShA
+t ShH
+t$ AVH
+t$ E3
+t$ Ic
+t$ UH
+t$ UWAVH
+t$ WATAUAVAWH
+t$ WATAWH
+t$ WAVAWH
+t$ WH
+t$(L+
+t$0H+
+t$0H=
+t$8A_A^_
+t$8E3
+t$8H+
+t$8I+
+t$8I9vh
+t$@L;l$`}+L
+t$HA_A^A]A\_
+t$HH;
+t$HM;
+t$PL;
+t$`f90uk
+t$hH+K
+t$hI;
+t$hMc
+t(=PK
+t-=PK
+t0<-u
+t0<>u
+t0<?u
+t0=PK
+t8f9J
+t?L+k
+tE=PK
+tOx?I
+tR=PK
+tUH;Y |O
+t[Hc{(A;
+t`H+_
+taHc{(
+tableactiveactive
+tdHc|$ H
+terminate
+ti=PK
+title":
+tolower
+too many length or distance symbols
+toupper
+tsg1z
+tslitvJ
+tuD9d;
+txref
+u f9p
+u!9y s
+u#H9P s
+u#I;A
+u$HcO8A
+u%04x
+u(McD$
+u*H;A
+u+H;A
+u,f9J&u&A
+u-H;Q
+u.9P }
+u1fA;
+u4fD;
+u7D9d;
+u;H;P
+u=A8x
+uVA8P
+u^M+e
+u`fF9T
+unKnown
+ungetc
+unknown
+unknown compression method
+unknown header flags set
+urH9X }
+ustar
+ustar  
+u}fF9
+v=Y]Bv
+vQO+t
+vector<T> too long
+voomL
+voomu
+w+OQvr
+wcsncmp
+wcsstr
+wn>Jj
+word/
+word/_rels/document.xml.rels
+word/theme/theme1.xml
+www.digicert.com1!0
+www.digicert.com1$0"
+x AVH
+xA]^[]
+xA_A\
+xA_A^A]A\_^][
+xevmtE
+xl/_rels/workbook.xml.rels
+xl/drawings
+xl/drawings/drawing1.xml
+xl/workbook
+xl/worksheets/
+xl/worksheets/sheet.xml
+xml version="1.0" encoding="UTF-8"
+xmlns="urn:xmind
+xmp:CreatorTool=
+xreff
+xsd/MindManagerApplication.xsd
+y %PDFs
+y II*
+y IIROs
+y IIU
+z( EMFu"3
+z+u)E
+{ %PDFv0H
+{ II*
+{ IIROv0H
+{ IIU
+{"diagram":
+{Corel Binary Meta File}
+|$ ATAVAWH
+|$ AVAWL
+|$ AVH
+|$ UATAUAVAWH
+|$ UH
+|$0E3
+|$0H+
+|$0H;
+|$0ff
+|$0hD
+|$0zE
+|$8Gu
+|$8H;
+|$@H+
+|$@H;
+|$@I;
+|$AE2
+|$Pf;E
+|$XI+
+|$`H=
+|$xE3
+|Lu?c
+}/D9@
+}`A;M
+~qj#k"
+~rZ*{

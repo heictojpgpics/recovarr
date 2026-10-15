@@ -1,0 +1,894 @@
+                          
+         (((((                  H
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      (                          
+      </requestedPrivileges>
+      <requestedPrivileges>
+    </security>
+    <security>
+  </trustInfo>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ "vid" "
+ Base Class Array'
+ Base Class Descriptor at (
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+ GlobalSign Code Signing Root R450
+ SVW3
+ Type Descriptor'
+ delete
+ delete[]
+ new[]
+ o0zA
+!This program cannot be run in DOS mode.
+!http://ocsp.globalsign.com/rootr30;
+","OS":"
+","Test_id":"
+","Timezone":"
+"9<x:
+"B <1=
+"Country":"
+#.X'=
+%02d:%02d
+%S#[k
+%http://crl.globalsign.com/root-r3.crl0G
+%s %s %s %s (%d.%d.%d.%d.%d)
+&GlobalSign GCC R45 CodeSigning CA 2020
+&GlobalSign GCC R45 CodeSigning CA 20200
+&https://www.globalsign.com/repository/0
+'Chengdu Yiwo Tech Development Co., Ltd.0
+'Chengdu Yiwo Tech Development Co., Ltd.100.
+(&A)...
+('8PW
+(null)
+)O6530./21+*-,4#4PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+-http://ocsp.globalsign.com/codesigningrootr450F
+-jd_;
+.00cfg
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVbad_exception@std@@
+.?AVexception@std@@
+.?AVlength_error@std@@
+.?AVlogic_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.data
+.data$r
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.rdata
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rsrc
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$mn
+.text$x
+.xdata$x
+/0-0+
+/1(0&0$0"
+/SendInfo "Window" "Install" "Activity" "Info_Userinfo" "Attribute" "
+/http://secure.globalsign.com/cacert/root-r3.crt06
+0L1 0
+0http://crl.globalsign.com/codesigningrootr45.crl0V
+0i0Y1
+0}0i1
+1#IND
+1#INF
+1#QNAN
+1#SNAN
+1http://ocsp.globalsign.com/gsgccr45codesignca20200V
+200728000000Z
+20261013060557Z
+20402
+220801000000Z
+250507000000Z
+260520025500Z
+260805000000Z
+261013060557Z0+
+270521025500Z0
+290318000000Z0S1
+2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+3+fc1Te-
+300728000000Z0Y1
+311109235959Z0b1
+32-bit
+371104235959Z0c1
+380114235959Z0i1
+3O~EN
+4h`YA
+4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+5FjiT
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+5ineI
+5ntel
+63[4]5mm]5\]m]mm5\mm5555555\\\5\\\5m\55\\5ed:
+64-bit
+700PP
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+8] j0
+8i_A@g
+9E WW
+9p u"
+:0806
+:U|r*C
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+;t$,v-
+</assembly>
+<0:08
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+=vu'T
+=vu'Tst
+=vu'Ttt
+=vuRich
+>0<0:
+>http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=
+?5Wg4p
+?Y_G5
+?tanh
+@!z\0%=
+@.data
+@0>0<
+@_^[]
+@b;zO]
+@f91t
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ADVAPI32.dll
+Aapi-ms-win-appmodel-runtime-l1-1-1
+Aapi-ms-win-core-fibers-l1-1-1
+Advanced Server
+Aja-JP
+April
+August
+BBF;u
+BC .=
+BVj(j
+Bng~B
+CONOUT$
+Cf93u
+Chengdu100.
+CloseHandle
+CommandLineToArgvW
+Compute Cluster Edition
+Copyright (C) 2008
+CorExitProcess
+CreateFileW
+CreateProcessW
+Datacenter Edition
+Datacenter Server
+December
+DecodePointer
+DeleteCriticalSection
+DigiCert Assured ID Root CA0
+DigiCert Inc1
+DigiCert Trusted Root G40
+DigiCert, Inc.1;09
+DigiCert, Inc.1A0?
+E:\AWork\_drw_main\SetupUE\Release\SetupUE.pdb
+EncodePointer
+EnterCriticalSection
+Enterprise Edition
+ExitProcess
+F2jgYf;
+F4TdA
+F4\dA
+F4^[]
+February
+FindClose
+FindFirstFileExW
+FindNextFileW
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+FlushFileBuffers
+FreeEnvironmentStringsW
+FreeLibrary
+Friday
+G;~8u
+GetACP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+GetConsoleCP
+GetConsoleMode
+GetCurrentPackageId
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetEnvironmentStringsW
+GetFileType
+GetLastError
+GetLocaleInfoW
+GetModuleFileNameW
+GetModuleHandleExW
+GetModuleHandleW
+GetNativeSystemInfo
+GetOEMCP
+GetProcAddress
+GetProcessHeap
+GetStartupInfoW
+GetStdHandle
+GetStringTypeW
+GetSystemInfo
+GetSystemMetrics
+GetSystemTimeAsFileTime
+GetTimeZoneInformation
+GetVersionExW
+GlobalSign Root CA - R31
+GlobalSign nv-sa1)0'
+GlobalSign nv-sa1/0-
+GlobalSign0
+GlobalSign1
+HH:mm:ss
+HeapAlloc
+HeapFree
+HeapReAlloc
+HeapSize
+Home Edition
+Ht$;}
+I3')+*+)))*))()*+++,6J!54 CBA
+InfoForSetup.exe
+InitializeCriticalSectionAndSpinCount
+InitializeCriticalSectionEx
+InitializeSListHead
+IsDebuggerPresent
+IsProcessorFeaturePresent
+IsValidCodePage
+I{xE@
+J:_aH
+JEEEEEEEEEEFC
+JEEEEEEEEEEFD
+JEFEEEEEEEEEB
+JHHGGGGGGGGHI
+JJIIIIJIIIIJJ
+January
+JmZ6,/
+KERNEL32.dll
+LCMapStringEx
+LCMapStringW
+LeaveCriticalSection
+LoadLibraryA
+LoadLibraryExW
+LocalFree
+LocaleNameToLCID
+MM/dd/yy
+March
+Microsoft Windows 10
+Microsoft Windows 2000
+Microsoft Windows 7
+Microsoft Windows 8
+Microsoft Windows 8.1
+Microsoft Windows NT
+Microsoft Windows Server 2003
+Microsoft Windows Server 2003 R2
+Microsoft Windows Server 2008
+Microsoft Windows Server 2008 R2
+Microsoft Windows Server 2012
+Microsoft Windows Server 2012 R2
+Microsoft Windows Server 2016
+Microsoft Windows Storage Server 2003
+Microsoft Windows Vista
+Microsoft Windows XP
+Monday
+MultiByteToWideChar
+NAN(IND)
+NAN(SNAN)
+NETAPI32.dll
+NetApiBufferFree
+NetWkstaGetInfo
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+November
+Nw~ytMMMMMMUbbrrrrrxxxxxxxxrriUMMMMMMMMMUuzt
+O%JEEEEEEEEEFFB
+O(@>=77A779?<8;$O' 
+O0M0A
+October
+OjlZ;
+PP9E u:PPVWP
+PPPPP
+PPPPPPPP
+PPPPPPPPPPPPPPPPPKMNNNNNNNNNNOLO
+PPPPPWS
+Pg,%MV
+Professional
+QQSVWd
+QQSWj0j@
+Qh XA
+QhlXA
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+QueryPerformanceCounter
+RNjOT
+RaiseException
+RegCloseKey
+RegOpenKeyExW
+RegQueryValueExW
+Rh)u@
+RtlGetNtVersionNumbers
+RtlUnwind
+SHELL32.dll
+SOFTWARE\EASEUS\DRW\Version
+SSVWh 
+SVWUj
+SVWf9
+Saturday
+September
+Server
+Server 4.0
+Server 4.0, Enterprise Edition
+SetFilePointerEx
+SetLastError
+SetStdHandle
+SetUnhandledExceptionFilter
+SetupUE
+SetupUE Version 1.0
+Sichuan1
+Standard Edition
+Sunday
+System
+TerminateProcess
+Testid
+Thursday
+TlsAlloc
+TlsFree
+TlsGetValue
+TlsSetValue
+Tt1jhZ;
+Tuesday
+U5@D<Y</
+UQPXY]Y[
+URPQQhpt@
+USER32.dll
+UnhandledExceptionFilter
+Unknown exception
+Unknown operating system
+VVVVV
+VWj\^j:
+Vh rA
+Vh(\A
+Vh<\A
+VhDrA
+Vh\rA
+W'AMp?
+WWWPWS
+WaitForSingleObject
+Web Edition
+Wednesday
+WideCharToMultiByte
+Wj0XPV
+WkV21TSav^8{
+WorkStation 4.0
+WriteConsoleW
+WriteFile
+X0V0T
+YI7xj
+Y_[^]
+Y__^[
+[aOni*{
+]J<0"0i3
+^<V7w
+_4[Qh1c
+__based(
+__cdecl
+__clrcall
+__eabi
+__fastcall
+__pascal
+__ptr64
+__restrict
+__stdcall
+__swift_1
+__swift_2
+__thiscall
+__unaligned
+__vectorcall
+_cabs
+_hypot
+_logb
+_nextafter
+`.rdata
+`RTTI
+`copy constructor closure'
+`default constructor closure'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector constructor iterator'
+`eh vector copy constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`eh vector vbase copy constructor iterator'
+`h`hhh
+`local static guard'
+`local static thread guard'
+`local vftable constructor closure'
+`local vftable'
+`managed vector constructor iterator'
+`managed vector copy constructor iterator'
+`managed vector destructor iterator'
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`scalar deleting destructor'
+`string'
+`typeof'
+`udt returning'
+`vbase destructor'
+`vbtable'
+`vcall'
+`vector constructor iterator'
+`vector copy constructor iterator'
+`vector deleting destructor'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`vector vbase copy constructor iterator'
+`vftable'
+`virtual displacement map'
+a:m1&
+abcdefghijklmnopqrstuvwxyz
+advapi32
+af-ZA
+af-za
+api-ms-
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-synch-l1-2-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ar-AE
+ar-BH
+ar-DZ
+ar-EG
+ar-IQ
+ar-JO
+ar-KW
+ar-LB
+ar-LY
+ar-MA
+ar-OM
+ar-QA
+ar-SA
+ar-SY
+ar-TN
+ar-YE
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+atan2
+az-AZ-Cyrl
+az-AZ-Latn
+az-az-cyrl
+az-az-latn
+b wul
+bad allocation
+bad array new length
+bad exception
+be-BY
+be-by
+bg-BG
+bg-bg
+bn-IN
+bn-in
+bs-BA-Latn
+bs-ba-latn
+cOXY/P.Z0.0.QR00/ZPP0000000/0PPZR.BI@/DE0,
+ca-ES
+ca-es
+cs-CZ
+cs-cz
+cy-GB
+cy-gb
+da-DK
+da-dk
+dddd, MMMM dd, yyyy
+de-AT
+de-CH
+de-DE
+de-LI
+de-LU
+de-at
+de-ch
+de-de
+de-li
+de-lu
+div-MV
+div-mv
+e+000
+eLK(w
+el-GR
+el-gr
+en-AU
+en-BZ
+en-CA
+en-CB
+en-GB
+en-IE
+en-JM
+en-NZ
+en-PH
+en-TT
+en-US
+en-ZA
+en-ZW
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+es-AR
+es-BO
+es-CL
+es-CO
+es-CR
+es-DO
+es-EC
+es-ES
+es-GT
+es-HN
+es-MX
+es-NI
+es-PA
+es-PE
+es-PR
+es-PY
+es-SV
+es-UY
+es-VE
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+es-ve
+et-EE
+et-ee
+eu-ES
+eu-es
+ext-ms-
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+f9:t!V
+fa-IR
+fa-ir
+fi-FI
+fi-fi
+floor
+fo-FO
+fo-fo
+for Itanium-based Systems
+fr-BE
+fr-CA
+fr-CH
+fr-FR
+fr-LU
+fr-MC
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+frexp
+ft&9q
+gl-ES
+gl-es
+gu-IN
+gu-in
+he-IL
+he-il
+hi-IN
+hi-in
+hr-BA
+hr-HR
+hr-ba
+hr-hr
+http://ocsp.digicert.com0A
+http://ocsp.digicert.com0C
+http://ocsp.digicert.com0]
+hu-HU
+hu-hu
+hy-AM
+hy-am
+id-ID
+id-id
+invalid string position
+is-IS
+is-is
+it-CH
+it-IT
+it-ch
+it-it
+iu+-,
+j Y;E
+j"Xf9
+j"^f91j\^u8
+j"^f9q
+j0Xf;
+j:Xf;
+j:Zf;
+jAXf;
+jAZjX
+jA_f;
+jGYf;
+jPeNS
+jXXf;
+jYPQTVTSkllZTTXRTUiHceWda/
+jZXf;
+j\Zf;
+ja-jp
+jgYjG
+jjjjj
+k0i0$
+ka-GE
+ka-ge
+kernel32
+kk-KZ
+kk-kz
+kn-IN
+kn-in
+ko-KR
+ko-kr
+kok-IN
+kok-in
+kxXgMt
+ky-KG
+ky-kg
+ldexp
+log10
+lt-LT
+lt-lt
+lv-LV
+lv-lv
+m0k0$
+mi-NZ
+mi-nz
+mk-MK
+mk-mk
+ml-IN
+ml-in
+mn-MN
+mn-mn
+mr-IN
+mr-in
+ms-BN
+ms-MY
+ms-bn
+ms-my
+mscoree.dll
+mt-MT
+mt-mt
+n0l0-
+nan(ind)
+nan(snan)
+nb-NO
+nb-no
+nl-BE
+nl-NL
+nl-be
+nl-nl
+nn-NO
+nn-no
+ns-ZA
+ns-za
+ntdll.dll
+o84s[
+obwQ4
+okernel32.dll
+operator
+operator "" 
+operator co_await
+p\$x %
+pa-IN
+pa-in
+pl-PL
+pl-pl
+pt-BR
+pt-PT
+pt-br
+pt-pt
+pwwwwwwww
+pwwwwwwwwwwwwwwwp
+pxDDDDDDDDD@
+pxDDDDDDDDDDDDDDpx
+pxDDDDDDDDDH
+pxDDDDDDpx
+pxwwwwwwpxDDD
+pxwwwwwwwwwwwwwxpx
+q51o)
+quz-BO
+quz-EC
+quz-PE
+quz-bo
+quz-ec
+quz-pe
+restrict(
+ro-RO
+ro-ro
+ru-RU
+ru-ru
+sa-IN
+sa-in
+se-FI
+se-NO
+se-SE
+se-fi
+se-no
+se-se
+sk-SK
+sk-sk
+sl-SI
+sl-si
+sma-NO
+sma-SE
+sma-no
+sma-se
+smj-NO
+smj-SE
+smj-no
+smj-se
+smn-FI
+smn-fi
+sms-FI
+sms-fi
+sq-AL
+sq-al
+sr-BA-Cyrl
+sr-BA-Latn
+sr-SP-Cyrl
+sr-SP-Latn
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+string too long
+sv-FI
+sv-SE
+sv-fi
+sv-se
+sw-KE
+sw-ke
+syr-SY
+syr-sy
+t#Vh$eA
+t/j=[f;
+t0jXXf
+t4SWV
+tH9] uC
+ta-IN
+ta-in
+taj*Xf
+te-IN
+te-in
+th-TH
+th-th
+tn-ZA
+tn-za
+tr-TR
+tr-tr
+tsg1z
+tt-RU
+tt-ru
+u PWQR
+u0jAXf;
+ud_^[
+uk-UA
+uk-ua
+ur-PK
+ur-pk
+user32
+uz-UZ-Cyrl
+uz-UZ-Latn
+uz-uz-cyrl
+uz-uz-latn
+v2!L.2
+v=Y]Bv
+vector<T> too long
+vi-VN
+vi-vn
+wIPS3
+www.digicert.com1!0
+www.digicert.com1$0"
+wwwwwwwpx
+wwwwwwwwwwwwwwwpx
+x64 Edition
+xh-ZA
+xh-za
+xwpwpp
+zh-CHS
+zh-CHT
+zh-CN
+zh-HK
+zh-MO
+zh-SG
+zh-TW
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-ZA
+zu-za
+{|yvrrwsqpon
+|Lu?c
+}>qooggggggg1`_fhsnHK
+}zy|yx~
+~ $s%r
+~$+~8+
+~0WPQ
+~qj#k"
+~rZ*{
