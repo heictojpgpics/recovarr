@@ -107,3 +107,53 @@ Full volume listing: `inventory/mac-stub-hfs-filelist.txt`.
    ~/Applications to avoid privilege prompts entirely.
 5. The stub gatekeeps nothing — no DRM logic in the stub; the free/pro split
    happens server-side (edition flag) and in the product itself.
+
+---
+
+## Session 4 addendum (2026-10-16): stub app identified — via our own engine
+
+Re-verified on a fresh environment: re-downloaded the DMG, re-ran the
+UDIF reconstruction (0 decode problems, 51,200,000 bytes), parsed the
+GPT (1 partition: 'disk image' / Apple HFS+ GUID, sectors 40..99959),
+then implemented the full HFS+ engine in data-wizard-rs (dw-hfs) and
+scanned the volume with it.
+
+Empirical HFS+ facts recorded while building the engine (all validated
+against this volume, cross-cited to Apple hfs_format.h / TN1150):
+
+| Structure | Empirical finding |
+|---|---|
+| B-tree node kinds | leaf = 0xFF (-1), header node = 0x01 (NOT 1/2/3 as first assumed) |
+| Record types | folder = 1, file = 2, folder-thread = 3, file-thread = 4 |
+| Folder record data | 88 bytes (28 hdr/dates + 16 BSDInfo + 44 more) |
+| File record data | 248 bytes = the 88-byte base + dataFork(80)@88 + rsrcFork(80)@168 |
+| Record census | type1=28 (27 folders + root), type2=58 (= VH fileCount), type3/4 threads 28/58 |
+| Bitmap | LSB-first; free-run count vs header freeBlocks drifts by 1 block (tolerance documented) |
+| Mystery block | bytes 44..84 contain a Unix-epoch timestamp (0x67CFCC96 = 2025-05-28); not interpreted |
+
+**The stub app (the answer to the interrupted session-3 question):**
+
+`Data Recovery Wizard Installer.app` — a small Cocoa *downloader wizard*,
+NOT the recovery engine:
+
+```
+/Data Recovery Wizard Installer.app
+  Contents/MacOS/Data Recovery Wizard Installer   (executable)
+  Contents/Frameworks/libLog.dylib
+  Contents/Info.plist, PkgInfo
+  Contents/Log/log_config.json                    (634 B — downloader config)
+  Contents/Resources/
+    ZZ{First,Second,Third}ViewCtl.nib, ZZMessageWinCtl.nib  (Cocoa UI)
+    iFirst/iSecond_01-04/iThird/iNetErr/iWarnning(.png|@2x), datarecovery_bkg@2x.png
+    ~22 x <lang>.lproj/Localizable.strings        (22 languages)
+/.background/datarecovery_bkg@2x.png, .VolumeIcon.icns, .DS_Store
+/EULA and Privacy Policy.pdf
+```
+
+Conclusion: the DMG ships only the installer/downloader shell; the real
+DRW engine for macOS is fetched by it at install time (mirrors the
+Windows NSIS stub = EaseUS Download Manager v2.0.0 finding).
+
+Toolchain note: the HFS+ work was done with dw-hfs (our Rust engine) +
+python for empirical layout dumps — no proprietary code, icons or
+strings entered any repository; only structural facts.
