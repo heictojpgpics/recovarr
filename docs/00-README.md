@@ -21,6 +21,7 @@ it is binding for every agent working here.**
 | 08 | `08-ux-flows.md` | Wizard flow, screens, states, UX patterns worth matching | pending |
 | 09 | `09-findings-log.md` | Dated findings feed, newest last | live |
 | 10 | `10-open-questions.md` | Open questions and how to resolve each | live |
+| 11 | `11-mac-downloader-analysis.md` | Mac DMG = downloader stub; UDIF/HFS+ formats; downloader+telemetry architecture | final |
 
 ## Where raw data lives
 
