@@ -66,3 +66,32 @@ Next session:
 5. Feature matrix research from public docs (free vs pro).
 6. Project repo creation pending rotated GitHub token from user (old one exposed in
    chat twice; user instructed to revoke).
+
+---
+
+## 2026-10-15 — Session 2: PE deep analysis, strings intelligence, RCC/UI map, repo live
+
+- Created public repo github.com/heictojpgpics/recovarr; pushed research phase 1+2 (metadata
+  only, no third-party binaries — .gitignore guards).
+- Toolchain: pefile 2024.8.26 (pip --break-system-packages); apt still unavailable (no root).
+- scripts/pe_deep_analysis.py: full import/export/section/entropy/PDB sweep of 535 PEs →
+  inventory/pe-analysis.json (18 MB) + summary md.
+- scripts/strings_sweep.py + classify_strings.py: 29 binaries swept, classified.json rollup.
+- scripts/parse_rcc.py: Qt RCC v3 parser per public qresource.cpp format — 3,722 assets,
+  128 UI dirs mapped (rcc-resource-tree.txt). DRWUI = Qt Widgets (corrected session-1 note).
+- Key architecture results: engine factory contract (Quick/Full per FS), BitLocker pipe
+  service, kernel drivers, RTTI carver hierarchy, raw_signs.json schema, WinPE shared
+  platform, monetization/upsell map, NAS vendor fingerprints, IPC map, PDB build-tree leak.
+- .rsf session container structure documented (contents = third-party personal data; not
+  republished).
+- Docs rewritten/expanded: 04 (architecture, incl. Recovarr target v0), 05 (capability
+  matrix), 07 (scan engine), 08 (UX flows), 09 (+16 findings).
+
+Next session:
+1. Mac dmg stub app analysis (Cocoa installer — downloader vs full, version intel).
+2. Public docs feature-matrix research (free vs pro tiers of reference product).
+3. Recovarr architecture v0 expansion into ADRs; cargo workspace scaffold decision.
+4. DRW.exe/DRWLoader bootstrapper chain + EuDownloader detail pass.
+5. Dict/ assets + PartitionRecovery repair tooling detail pass.
+6. Optional: disassembly-level verification pass on engine entry points (r2/ghidra if
+   installable) to confirm interface signatures for our trait design.
